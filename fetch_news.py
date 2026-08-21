@@ -8,9 +8,9 @@
 または前提としているサイトのみを選定しています):
 
   - 4Gamer.net (注目記事)   https://www.4gamer.net/rss/news_topics.xml
-  - ファミ通.com            https://www.famitsu.com/rss/fcom_all.rdf
-  - GameSpark               https://www.gamespark.jp/rss/index.rdf
-  - コミックナタリー(アニメ/マンガ) https://natalie.mu/comic/feed/news
+  - AUTOMATON                https://automaton-media.com/feed/
+  - GameSpark                https://www.gamespark.jp/rss/index.rdf
+  - アニメ!アニメ!(アニメ)  https://animeanime.jp/rss/index.rdf
 
 出力される threads.json はサイト本文をコピーせず、
 「タイトル・リンク・出典名」のみを保持します(見出しの要約紹介)。
@@ -32,7 +32,7 @@ FEEDS = [
     ("https://www.4gamer.net/rss/news_topics.xml", "game", "4Gamer", 4),
     ("https://automaton-media.com/feed/", "game", "AUTOMATON", 4),
     ("https://www.gamespark.jp/rss/index.rdf", "game", "GameSpark", 3),
-    ("https://natalie.mu/comic/feed/news", "anime", "コミックナタリー", 4),
+    ("https://animeanime.jp/rss/index.rdf", "anime", "アニメ!アニメ!", 4),
 ]
 
 MAX_TOTAL = 12
