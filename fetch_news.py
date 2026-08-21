@@ -30,14 +30,21 @@ from datetime import datetime, timezone
 # (フィードURL, カテゴリ, 出典名, 1フィードあたりの最大取得件数)
 FEEDS = [
     ("https://www.4gamer.net/rss/news_topics.xml", "game", "4Gamer", 4),
-    ("https://www.famitsu.com/rss/fcom_all.rdf", "game", "ファミ通.com", 4),
+    ("https://automaton-media.com/feed/", "game", "AUTOMATON", 4),
     ("https://www.gamespark.jp/rss/index.rdf", "game", "GameSpark", 3),
     ("https://natalie.mu/comic/feed/news", "anime", "コミックナタリー", 4),
 ]
 
 MAX_TOTAL = 12
 OUTPUT_PATH = "threads.json"
-USER_AGENT = "AniGeMatomeBot/1.0 (+https://heartfelt-taiyaki-7783f9.netlify.app/about.html)"
+REQUEST_TIMEOUT = 30
+# 一部サイトは "ボットらしいUser-Agent" を弾くため、一般的なブラウザに
+# 近い名乗り方にしておく(取得するのは見出し+リンクのみ)。
+USER_AGENT = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 "
+    "AniGeMatomeBot/1.0 (+https://heartfelt-taiyaki-7783f9.netlify.app/about.html)"
+)
 
 NS_STRIP = re.compile(r"\{.*\}")
 
@@ -47,8 +54,14 @@ def local_tag(elem):
 
 
 def fetch_xml(url):
-    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-    with urllib.request.urlopen(req, timeout=20) as resp:
+    req = urllib.request.Request(
+        url,
+        headers={
+            "User-Agent": USER_AGENT,
+            "Accept": "application/rss+xml, application/xml, text/xml, */*",
+        },
+    )
+    with urllib.request.urlopen(req, timeout=REQUEST_TIMEOUT) as resp:
         return resp.read()
 
 
