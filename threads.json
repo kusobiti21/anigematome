@@ -1,26 +1,33 @@
 {
-  "updated_at": "2026-08-16T21:40:00+09:00",
+  "updated_at": "2026-08-21T10:25:50+00:00",
   "threads": [
     {
-      "id": "1",
-      "title": "「キングダムハーツ4」最新PV公開、まさかの『リメンバー・ミー』の世界に驚愕の声",
-      "url": "article1.html",
+      "title": "「マビノギモバイル」，公式番組を8月24日20：00より配信。最新映像の公開に加えて，実機プレイで魅力を紹介",
+      "url": "https://www.4gamer.net/games/387/G038732/20260821047/",
       "category": "game",
-      "source": "アニゲーまとめ！"
+      "source": "4Gamer",
+      "id": "1"
     },
     {
-      "id": "2",
-      "title": "今期アニメ視聴ランキング、「転スラ」首位に返り咲き「おっさん剣聖」急上昇で3位に",
-      "url": "article2.html",
-      "category": "anime",
-      "source": "アニゲーまとめ！"
+      "title": "それっぽいモンスターを描いて戦わせるお絵描きバトルゲーム「AIドット絵バトル」，Steamで配信開始",
+      "url": "https://www.4gamer.net/games/960/G096009/20260821046/",
+      "category": "game",
+      "source": "4Gamer",
+      "id": "2"
     },
     {
-      "id": "3",
-      "title": "「Apex Legends」新シーズン『Marked』開始、ブラッドハウンド大幅リワークに賛否",
-      "url": "article3.html",
+      "title": "「STRANGER THAN HEAVEN」，TGS 2026のステージに出演するゲスト情報が公開に。宇梶剛士さんや大塚明夫さん，ケニー・オメガ選手らが出演",
+      "url": "https://www.4gamer.net/games/865/G086590/20260821044/",
       "category": "game",
-      "source": "アニゲーまとめ！"
+      "source": "4Gamer",
+      "id": "3"
+    },
+    {
+      "title": "「ツーポイントミュージアム」，「Cult of the Lamb」とのコラボコンテンツを無料アップデートで配信開始。教団を築いて博物館を発展させよう",
+      "url": "https://www.4gamer.net/games/828/G082821/20260821043/",
+      "category": "game",
+      "source": "4Gamer",
+      "id": "4"
     }
   ]
 }
