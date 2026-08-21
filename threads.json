@@ -1,82 +1,89 @@
 {
-  "updated_at": "2026-08-21T11:02:58+00:00",
+  "updated_at": "2026-08-21T11:32:58+00:00",
   "threads": [
+    {
+      "title": "「新約・怒首領蜂大復活」，8月27日にSteamで発売決定。最大10人で戦う「弾幕対戦モード ロワイヤル」を搭載",
+      "url": "https://www.4gamer.net/games/997/G099714/20260821051/",
+      "category": "game",
+      "source": "4Gamer",
+      "id": "1"
+    },
+    {
+      "title": "小さな寿司レストランを浜辺の人気店へと成長させる，最大5人協力経営シミュレーション「Deep Blue Sushi」，早期アクセス版を配信開始",
+      "url": "https://www.4gamer.net/games/035/G103522/20260821056/",
+      "category": "game",
+      "source": "4Gamer",
+      "id": "2"
+    },
     {
       "title": "「にじさんじ」×第四境界コラボARG「PARALLEL CASE: 2434」第1弾「CASE 01：ましろ爻の記録」を本日リリース",
       "url": "https://www.4gamer.net/games/007/G100715/20260821039/",
       "category": "game",
       "source": "4Gamer",
-      "id": "1"
+      "id": "3"
     },
     {
       "title": "20年間にわたりドラゴンに食事を捧げるローグライトストラテジー「Feed the Scorchpot」，Steamで配信開始",
       "url": "https://www.4gamer.net/games/034/G103470/20260821050/",
       "category": "game",
       "source": "4Gamer",
-      "id": "2"
-    },
-    {
-      "title": "モザイク加工で重要な部分を隠し，ごく普通の写真を大ヒットニュースに仕立てる。ブラックユーモアの効いたADV「MASK IT」，Steamストアページが公開に",
-      "url": "https://www.4gamer.net/games/035/G103533/20260821049/",
-      "category": "game",
-      "source": "4Gamer",
-      "id": "3"
-    },
-    {
-      "title": "物理演算マージパズル×デッキ構築型ローグライト「Helcast（ヘルキャスト）」，早期アクセス版を2027年第1四半期にSteamでリリース",
-      "url": "https://www.4gamer.net/games/035/G103532/20260821045/",
-      "category": "game",
-      "source": "4Gamer",
       "id": "4"
+    },
+    {
+      "title": "「平均的なゲーマーなどもはや存在しない」との大規模分析。好みはどんどん細分化、“万人ウケ狙い”は厳しい時代に",
+      "url": "https://automaton-media.com/articles/newsjp/20260821-461861/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "5"
     },
     {
       "title": "街オープンワールド『NTE』の新物件「閑野雅邸」が“立地のわりに高すぎる”となぜか生々しい評価受ける。本当に微妙物件なのか？プロの不動産屋に訊いてみた",
       "url": "https://automaton-media.com/articles/columnjp/20260821-461794/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "5"
+      "id": "6"
     },
     {
       "title": "注目の自作カードバトル『Card Make Arena』では「シャカパチ」もできる。相手には見えない“バーチャルシャカパチ”し放題",
       "url": "https://automaton-media.com/articles/newsjp/20260821-461805/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "6"
+      "id": "7"
     },
     {
       "title": "ITサポート地獄ゲーム『I.T. Never Ends』に「本職エンジニアさながらのバグ報告」が来て開発者たまげる。原因不明バグの特定から修正コードまで、プレイヤーがITに詳しすぎる",
       "url": "https://automaton-media.com/articles/newsjp/20260821-461750/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "7"
+      "id": "8"
     },
     {
-      "title": "見下ろし“『S.T.A.L.K.E.R.』風”終末世界サバイバル『Scavland』、9月5日より早期アクセス配信へ。荒野のその日暮らしでは、「派閥」との付き合いも大事",
-      "url": "https://automaton-media.com/articles/newsjp/scavland-20260821-461718/",
+      "title": "マウスのみで操作し熱く、速く、残虐に敵を倒せ！見下ろしACT『DAWN ONE』Steamにてリリース",
+      "url": "http://www.gamespark.jp/article/2026/08/21/171057.html",
       "category": "game",
-      "source": "AUTOMATON",
-      "id": "8"
+      "source": "GameSpark",
+      "id": "9"
+    },
+    {
+      "title": "フロム新作『The Duskbloods』ネットワークテスト開始早々、ログインしづらい問題報告―公式も対策中、問題の解消まで今しばらくの辛抱",
+      "url": "http://www.gamespark.jp/article/2026/08/21/171056.html",
+      "category": "game",
+      "source": "GameSpark",
+      "id": "10"
     },
     {
       "title": "最大4人で即席建築、仲間をも吹き飛ばす物理演算ドタバタ協力ゲーム『Dumb Ways to Build』9月10日配信―建築スキルと友情を極限まで試す",
       "url": "http://www.gamespark.jp/article/2026/08/21/171055.html",
       "category": "game",
       "source": "GameSpark",
-      "id": "9"
-    },
-    {
-      "title": "『マビノギ』IPの世界を継承・再構築したオンラインRPG『マビノギモバイル』公式番組8月24日20時配信！ちゅうにー、樋口楓ら出演で最新映像＆初公開情報が続々",
-      "url": "http://www.gamespark.jp/article/2026/08/21/171054.html",
-      "category": "game",
-      "source": "GameSpark",
-      "id": "10"
-    },
-    {
-      "title": "『FF14』でお馴染みのクエストアイコンが“ミニランプ”に！ユニークすぎるアイテムがプライズで展開",
-      "url": "http://www.gamespark.jp/article/2026/08/21/171053.html",
-      "category": "game",
-      "source": "GameSpark",
       "id": "11"
+    },
+    {
+      "title": "初の水着カットも！ 声優・月音こなの1st写真集「ひととき」発売決定！「私の今の魅力をぎゅっと詰め込んでいます」【12月9日（水）発売】",
+      "url": "https://animeanime.jp/article/2026/08/21/102245.html",
+      "category": "anime",
+      "source": "アニメ!アニメ!",
+      "id": "12"
     }
   ]
 }
