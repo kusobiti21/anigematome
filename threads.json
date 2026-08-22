@@ -1,86 +1,86 @@
 {
-  "updated_at": "2026-08-22T07:20:44+00:00",
+  "updated_at": "2026-08-22T09:02:35+00:00",
   "threads": [
+    {
+      "title": "「機動戦士ガンダム EXVS.2 IB」，新機体「ガンダムアシュタロン・ハーミットクラブ」と「ブラックナイトスコード カルラ」が参戦決定",
+      "url": "https://www.4gamer.net/games/880/G088098/20260820050/",
+      "category": "game",
+      "source": "4Gamer",
+      "id": "1"
+    },
+    {
+      "title": "週刊Steam広場 第167号：ラヴクラフトなサバイバルホラー「The Sinking City 2」や，アクションRPG「Mortal Shell II」が発売に",
+      "url": "https://www.4gamer.net/games/038/G003821/20260822003/",
+      "category": "game",
+      "source": "4Gamer",
+      "id": "2"
+    },
     {
       "title": "「エピックセブン」，Steam版を2026年内にリリース＆新規サーバーも開設決定。ウィッシュリスト追加イベントなど，4つのイベントを開催",
       "url": "https://www.4gamer.net/games/035/G103540/20260822002/",
       "category": "game",
       "source": "4Gamer",
-      "id": "1"
+      "id": "3"
     },
     {
       "title": "映画「オデュッセイア」を一足先に観た！  “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える",
       "url": "https://www.4gamer.net/games/991/G999102/20260821024/",
       "category": "game",
       "source": "4Gamer",
-      "id": "2"
-    },
-    {
-      "title": "TVアニメ「Fate/strange Fake」，新シリーズ制作決定。キービジュアルと告知トレイラー公開",
-      "url": "https://www.4gamer.net/games/266/G026651/20260822001/",
-      "category": "game",
-      "source": "4Gamer",
-      "id": "3"
-    },
-    {
-      "title": "［プレゼント］A賞はMSIの携帯型ゲームPC「Claw 8 AI+ A2VM」。Alienwareのウルトラワイドゲーミングディスプレイなども当たるプレゼント企画を実施中",
-      "url": "https://www.4gamer.net/games/999/G999905/20260821012/",
-      "category": "game",
-      "source": "4Gamer",
       "id": "4"
+    },
+    {
+      "title": "注目のモンスター娘恋愛RPG『Rizz Dungeon: Skeleton Key to My Heart』、2027年へ発売延期。“開発資金に余裕ができた”前向きの延期、妥協せずめっちゃ磨き上げる",
+      "url": "https://automaton-media.com/articles/newsjp/rizz-dungeon-20260822-461960/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "5"
     },
     {
       "title": "Steamにおける“売れるジャンル”、ずっとサンドボックスが強い説。「10万本分」のデータから見る、Steamでの売れ筋分析",
       "url": "https://automaton-media.com/articles/newsjp/20260821-461710/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "5"
+      "id": "6"
     },
     {
       "title": "最大4人対戦・超自由剣戟決闘アクション『Gladio Mori』9月16日正式リリースへ。常識にとらわれない、奇怪自由モーション戦士を作ってバトル",
       "url": "https://automaton-media.com/articles/newsjp/20260822-461951/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "6"
+      "id": "7"
     },
     {
       "title": "『七つの大罪：Origin』、次回大型アプデでついに「バン」登場で＜七つの大罪＞そろい踏み。新ソロ向けコンテンツなど、追加どっさりの0.5周年記念アプデ",
       "url": "https://automaton-media.com/articles/newsjp/20260822-461944/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "7"
-    },
-    {
-      "title": "小島秀夫監督の著書を読んだ。自分はどんなゲームでできているのか？eスポーツキャスターが考えてみた",
-      "url": "https://automaton-media.com/articles/columnjp/20260822-461698/",
-      "category": "game",
-      "source": "AUTOMATON",
       "id": "8"
     },
     {
-      "title": "【最大70%オフ】『バニーガーデン』のqureate作品がSteamにてセール中！最新作『東京ワルキューレ』や『バニーガーデン2』、『プリズンプリンセス』など",
-      "url": "http://www.gamespark.jp/article/2026/08/22/171089.html",
+      "title": "「最も心に響いたのは、退役軍人の方々からいただいたフィードバック」砲撃SLG『IRON NEST: Heavy Turret Simulator』【開発者インタビュー】",
+      "url": "http://www.gamespark.jp/article/2026/08/22/171094.html",
       "category": "game",
       "source": "GameSpark",
       "id": "9"
     },
     {
-      "title": "「サイバーパンク: エッジランナーズ2」最新映像、“水たまりの反射”から撮影場所を割り出すファン現る―公式もチューマ呼びで称賛",
-      "url": "http://www.gamespark.jp/article/2026/08/22/171088.html",
+      "title": "初報から9年かかった『イナズマイレブン 英雄たちのヴィクトリーロード』実質的な開発期間は「3年弱」だった。“物語の続き”にも言及したシリーズ18周年記念・日野晃博氏メッセージ公開",
+      "url": "http://www.gamespark.jp/article/2026/08/22/171093.html",
       "category": "game",
       "source": "GameSpark",
       "id": "10"
     },
     {
-      "title": "ダークファンタジーPvPvE『Mistfall Hunter』“頻繁なチーミング行為”も処罰対象に。80％以上のプレイヤーが「対象にするべき」と意見",
-      "url": "http://www.gamespark.jp/article/2026/08/22/171087.html",
+      "title": "【お知らせ】ゲーマーのためのトーク番組「Game*Sparkのラジオ善意X」8月22日22時より放送！",
+      "url": "http://www.gamespark.jp/article/2026/08/22/171092.html",
       "category": "game",
       "source": "GameSpark",
       "id": "11"
     },
     {
-      "title": "ホラー漫画「富江」がUSJ降臨☆ サンリオキャラは“こわかわ”仮装で大変身!? ハロウィーンはUSJが熱い！",
-      "url": "https://animeanime.jp/article/2026/08/22/102266.html",
+      "title": "くまのぬいぐるみもデザイン♪ 「新機動戦記ガンダムW」デフォルメされたキャラが可愛い…！ Tシャツ＆ミニバッグ＆アクリルキーホルダーが登場",
+      "url": "https://animeanime.jp/article/2026/08/22/102272.html",
       "category": "anime",
       "source": "アニメ!アニメ!",
       "id": "12"
