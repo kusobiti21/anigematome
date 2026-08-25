@@ -1,30 +1,30 @@
 {
-  "updated_at": "2026-08-25T14:28:17+00:00",
+  "updated_at": "2026-08-25T17:03:46+00:00",
   "threads": [
+    {
+      "title": "「DLSS 4.5」のRay Reconstructionがパワーアップ。RTX SparkやAI技術「NVIDIA ACE」などNVIDIAがGeForce最新情報を明らかに",
+      "url": "https://www.4gamer.net/games/022/G002210/20260824033/",
+      "category": "game",
+      "source": "4Gamer",
+      "id": "1"
+    },
     {
       "title": "4人協力型トップダウンSTG「DarkSwarm」，それぞれ異なる能力を持ったクラスを紹介する最新トレイラーを公開",
       "url": "https://www.4gamer.net/games/036/G103611/20260825050/",
       "category": "game",
       "source": "4Gamer",
-      "id": "1"
+      "id": "2"
     },
     {
       "title": "映画「バックルームズ」，日本語吹き替え版の上映が決定。諏訪部順一さん，小松未可子さん，石川界人さんらが出演",
       "url": "https://www.4gamer.net/games/991/G999102/20260825048/",
       "category": "game",
       "source": "4Gamer",
-      "id": "2"
+      "id": "3"
     },
     {
       "title": "みんなで隠したアヒルを探し出す，もの隠しパーティゲーム「Duck Duck Gone」のデモ版が配信開始",
       "url": "https://www.4gamer.net/games/036/G103606/20260825049/",
-      "category": "game",
-      "source": "4Gamer",
-      "id": "3"
-    },
-    {
-      "title": "猫たちを撮影して，アカウントを大きくしていくインクリメンタルゲーム「Snap the Cat」，Steamで配信開始",
-      "url": "https://www.4gamer.net/games/036/G103605/20260825040/",
       "category": "game",
       "source": "4Gamer",
       "id": "4"
@@ -58,22 +58,22 @@
       "id": "8"
     },
     {
-      "title": "ホラーでグロテスクな『塊魂』系アーケードアクション『ROLLA』10月1日発売。しぶとい人類の抵抗に負けず立派に育て！",
-      "url": "http://www.gamespark.jp/article/2026/08/25/171220.html",
+      "title": "【最大10人協力】石器時代サバイバル『Polylithic』正式リリース！部族を率いて狩りや農業をこなし過酷な世界で生きのびよう",
+      "url": "http://www.gamespark.jp/article/2026/08/26/171228.html",
       "category": "game",
       "source": "GameSpark",
       "id": "9"
     },
     {
-      "title": "「赤いモヤ」でも注目集めていた『日本事故物件監視協会』シリーズ公式Xが2日後に“重大な”発表があると予告",
-      "url": "http://www.gamespark.jp/article/2026/08/25/171219.html",
+      "title": "PC版は9月3日午前7時！『ウィッチャー3』元開発者達による吸血鬼ARPG『The Blood of Dawnwalker』リリーススケジュール公開",
+      "url": "http://www.gamespark.jp/article/2026/08/26/171227.html",
       "category": "game",
       "source": "GameSpark",
       "id": "10"
     },
     {
-      "title": "NPCがそれぞれの人生を送る広大な世界を自由に冒険するドット絵オープンワールドRPG『World of Anterra』Steamウィッシュリスト15万件突破を報告",
-      "url": "http://www.gamespark.jp/article/2026/08/25/171218.html",
+      "title": "多元宇宙舞台の脱出ミリタリーシューター『Active Matter』9月15日正式発売決定―『War Thunder』『Enlisted』のGaijin Network新作",
+      "url": "http://www.gamespark.jp/article/2026/08/26/171226.html",
       "category": "game",
       "source": "GameSpark",
       "id": "11"
