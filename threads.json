@@ -1,86 +1,86 @@
 {
-  "updated_at": "2026-08-26T12:00:41+00:00",
+  "updated_at": "2026-08-26T16:36:57+00:00",
   "threads": [
+    {
+      "title": "放置系ダンジョンRPG「Horripilant」，家庭用ゲーム機版がリリース。PS5，XBOX Series X|S，Switchで楽しめる",
+      "url": "https://www.4gamer.net/games/036/G103658/20260826083/",
+      "category": "game",
+      "source": "4Gamer",
+      "id": "1"
+    },
+    {
+      "title": "「メイプルストーリー クラシックワールド」，グローバル版を10月21日にリリース決定",
+      "url": "https://www.4gamer.net/games/036/G103661/20260826094/",
+      "category": "game",
+      "source": "4Gamer",
+      "id": "2"
+    },
     {
       "title": "時間と空間が歪む世界で異常物質を巡って争うPvPvE脱出シューター「Active Matter」，9月15日にリリース決定",
       "url": "https://www.4gamer.net/games/852/G085261/20260826092/",
       "category": "game",
       "source": "4Gamer",
-      "id": "1"
+      "id": "3"
     },
     {
       "title": "「Assetto Corsa EVO」，アップデートVer.0.9配信開始。Audi R8 LMS GT2，Audi R8 V10 performance quattro，Mazda RX-7 FD Spirit Rを追加",
       "url": "https://www.4gamer.net/games/813/G081347/20260826090/",
       "category": "game",
       "source": "4Gamer",
-      "id": "2"
-    },
-    {
-      "title": "投資低迷の時代をインディー開発者はいかに生き抜くか。「新たなリスクマトリクス」と実践的生存戦略［gamescom］",
-      "url": "https://www.4gamer.net/games/991/G999104/20260826089/",
-      "category": "game",
-      "source": "4Gamer",
-      "id": "3"
-    },
-    {
-      "title": "［プレイレポ］「ロックマン：デュアル オーバーライド」gamescom出展バージョンをプレイ。華やかな美少女ボス，新たな切り札「オーバーライド」で戦いはさらに激しく！",
-      "url": "https://www.4gamer.net/games/968/G096894/20260826078/",
-      "category": "game",
-      "source": "4Gamer",
       "id": "4"
+    },
+    {
+      "title": "Xbox、「ディスク版デジタル化機能」を正式発表。ディスクのゲームを本体に入れると、デジタル利用権が付与される",
+      "url": "https://automaton-media.com/articles/newsjp/xbox-20260827-463267/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "5"
+    },
+    {
+      "title": "『エルデンリング』Nintendo Switch 2での動作検証をしてみた。ちゃんと動く",
+      "url": "https://automaton-media.com/articles/columnjp/20260826-463250/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "6"
+    },
+    {
+      "title": "リーカーによる『グランド・セフト・オートVI（GTA 6）』映像流出を受けて、Rockstar Gamesが悲しみの声明。無念を伝えつつ、「期待に応えるものを届ける」と決意示す",
+      "url": "https://automaton-media.com/articles/newsjp/20260826-463243/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "7"
     },
     {
       "title": "“治安終わってる大阪”自由ライフシム『ナニワアンダーグラウンド』Steamにてお披露目。犯罪都市と化した大阪、強盗・闇バイトなど生き方は自由",
       "url": "https://automaton-media.com/articles/newsjp/20260826-463235/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "5"
-    },
-    {
-      "title": "高速ウサ耳娘ショットガン乱射ゲーム『CICADAMATA”』、好評率97％のまま大ブレイク中。“令和のジャンピングフラッシュ！”的やみつき銃撃空中疾走",
-      "url": "https://automaton-media.com/articles/newsjp/20260826-463227/",
-      "category": "game",
-      "source": "AUTOMATON",
-      "id": "6"
-    },
-    {
-      "title": "『ロックマン: デュアル オーバーライド』先行プレイ感想。前作「ダブルギアシステム」から一新、シリーズの“ツボ”を押さえた正統進化",
-      "url": "https://automaton-media.com/articles/impressionjp/20260826-462291/",
-      "category": "game",
-      "source": "AUTOMATON",
-      "id": "7"
-    },
-    {
-      "title": "再生してはいけない動画ホラーゲーム『たろうくんはいってきました』8月28日配信へ。失踪した配信者を“動画内”で操作、コメント欄も頼りに真相に迫る",
-      "url": "https://automaton-media.com/articles/newsjp/20260826-463209/",
-      "category": "game",
-      "source": "AUTOMATON",
       "id": "8"
     },
     {
-      "title": "『ウィッチャー3』現行機版アップグレードと新リマスター版無料アップデートの違いに注意！PS4、スイッチ版はアップグレード価格100円",
-      "url": "http://www.gamespark.jp/article/2026/08/26/171296.html",
+      "title": "『トゥームレイダー：レガシー・オブ・アトランティス』最新ゲームプレイ映像！華麗な二丁拳銃アクションやT-REXとのチェイスシーンも【XBOX@gamescom】",
+      "url": "http://www.gamespark.jp/article/2026/08/27/171315.html",
       "category": "game",
       "source": "GameSpark",
       "id": "9"
     },
     {
-      "title": "『キングダム ハーツ』25周年記念展覧会が2027年2月に開催決定！ キーブレードのレプリカ展示や名シーンのフォトスポットなど、シリーズの軌跡を感じられる内容に",
-      "url": "http://www.gamespark.jp/article/2026/08/26/171295.html",
+      "title": "ディスク所有でデジタル版も手に入る！Xbox新機能が発表、大半のXbox One＆Series X向けソフトが対象に【XBOX@gamescom】",
+      "url": "http://www.gamespark.jp/article/2026/08/27/171314.html",
       "category": "game",
       "source": "GameSpark",
       "id": "10"
     },
     {
-      "title": "『ロックマン: デュアル オーバーライド』先行試遊レポ。敵も味方も「オーバーライド」で起死回生！「チップセット」でのカスタマイズ要素も登場する8年ぶり最新作",
-      "url": "http://www.gamespark.jp/article/2026/08/26/171294.html",
+      "title": "『ペルソナ4 リバイバル』ストーリートレイラー公開。リメイクに相応しい懐かしさと新しさを表現【XBOX@gamescom】",
+      "url": "http://www.gamespark.jp/article/2026/08/27/171313.html",
       "category": "game",
       "source": "GameSpark",
       "id": "11"
     },
     {
-      "title": "まんまるなミニーが可愛すぎ♪ ディズニーキャラがマシュマロみたいになった「きゃらマロ Disney」ロッツォやスティッチ、ヴァネロペらがラインナップ",
-      "url": "https://animeanime.jp/article/2026/08/26/102404.html",
+      "title": "“声優界NO.1グラビアン”井口裕香が表紙を飾る！ カラフル&ビビッドな水着姿を披露した「ヤンジャン」発売",
+      "url": "https://animeanime.jp/article/2026/08/27/102406.html",
       "category": "anime",
       "source": "アニメ!アニメ!",
       "id": "12"
