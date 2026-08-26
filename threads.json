@@ -1,86 +1,86 @@
 {
-  "updated_at": "2026-08-26T03:34:38+00:00",
+  "updated_at": "2026-08-26T05:20:06+00:00",
   "threads": [
     {
-      "title": "PS5＆XBOX Series X|S版「Once Human」の配信が開始。10月には「オーシャン編 大型アップデート: 禁断の島」も登場",
-      "url": "https://www.4gamer.net/games/926/G092653/20260826042/",
+      "title": "少女の身体を巡る“本物の魂”を対話で見極めるADV「UN:Me」，4つの魂のうち「魂I」「魂III」の詳細を公開",
+      "url": "https://www.4gamer.net/games/967/G096772/20260826053/",
       "category": "game",
       "source": "4Gamer",
       "id": "1"
     },
     {
-      "title": "クリーチャー収集型オープンワールドRPG「アニモ」，9月16日にPC，PS5，XBOX Series X|S向けに配信決定。最新トレイラーを公開",
-      "url": "https://www.4gamer.net/games/918/G091819/20260826039/",
+      "title": "「デッドアカウント〜二つの蒼い炎〜」，ブランドサイトを開設。主人公「縁城蒼吏」の物語や作品の世界観を描くPVも解禁",
+      "url": "https://www.4gamer.net/games/952/G095270/20260825031/",
       "category": "game",
       "source": "4Gamer",
       "id": "2"
     },
     {
-      "title": "「週刊VTuberファイル」File.135：黒花蘭【ゆにれいど！】",
-      "url": "https://www.4gamer.net/games/873/G087359/20250605083/",
+      "title": "ASUSの「ROG」設立20周年記念のディスプレイやマウスが発表。eスポーツ特化型の有機ELディスプレイに注目だ",
+      "url": "https://www.4gamer.net/games/047/G004755/20260826037/",
       "category": "game",
       "source": "4Gamer",
       "id": "3"
     },
     {
-      "title": "「モンスターハンターアウトランダーズ」，新モンスター「ルガ・エアルダ」の映像を初公開。App StoreとGoogle Playで事前登録の受付を開始",
-      "url": "https://www.4gamer.net/games/667/G066758/20260826035/",
+      "title": "小さなオムライス屋を営むも，世界経済の荒波に揉まれ経営危機に。経営シムローグライト「Fuwa! Fuwa! Omurice Simulator Roguelite」発表，体験版も準備中",
+      "url": "https://www.4gamer.net/games/036/G103641/20260826048/",
       "category": "game",
       "source": "4Gamer",
       "id": "4"
+    },
+    {
+      "title": "「デッドアカウント」ローグライトACTゲーム化、『デッドアカウント～二つの蒼い炎～』リリースに向け本格始動。初トレイラーお披露目＆事前登録始まる",
+      "url": "https://automaton-media.com/articles/newsjp/20260826-462991/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "5"
+    },
+    {
+      "title": "Steam版『アークナイツ：エンドフィールド』“期間限定”プレイテスト実施へ、報酬付き。さっそく参加者募集始まる",
+      "url": "https://automaton-media.com/articles/newsjp/20260826-462987/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "6"
+    },
+    {
+      "title": "“Godot Engineのエキスパート”W4 Games、テンセント主導で「約28億円」調達成功。強力タッグでアジアでのGodot勢力圏拡大へ",
+      "url": "https://automaton-media.com/articles/newsjp/20260826-462983/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "7"
     },
     {
       "title": "五感研ぎ澄ます探索サイコホラー『Perceptum』、2027年春リリースへ。目を閉じて聞き鏡で真実を映して、 “一家全員失踪”の怪事件を追う",
       "url": "https://automaton-media.com/articles/newsjp/20260826-462978/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "5"
-    },
-    {
-      "title": "『昭和米国物語』は“狂ってるのに正統派”。バトルは本格、悪ふざけも本気、脳がついていけない「昭和アメリカ」先行プレイ",
-      "url": "https://automaton-media.com/articles/reportjp/20260826-462922/",
-      "category": "game",
-      "source": "AUTOMATON",
-      "id": "6"
-    },
-    {
-      "title": "終末世界生き残り・戦車改造探索アクション『TankRat』、来年1月15日リリースへ。敵のマシンからパーツをいただき、崩壊世界でどんどん強くなる",
-      "url": "https://automaton-media.com/articles/newsjp/20260826-462971/",
-      "category": "game",
-      "source": "AUTOMATON",
-      "id": "7"
-    },
-    {
-      "title": "次なるモンスター育成大型オープンワールド『ロコキングダム』正式発表。学校・旅・スローライフ・協力マルチ・PvPまで、ドカ盛り人気作が日本上陸へ",
-      "url": "https://automaton-media.com/articles/newsjp/20260826-462962/",
-      "category": "game",
-      "source": "AUTOMATON",
       "id": "8"
+    },
+    {
+      "title": "最大4人協力型サバイバルTPS『エイリアン：ファイアーチーム エリート 2』配信開始！各クラスの能力を駆使しゼノモーフに立ち向かえ―スイッチ2版は11月12日",
+      "url": "http://www.gamespark.jp/article/2026/08/26/171279.html",
+      "category": "game",
+      "source": "GameSpark",
+      "id": "9"
+    },
+    {
+      "title": "空飛ぶ絨毯で巨大ジンを討て。「アラビアンナイト」アクションADV『1001 Threads of Mizan』は「シングルプレイの大冒険を本格的な協力プレイに」という発想で誕生",
+      "url": "http://www.gamespark.jp/article/2026/08/26/171278.html",
+      "category": "game",
+      "source": "GameSpark",
+      "id": "10"
     },
     {
       "title": "『ウィッチャー3』拡張パック『無情なる心』『血塗られた美酒』が本編所有者向けに無料化。本日8月26日からプレイ可能、リマスター版にも収録",
       "url": "http://www.gamespark.jp/article/2026/08/26/171277.html",
       "category": "game",
       "source": "GameSpark",
-      "id": "9"
-    },
-    {
-      "title": "PS2/PS1をHDMI接続で楽しめる「HDMIコンバーター V2」が10月下旬に発売決定。PS2/PS1両対応の進化版として登場",
-      "url": "http://www.gamespark.jp/article/2026/08/26/171276.html",
-      "category": "game",
-      "source": "GameSpark",
-      "id": "10"
-    },
-    {
-      "title": "【6,578円→3,946円】『RAIDOU Remastered: 超力兵団奇譚』が過去最大の40%オフ。PS Storeではデラックス版も45%オフ―アトラス「8月PICK UPセール」",
-      "url": "http://www.gamespark.jp/article/2026/08/26/171275.html",
-      "category": "game",
-      "source": "GameSpark",
       "id": "11"
     },
     {
-      "title": "「攻殻機動隊」少佐のお尻が話題!?「ケツ回」「称賛せざるを得ない」人形使いのアニオリ前日譚に「かなり分かりやすかった」「助かる」…第8話【ネタバレあり反応まとめ】",
-      "url": "https://animeanime.jp/article/2026/08/26/102381.html",
+      "title": "前代未聞の作画崩壊アニメ!? 19個の作画ミスを見つけられるか？「アロンアルフア」新作アニメ「つくの子2」公開 阿澄佳奈、西山宏太朗ら出演",
+      "url": "https://animeanime.jp/article/2026/08/26/102382.html",
       "category": "anime",
       "source": "アニメ!アニメ!",
       "id": "12"
