@@ -1,86 +1,86 @@
 {
-  "updated_at": "2026-08-29T08:01:19+00:00",
+  "updated_at": "2026-08-29T09:01:38+00:00",
   "threads": [
     {
-      "title": "Wired Productionsがアジア発のホラー3作品と相次いでパブリッシング契約。gamescom 2026にプレイアブル出展［gamescom］",
-      "url": "https://www.4gamer.net/games/950/G095017/20260829026/",
+      "title": "週刊Steam広場 第168号：「Resonance: A Plague Tale Legacy」や「STAR WARS ゼロ・カンパニー」が発売に",
+      "url": "https://www.4gamer.net/games/038/G003821/20260829004/",
       "category": "game",
       "source": "4Gamer",
       "id": "1"
     },
     {
-      "title": "「クレイジータクシー：ワールドツアー」をついに試遊。新ステージ「ドイツ」をクレイジーに走り回る［gamescom］",
-      "url": "https://www.4gamer.net/games/014/G101452/20260829019/",
+      "title": "物理系宇宙開発シム新作「Kitten Space Agency」がgamescom 2026でお披露目。KSPオリジナルクリエイターも参戦［gamescom］",
+      "url": "https://www.4gamer.net/games/024/G102445/20260829029/",
       "category": "game",
       "source": "4Gamer",
       "id": "2"
     },
     {
-      "title": "ロッキーとインタラクトできる！大ヒットSF映画のVRゲーム版「Project Hail Mary: Journey Among The Stars」を体験してきた［gamescom］",
-      "url": "https://www.4gamer.net/games/997/G099744/20260829025/",
+      "title": "武器を落とし，投げ，マージして神を討つ。物理演算パズル×デッキ構築ローグライト「Helcast」を世界初試遊［gamescom］",
+      "url": "https://www.4gamer.net/games/035/G103532/20260829027/",
       "category": "game",
       "source": "4Gamer",
       "id": "3"
     },
     {
-      "title": "シネマティックな3Dドット絵に進化した「Cassette Beasts 2002」。電話を借りる相手で物語が変わる意欲的な続編［gamescom］",
-      "url": "https://www.4gamer.net/games/037/G103749/20260829022/",
+      "title": "Wired Productionsがアジア発のホラー3作品と相次いでパブリッシング契約。gamescom 2026にプレイアブル出展［gamescom］",
+      "url": "https://www.4gamer.net/games/950/G095017/20260829026/",
       "category": "game",
       "source": "4Gamer",
       "id": "4"
+    },
+    {
+      "title": "みんなで探検オープンワールド『Big Walk』にて、謎の“助っ人プレイヤー”との遭遇報告相次ぐ。本当に困った時だけ助けてくれる、“伝説のお手伝いさん”",
+      "url": "https://automaton-media.com/articles/newsjp/big-walk-20260829-464013/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "5"
+    },
+    {
+      "title": "現役医師がなぜか突然『THE KING OF FIGHTERS ’98』について「1時間」も熱く語る動画を公開。「ガチ勢」の気迫隠せぬ語りを披露、“理想的リメイク”の提言も飛び出す",
+      "url": "https://automaton-media.com/articles/newsjp/kof98-20260829-464005/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "6"
     },
     {
       "title": "次世代オープンワールド・モンスター収集RPG『Roco Kingdom』ってどんなゲーム？「生態系」や「暮らし」にフォーカスしたモンスターRPG",
       "url": "https://automaton-media.com/articles/special-column/rk-20260829-463979/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "5"
+      "id": "7"
     },
     {
       "title": "9年ぶり完全新作『ロックマン: デュアル オーバーライド』は、40周年で「なんとしても出したかった」作品。“あえてキツめ”なボス難易度など、開発陣にこだわり訊いた",
       "url": "https://automaton-media.com/articles/interviewsjp/20260829-463933/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "6"
-    },
-    {
-      "title": "人気マルチ・ステルスホラー『Secret Neighbor』に“販売停止のみ”を要求する不正アクセス攻撃が仕掛けられる。プレイヤーデータ削除被害＆サービス一時休止の一方、開発元は徹底抗戦の構え",
-      "url": "https://automaton-media.com/articles/newsjp/20260829-463981/",
-      "category": "game",
-      "source": "AUTOMATON",
-      "id": "7"
-    },
-    {
-      "title": "Activision、『CoD』チート業者を摘発したと“家宅訪問動画”付きで報告。チート業者のお宅訪問、絶対逃がさないアピール",
-      "url": "https://automaton-media.com/articles/newsjp/cod-mw4-20260829-463975/",
-      "category": "game",
-      "source": "AUTOMATON",
       "id": "8"
+    },
+    {
+      "title": "「gamescom award 2026」受賞作品発表！ リマスターやDLCを披露した『ウィッチャー3』が注目を集める",
+      "url": "http://www.gamespark.jp/article/2026/08/29/171483.html",
+      "category": "game",
+      "source": "GameSpark",
+      "id": "9"
+    },
+    {
+      "title": "マスコレ版『METAL GEAR SOLID PEACE WALKER』PS5版で音ズレやちらつき、Steam版で操作不具合が発生―パッチは後日配信予定とし一時的な対処法を告知",
+      "url": "http://www.gamespark.jp/article/2026/08/29/171482.html",
+      "category": "game",
+      "source": "GameSpark",
+      "id": "10"
     },
     {
       "title": "空中コンボで自在に戦う美麗ドット絵メトロイドヴァニア『Divinum』Steamにてリリース",
       "url": "http://www.gamespark.jp/article/2026/08/29/171481.html",
       "category": "game",
       "source": "GameSpark",
-      "id": "9"
-    },
-    {
-      "title": "『GTA6』長編映像は「既にこの世代で唯一無二の技術的偉業」―海外技術系メディアは「60fpsを目標にしていたら実現できたか分からない」と分析",
-      "url": "http://www.gamespark.jp/article/2026/08/29/171480.html",
-      "category": "game",
-      "source": "GameSpark",
-      "id": "10"
-    },
-    {
-      "title": "「ひつじのショーン」スタジオが手掛ける『ポケモン』新作アニメ配信決定！「ポケモンテイルズ ネギガナイトとピチューの冒険」Disney+で2027年公開へ",
-      "url": "http://www.gamespark.jp/article/2026/08/29/171479.html",
-      "category": "game",
-      "source": "GameSpark",
       "id": "11"
     },
     {
-      "title": "「BANANA FISH」アッシュと英二が過ごした特別な季節…♪ 原作イラストのグッズが満載！ POP UP SHOP「あの夏。」開催【9月6日まで】",
-      "url": "https://animeanime.jp/article/2026/08/29/102500.html",
+      "title": "「ディズニーツイステ」コレクションジュエリーに「スカラビア寮」登場！リングが新登場♪寮長イメージリングも待望の再販決定！",
+      "url": "https://animeanime.jp/article/2026/08/29/102502.html",
       "category": "anime",
       "source": "アニメ!アニメ!",
       "id": "12"
