@@ -1,86 +1,86 @@
 {
-  "updated_at": "2026-08-29T05:01:39+00:00",
+  "updated_at": "2026-08-29T06:01:21+00:00",
   "threads": [
     {
-      "title": "10世紀の北欧で村を作り，船を出して略奪せよ！ 「Dynasty」シリーズ最新作「Vikings Dynasty」，9月16日からオープンプレイテストを実施［gamescom］",
-      "url": "https://www.4gamer.net/games/866/G086688/20260829010/",
+      "title": "「Once Human」10月の大型アップデート「Isles of Abyss」。いかだを海上要塞に育てて航海する［gamescom］",
+      "url": "https://www.4gamer.net/games/658/G065821/20260829015/",
       "category": "game",
       "source": "4Gamer",
       "id": "1"
     },
     {
-      "title": "ヴィクトル・アントノフが遺した西部劇「ガンズ・オブ・エスカトン」は，シューターである前にソウルライク［gamescom］",
-      "url": "https://www.4gamer.net/games/022/G102216/20260829013/",
+      "title": "いよいよ新キャラ“マルコ”が登場。ロッククライミングシム「Cairn」の最新DLCは無料でリリース［gamescom］",
+      "url": "https://www.4gamer.net/games/807/G080716/20260829017/",
       "category": "game",
       "source": "4Gamer",
       "id": "2"
     },
     {
-      "title": "セガハードとコラボした腕時計の予約を受付中。本体とパッドをイメージしたデザインに加えて外箱まで再現",
-      "url": "https://www.4gamer.net/games/999/G999905/20260829012/",
+      "title": "9月22日にコンシューマ版をリリース予定の「Dune: Awakening」，PS5 Pro対応の60fps動作やソロモードの全貌が明らかに［gamescom］",
+      "url": "https://www.4gamer.net/games/607/G060786/20260829014/",
       "category": "game",
       "source": "4Gamer",
       "id": "3"
     },
     {
-      "title": "明代の秘密警察を演じるアクションRPG「A Whisper of Fall 錦衣衛」は，やり直しの果てに“誰も死なない答え”へ行き着く［gamescom］",
-      "url": "https://www.4gamer.net/games/979/G097918/20260829008/",
+      "title": "10世紀の北欧で村を作り，船を出して略奪せよ！ 「Dynasty」シリーズ最新作「Vikings Dynasty」，9月16日からオープンプレイテストを実施［gamescom］",
+      "url": "https://www.4gamer.net/games/866/G086688/20260829010/",
       "category": "game",
       "source": "4Gamer",
       "id": "4"
+    },
+    {
+      "title": "Activision、『CoD』チート業者を摘発したと“家宅訪問動画”付きで報告。チート業者のお宅訪問、絶対逃がさないアピール",
+      "url": "https://automaton-media.com/articles/newsjp/cod-mw4-20260829-463975/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "5"
     },
     {
       "title": "最大4人協力・西部劇PvEシューター『Far Far West』、新要素てんこ盛りアプデで同接8000人超えの盛況。近接武器追加や“氷属性”実装などでプレイ感も一変",
       "url": "https://automaton-media.com/articles/newsjp/20260829-463967/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "5"
+      "id": "6"
     },
     {
       "title": "“好評率96%”音声認識対戦アクション『Smack Talk』正式リリースで人気博す。最大8人対戦対応・必殺技は“声”で出す『スマブラ』風パーティーゲーム",
       "url": "https://automaton-media.com/articles/newsjp/smack-talk-20260829-463959/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "6"
+      "id": "7"
     },
     {
       "title": "どうぶつレースを“めちゃくちゃに操作する”対戦レースゲーム『Dirty Derby』正式発表。最大4人対戦対応、注射器やバットで介入しまくる“乱闘バトルレース”",
       "url": "https://automaton-media.com/articles/newsjp/20260829-463952/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "7"
+      "id": "8"
     },
     {
-      "title": "EAの「アイアンマン」新作アクションゲーム、突然の「開発継続中」報告。リークにも負けず、“続報待ってて”とどっしり構える",
-      "url": "https://automaton-media.com/articles/newsjp/20260829-463945/",
+      "title": "臨機応変で爽快！リブート版『Fable』近接・遠距離・魔法を駆使する戦闘ゲームプレイ映像―ディレクターからは延期に関する言及も",
+      "url": "http://www.gamespark.jp/article/2026/08/29/171474.html",
       "category": "game",
-      "source": "AUTOMATON",
-      "id": "8"
+      "source": "GameSpark",
+      "id": "9"
+    },
+    {
+      "title": "雪に覆われた戦後の街を走るドライビング＆タクシーゲーム『どこにもない道（Nowhere Road）』配信！",
+      "url": "http://www.gamespark.jp/article/2026/08/29/171473.html",
+      "category": "game",
+      "source": "GameSpark",
+      "id": "10"
     },
     {
       "title": "「これいつも聴く音や！」JR西日本許諾済の鉄道シム『トレインプラス西日本』が関西人に刺さりすぎる件",
       "url": "http://www.gamespark.jp/article/2026/08/29/171472.html",
       "category": "game",
       "source": "GameSpark",
-      "id": "9"
-    },
-    {
-      "title": "『FF7』フリル付き水着のティファが健康的…！可動するセフィロスなど、2人のフィギュアが予約受付中",
-      "url": "http://www.gamespark.jp/article/2026/08/29/171471.html",
-      "category": "game",
-      "source": "GameSpark",
-      "id": "10"
-    },
-    {
-      "title": "『ドラクエ』ワコールの「GOCOCi」コラボ商品が可愛い…！ブラトップやショーツのほか、ユニセックスタイプのボーイレングスショーツも販売",
-      "url": "http://www.gamespark.jp/article/2026/08/29/171470.html",
-      "category": "game",
-      "source": "GameSpark",
       "id": "11"
     },
     {
-      "title": "マイメロディ＆クロミの部屋で過ごせる！「サンリオキャラクタールーム」第3弾、東京ドームホテルで9月1日より予約開始♪",
-      "url": "https://animeanime.jp/article/2026/08/29/102495.html",
+      "title": "「メイドインアビス」ナナチ＆壺ミーティ、“ノリタケ”のカップ＆ソーサーセットに♪  ティータイムを一緒に過ごそう☆",
+      "url": "https://animeanime.jp/article/2026/08/29/102496.html",
       "category": "anime",
       "source": "アニメ!アニメ!",
       "id": "12"
