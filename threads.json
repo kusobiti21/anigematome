@@ -1,30 +1,30 @@
 {
-  "updated_at": "2026-08-31T08:01:20+00:00",
+  "updated_at": "2026-08-31T09:01:26+00:00",
   "threads": [
+    {
+      "title": "映画「ポケモン：ワイルドカード」が発表に。約7年ぶりの劇場版は「ポケモンカードゲーム」がテーマ",
+      "url": "https://www.4gamer.net/games/256/G025620/20260831027/",
+      "category": "game",
+      "source": "4Gamer",
+      "id": "1"
+    },
     {
       "title": "［プレイレポ］「プラトニカ・スペース」が描く“人はわかり合えない”ことの相互理解。無数の部屋が連なる世界で，記憶の断片を手繰り寄せる",
       "url": "https://www.4gamer.net/games/928/G092866/20260831018/",
       "category": "game",
       "source": "4Gamer",
-      "id": "1"
+      "id": "2"
     },
     {
       "title": "魔女たちを率いて戦うRPG「千年の旅 ELF」，開発元のInchi Gameが破産清算に。中国版もサーバー停止",
       "url": "https://www.4gamer.net/games/764/G076402/20260831025/",
       "category": "game",
       "source": "4Gamer",
-      "id": "2"
+      "id": "3"
     },
     {
       "title": "Tequila Worksのベテラン開発者が生み出す「Tuned In」は，日本も舞台となる悪夢のアンソロジー［gamescom］",
       "url": "https://www.4gamer.net/games/037/G103769/20260831024/",
-      "category": "game",
-      "source": "4Gamer",
-      "id": "3"
-    },
-    {
-      "title": "音楽ADV「Morpho Reverie」，1stトレイラーを公開。作曲家の主人公が失踪した知音を探す，演奏と選択で結末が変わる物語",
-      "url": "https://www.4gamer.net/games/037/G103762/20260831023/",
       "category": "game",
       "source": "4Gamer",
       "id": "4"
@@ -58,29 +58,29 @@
       "id": "8"
     },
     {
-      "title": "【大喜利】『新たに開院したゲーミング病院の特徴とは？』審査結果発表！",
-      "url": "http://www.gamespark.jp/article/2026/08/31/171533.html",
+      "title": "『テラリア』次回大型アプデはクロスプレイ対応がメインに！最終的には部屋IDで簡単接続できる仕組みを目指す",
+      "url": "http://www.gamespark.jp/article/2026/08/31/171537.html",
       "category": "game",
       "source": "GameSpark",
       "id": "9"
     },
     {
-      "title": "ローグライクRPG『Elona』人気ヴァリアント「overhaul」の開発が終了。最終更新から1年が経過したため―10年以上おこなっていたアプデが終わる",
-      "url": "http://www.gamespark.jp/article/2026/08/31/171532.html",
+      "title": "「『EA SPORTS FC』と比べるより、11人制の『鉄拳』と考えた方がいい」海外レビューハイスコア『キャプテン翼２ WORLD FIGHTERS』",
+      "url": "http://www.gamespark.jp/article/2026/08/31/171536.html",
       "category": "game",
       "source": "GameSpark",
       "id": "10"
     },
     {
-      "title": "『スパンキング除霊師』のテーマ曲でも知られるクリエイターによる高速サキュバスFPS『サツバツサッキュバス』Steamストア公開。『カルトに厳しいギャル』作者の新作",
-      "url": "http://www.gamespark.jp/article/2026/08/31/171531.html",
+      "title": "【13,037円→330円】美少女鉄道復興ADV『まいてつ 全部入り』の97％オフセール再び！『AIパートナー ハチロク』で知った人にも物語を楽しむ機会を",
+      "url": "http://www.gamespark.jp/article/2026/08/31/171535.html",
       "category": "game",
       "source": "GameSpark",
       "id": "11"
     },
     {
-      "title": "「呪術廻戦」芥見下々が“灰原雄”描き下ろし！術式“蒸気呪法”も初公開!? 「かっけぇ……」「今まさか灰原描いてくれるとは」【ファンパレ】",
-      "url": "https://animeanime.jp/article/2026/08/31/102543.html",
+      "title": "モバイルSuicaを怪盗キッド、少年探偵団仕様に着せ替え♪ 「名探偵コナン」モバイルSuicaのカードフェイスプレゼント企画が明日（9/1）より実施",
+      "url": "https://animeanime.jp/article/2026/08/31/102548.html",
       "category": "anime",
       "source": "アニメ!アニメ!",
       "id": "12"
