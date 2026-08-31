@@ -1,30 +1,30 @@
 {
-  "updated_at": "2026-08-31T21:01:17+00:00",
+  "updated_at": "2026-08-31T22:01:16+00:00",
   "threads": [
+    {
+      "title": "［プレイレポ］「鬼武者 Way of the Sword」，多彩な技を駆使して強大なボスと真っ向勝負。スリリングな駆け引きが熱い剣戟アクション",
+      "url": "https://www.4gamer.net/games/865/G086595/20260901003/",
+      "category": "game",
+      "source": "4Gamer",
+      "id": "1"
+    },
     {
       "title": "「HBO Max」，10月1日より日本のPrime Videoにてサブスクリプションで提供開始。プランはスタンダード/プレミアムを用意",
       "url": "https://www.4gamer.net/games/991/G999102/20260831019/",
       "category": "game",
       "source": "4Gamer",
-      "id": "1"
+      "id": "2"
     },
     {
       "title": "「ボードゲームアリーナ」の31日連続実装イベントまとめ。「ニュークレウム」「テラフォーミング・マーズ：ダイスゲーム」などが登場",
       "url": "https://www.4gamer.net/games/639/G063965/20260901002/",
       "category": "game",
       "source": "4Gamer",
-      "id": "2"
+      "id": "3"
     },
     {
       "title": "「Steam PvEサバイバルクラフトフェス」が本日スタート。「Project Zomboid」「Medieval Dynasty」「サブノーティカ」などをピックアップ",
       "url": "https://www.4gamer.net/games/038/G003821/20260901001/",
-      "category": "game",
-      "source": "4Gamer",
-      "id": "3"
-    },
-    {
-      "title": "SIEの情報番組「State of Play」，9月3日22：00に放送。「State of Play 日本」と2番組を連続配信へ",
-      "url": "https://www.4gamer.net/games/013/G101379/20260831044/",
       "category": "game",
       "source": "4Gamer",
       "id": "4"
@@ -58,22 +58,22 @@
       "id": "8"
     },
     {
-      "title": "料理を美しく盛り付けるサンドボックスゲーム『Oh! my Table』発表！ 究極のフードアーティストになろう",
-      "url": "http://www.gamespark.jp/article/2026/09/01/171559.html",
+      "title": "溶岩が迫る街から生存者を助け出す脱出サバイバル『Into the Fire』新トレイラー！9月7日までプレイテスト実施中",
+      "url": "http://www.gamespark.jp/article/2026/09/01/171561.html",
       "category": "game",
       "source": "GameSpark",
       "id": "9"
     },
     {
-      "title": "『RPGツクールMZ』で疑似3D実現でも話題のRPG『Lie of Caelum: Spirit』クラファン開始―日本語対応の『ゼノギアス』インスパイア作",
-      "url": "http://www.gamespark.jp/article/2026/09/01/171558.html",
+      "title": "最安値更新タイトルも多数！「PvEサバイバルクラフトフェス」Steamにて開催―海や宇宙、無人島など様々な場所でサバイバルに挑め",
+      "url": "http://www.gamespark.jp/article/2026/09/01/171560.html",
       "category": "game",
       "source": "GameSpark",
       "id": "10"
     },
     {
-      "title": "『Fate/EXTRA Record』開発が“メテオライズ”に―爆乳ハイパーバトル『ヴァルキリードライヴ ビクニ』など過去に手掛ける",
-      "url": "http://www.gamespark.jp/article/2026/09/01/171557.html",
+      "title": "料理を美しく盛り付けるサンドボックスゲーム『Oh! my Table』発表！ 究極のフードアーティストになろう",
+      "url": "http://www.gamespark.jp/article/2026/09/01/171559.html",
       "category": "game",
       "source": "GameSpark",
       "id": "11"
