@@ -1,86 +1,86 @@
 {
-  "updated_at": "2026-08-31T11:01:24+00:00",
+  "updated_at": "2026-08-31T12:01:23+00:00",
   "threads": [
     {
-      "title": "わしゃがなTVの最新動画では，トレーディングフィギュア「どうぶつの森 ハッピールーム」を紹介。しずえさんのお部屋がエヴァ風に!?",
-      "url": "https://www.4gamer.net/games/991/G999106/20260831007/",
+      "title": "メキシコの伝説とクラシックなゲームプレイが融合したメトロイドヴァニア「Mariachi Legends」，2027年4月27日に発売決定",
+      "url": "https://www.4gamer.net/games/715/G071504/20260831041/",
       "category": "game",
       "source": "4Gamer",
       "id": "1"
     },
     {
-      "title": "南太平洋的な文化を盛り込むアクションADV「Denari」，Emi Evansさんのボーカル参加やSwitch版リリースが決定［gamescom］",
-      "url": "https://www.4gamer.net/games/820/G082050/20260831033/",
+      "title": "コジマプロダクションの設立10周年を記念した展覧会が10月31日より開催。未公開資料の展示や映像インスタレーションなどを予定",
+      "url": "https://www.4gamer.net/games/673/G067389/20260831039/",
       "category": "game",
       "source": "4Gamer",
       "id": "2"
     },
     {
-      "title": "iOS版「GAMES STORE」，本日リリース。DMM GAMESのアプリゲームをApp Storeを通さず，iPhoneで直接遊べるようになるサービス",
-      "url": "https://www.4gamer.net/games/999/G999904/20260831032/",
+      "title": "「Crescent Tower: RISING」，Steam版の配信が決定。全5章の物語と14クラス×スキルブロックの育成を楽しめる8bit風RPG",
+      "url": "https://www.4gamer.net/games/037/G103780/20260831038/",
       "category": "game",
       "source": "4Gamer",
       "id": "3"
     },
     {
-      "title": "「Professional Ship Simulator」，Steam早期アクセスを9月16日に開始。高度な流体力学モデルで多彩な船舶を操船",
-      "url": "https://www.4gamer.net/games/998/G099836/20260831031/",
+      "title": "なんでも作る会社のインターンとして倉庫で働き，日用品からSFアイテムまで，注文の商品を探して発送する。倉庫作業シミュレータ「BOB LOGISTICS」，2026年第4四半期に発売",
+      "url": "https://www.4gamer.net/games/037/G103781/20260831040/",
       "category": "game",
       "source": "4Gamer",
       "id": "4"
+    },
+    {
+      "title": "“作品名が113文字”のSteamゲームが見つかるも、「ギネス記録にはまったく及ばない」と話題に。その長さ、圧巻の277文字",
+      "url": "https://automaton-media.com/articles/newsjp/20260831-464267/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "5"
     },
     {
       "title": "“海のリアル”徹底追求『プロ船員シミュレーター』9月16日にSteam早期アクセス配信へ。シミュレーションソフト開発企業が本気で作った、多彩な船でのお仕事体験",
       "url": "https://automaton-media.com/articles/newsjp/20260831-464260/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "5"
+      "id": "6"
     },
     {
       "title": "ワンオペ倉庫作業シム『BOB LOGISTICS』発表。制限時間・ペナルティなし、自動化ありのやさしい職場、倉庫を空にすると“開かずの扉”が開く",
       "url": "https://automaton-media.com/articles/newsjp/20260831-464251/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "6"
+      "id": "7"
     },
     {
       "title": "ソウルライク「チェス」ゲーム『Pawned Souls』無料公開。パリィや回避もある“死にチェス”、さっそく話題に",
       "url": "https://automaton-media.com/articles/newsjp/20260831-464234/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "7"
+      "id": "8"
     },
     {
-      "title": "人気“あの頃”RPG続編『クレセント・タワー ライジング』発表。「懐かしいのに新しい」王道冒険ゲーム、スキルを“はめ込む”新たな要素も",
-      "url": "https://automaton-media.com/articles/newsjp/20260831-464222/",
+      "title": "この街で、誰として生きる？基本無料&キャラガチャなしの『無限大ANANTA』が描く、新しい都市型オープンワールド―開発者インタビュー【gamescom 2026】",
+      "url": "http://www.gamespark.jp/article/2026/08/31/171548.html",
       "category": "game",
-      "source": "AUTOMATON",
-      "id": "8"
+      "source": "GameSpark",
+      "id": "9"
+    },
+    {
+      "title": "8bit風フィールド探索RPG『クレセント・タワー ライジング』Steam版が発売決定。全5章のオムニバスシナリオで冒険者たちの運命が交錯する",
+      "url": "http://www.gamespark.jp/article/2026/08/31/171547.html",
+      "category": "game",
+      "source": "GameSpark",
+      "id": "10"
     },
     {
       "title": "【漫画じゃんげま】536.「わくわく！夏の新技☆」の巻",
       "url": "http://www.gamespark.jp/article/2026/08/31/171546.html",
       "category": "game",
       "source": "GameSpark",
-      "id": "9"
-    },
-    {
-      "title": "ゾンビになっても生き続けられる終末サバイバルクラフト『Zeverland』最新ゲームプレイトレイラー！",
-      "url": "http://www.gamespark.jp/article/2026/08/31/171545.html",
-      "category": "game",
-      "source": "GameSpark",
-      "id": "10"
-    },
-    {
-      "title": "『ガチャポン戦士3 英雄戦記』『ファミコンウォーズ』から影響を受けたレトロ風戦略SLG『バナナキングダム』Steam早期アクセス開始！マップエディターで1億年遊べる",
-      "url": "http://www.gamespark.jp/article/2026/08/31/171544.html",
-      "category": "game",
-      "source": "GameSpark",
       "id": "11"
     },
     {
-      "title": "「呪術廻戦」内田雄馬・瀬戸麻沙美・小松未可子・津田健次郎ら集結！5周年のフィナーレ飾る「じゅじゅフェス」DAY2レポ",
-      "url": "https://animeanime.jp/article/2026/08/31/102558.html",
+      "title": "「スティール・ボール・ラン ジョジョの奇妙な冒険」ジョニィ、ジャイロ、ディエゴがデフォルメフィギュアに！「PalVerse Palé.」登場☆",
+      "url": "https://animeanime.jp/article/2026/08/31/102563.html",
       "category": "anime",
       "source": "アニメ!アニメ!",
       "id": "12"
