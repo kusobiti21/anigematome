@@ -1,86 +1,86 @@
 {
-  "updated_at": "2026-08-31T02:01:27+00:00",
+  "updated_at": "2026-08-31T03:01:24+00:00",
   "threads": [
     {
-      "title": "生産性を向上させる放置系RPG「締切ヒーロー」，早期アクセス版をSteamでリリース。ポモドーロタイマーやToDoリストなどの機能を搭載",
-      "url": "https://www.4gamer.net/games/934/G093484/20260825041/",
+      "title": "「Fate/EXTRA Record」，アニプレックスからのリリースが決定。公式サイトとXアカウントも開設",
+      "url": "https://www.4gamer.net/games/520/G052062/20260831004/",
       "category": "game",
       "source": "4Gamer",
       "id": "1"
     },
     {
-      "title": "【ミートたけし】自分の「当たり前」を疑え！",
-      "url": "https://www.4gamer.net/games/095/G009575/20260828052/",
+      "title": "「BLEACH Mirrors High」，事前登録受付を開始。50万人達成で，★3「[死神代行]黒崎一護」，★3「[十三番隊副隊長]朽木ルキア」が手に入る",
+      "url": "https://www.4gamer.net/games/970/G097078/20260831002/",
       "category": "game",
       "source": "4Gamer",
       "id": "2"
     },
     {
-      "title": "ぶっちぎりで遊びやすくて，あと1日……が止まらない農業ライフシム「Fields of Mistria」【放課後れびゅあーず！】",
-      "url": "https://www.4gamer.net/games/925/G092590/20260830002/",
+      "title": "「呪術廻戦 RUMBLE: SURVIVATON」，新キービジュアルを公開。羂索と禪院直哉がボスとして登場，TGS 2026では試遊出展",
+      "url": "https://www.4gamer.net/games/015/G101555/20260831003/",
       "category": "game",
       "source": "4Gamer",
       "id": "3"
     },
     {
-      "title": "【今週のモチベ】「鬼武者 Way of the Sword」や「The Blood of Dawnwalker」が発売される 2026年8月31日〜9月6日",
-      "url": "https://www.4gamer.net/games/954/G095479/20260830001/",
+      "title": "生産性を向上させる放置系RPG「締切ヒーロー」，早期アクセス版をSteamでリリース。ポモドーロタイマーやToDoリストなどの機能を搭載",
+      "url": "https://www.4gamer.net/games/934/G093484/20260825041/",
       "category": "game",
       "source": "4Gamer",
       "id": "4"
+    },
+    {
+      "title": "“バンナムからは発売中止”となった『Fate/EXTRA Record』は「アニプレックス」から発売へ。9月に続報も来る",
+      "url": "https://automaton-media.com/articles/newsjp/20260831-464144/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "5"
+    },
+    {
+      "title": "Steam旧システムのデータ「12TB分」が発掘される。幻の『Portal』前日譚など、“失われた10年”が暴かれる",
+      "url": "https://automaton-media.com/articles/newsjp/202608313-464137/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "6"
     },
     {
       "title": "新たな非対称PvP殺人鬼ホラー『Halloween: The Game』PS5国内版が発売中止に、CEROレーティングを取得できず。“表現規制して出す”より、世界観を優先",
       "url": "https://automaton-media.com/articles/newsjp/20260831-464132/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "5"
+      "id": "7"
     },
     {
       "title": "「天使を殺さないと死ぬ」FPS『サツバツサッキュバス』Steamにてお披露目。呪いの元凶サキュバスに褒められつつ天使にカチコミ、『カルトに厳しいギャル』開発者新作",
       "url": "https://automaton-media.com/articles/newsjp/20260831-464124/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "6"
-    },
-    {
-      "title": "『Big Walk』は一瞬一瞬がフレンドとのかけがえない思い出。『Neon Abyss 2』は初期からかなり見違えた。バイト戦士的には『スプラトゥーン レイダース』はやや物足りなさある。今週のゲーミング",
-      "url": "https://automaton-media.com/articles/now-gaming/20260830-464113/",
-      "category": "game",
-      "source": "AUTOMATON",
-      "id": "7"
-    },
-    {
-      "title": "オープンワールドサバイバル『ルーンスケープ：ドラゴンワイルズ』初心者攻略｜黒騎士の要塞を攻略、黒騎士装備入手法や夢見石の欠片の進め方を徹底解説！",
-      "url": "https://automaton-media.com/articles/guide/20260830-464093/",
-      "category": "game",
-      "source": "AUTOMATON",
       "id": "8"
     },
     {
-      "title": "集中すればするほどヒーローが強くなる！作業のお供にピッタリの放置RPG『締切ヒーロー』Steam早期アクセス開始―集中しているときはゲーム画面見る必要なし",
-      "url": "http://www.gamespark.jp/article/2026/08/31/171519.html",
+      "title": "公開処刑と永遠の尊厳破壊が待ち受けるデスゲームADV『BUZZ or DIE』講談社から2026年発売へ！相手をネタにしたショート動画で「いいね」を奪い合え",
+      "url": "http://www.gamespark.jp/article/2026/08/31/171522.html",
       "category": "game",
       "source": "GameSpark",
       "id": "9"
     },
     {
-      "title": "『天地創造』リマスター版にはバランス調整の入ったエンハンスモードが存在？伝説的に手強いボスにも調整か―オリジナル難易度でプレイすることも可能",
-      "url": "http://www.gamespark.jp/article/2026/08/31/171518.html",
+      "title": "野球部の理不尽な上下関係を描く限界ホラー『球ひろいSimulator』Steam配信開始。たった1人のウィッシュリスト登録者のためにチェコ語対応した話題作",
+      "url": "http://www.gamespark.jp/article/2026/08/31/171521.html",
       "category": "game",
       "source": "GameSpark",
       "id": "10"
     },
     {
-      "title": "「500万本の干し草から1本の針を探す」話題の苦行ゲー『Needle In A Haystack Simulator』Steamストア公開―8人協力で「不可能」に挑める",
-      "url": "http://www.gamespark.jp/article/2026/08/31/171517.html",
+      "title": "『Fate/EXTRA Record』販売元をアニプレックスに変更し再始動！3月にバンナムから販売中止が発表―新たな体制で発売を目指す",
+      "url": "http://www.gamespark.jp/article/2026/08/31/171520.html",
       "category": "game",
       "source": "GameSpark",
       "id": "11"
     },
     {
-      "title": "「アイドルマスター SideM」High×Joker＆神速一魂がジョイポリスをジャック！第3弾コラボで新ショーや音ゲーコースターも",
-      "url": "https://animeanime.jp/article/2026/08/30/102538.html",
+      "title": "劇場版「メダリスト」27年2月19日公開決定！「私、絶対成功させます」いのりと司の覚悟伝わる特報＆ティザービジュアル公開",
+      "url": "https://animeanime.jp/article/2026/08/31/102542.html",
       "category": "anime",
       "source": "アニメ!アニメ!",
       "id": "12"
