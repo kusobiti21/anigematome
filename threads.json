@@ -1,86 +1,86 @@
 {
-  "updated_at": "2026-09-01T02:01:36+00:00",
+  "updated_at": "2026-09-01T03:02:06+00:00",
   "threads": [
     {
-      "title": "「勝利の女神：NIKKE」，最新バージョン「GREAT VILLAIN UNION」を9月3日に実装。ドレイク：グレイトヴィランが登場",
-      "url": "https://www.4gamer.net/games/456/G045622/20260831034/",
+      "title": "「CODE VEIN II」，DLC「Mask of Idris」の新規スクリーンショットやアップデートVer.2.0の詳細が公開に",
+      "url": "https://www.4gamer.net/games/917/G091725/20260828046/",
       "category": "game",
       "source": "4Gamer",
       "id": "1"
     },
     {
-      "title": "映画「ヘルレイザー」正統続編の新作ホラー「Clive Barker’s Hellraiser: Revival」プレイレポート。パズルボックスの力で魔界の迷宮を突破せよ［gamescom］",
-      "url": "https://www.4gamer.net/games/037/G103786/20260831045/",
+      "title": "「グリザイアの新果実 -集結の百果-」，2027年内に発売。スマホアプリ「グリザイア 集結の百果」とリンクした物語を楽しめるADV",
+      "url": "https://www.4gamer.net/games/037/G103777/20260831026/",
       "category": "game",
       "source": "4Gamer",
       "id": "2"
     },
     {
-      "title": "「アズールレーン」9周年イベントの模様を配信する番組は9月5日，6日に配信。忘れずに見たい「今週の公式配信番組」ピックアップ",
-      "url": "https://www.4gamer.net/games/421/G042182/20260831035/",
+      "title": "暖かい色で火を灯し，冷たい色で水を凍らせる。色で世界を変える2Dパズルアドベンチャー「Chromascape」が10月1日にPCとSwitchで発売",
+      "url": "https://www.4gamer.net/games/037/G103747/20260829001/",
       "category": "game",
       "source": "4Gamer",
       "id": "3"
     },
     {
-      "title": "［プレイレポ］「鬼武者 Way of the Sword」，多彩な技を駆使して強大なボスと真っ向勝負。スリリングな駆け引きが熱い剣戟アクション",
-      "url": "https://www.4gamer.net/games/865/G086595/20260901003/",
+      "title": "「ファイナルミッション」の完全新作「Cybernetic Attack ファイナルミッション」が制作決定。TGS 2026に試遊出展",
+      "url": "https://www.4gamer.net/games/037/G103789/20260901004/",
       "category": "game",
       "source": "4Gamer",
       "id": "4"
+    },
+    {
+      "title": "美少女ゲーム「グリザイア」シリーズ完全新作『グリザイアの新果実 -集結の百果-』発表。『グリザイア 集結の百果』とリンクした物語を描く",
+      "url": "https://automaton-media.com/articles/newsjp/20260901-464303/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "5"
+    },
+    {
+      "title": "もふもふエモい牧羊犬ゲーム『Hubert』10月13日配信へ。羊を率いて荒野を駆ける、『マフィア』元開発者らが描く“ほんわか羊追い”農場暮らし",
+      "url": "https://automaton-media.com/articles/newsjp/20260901-464310/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "6"
+    },
+    {
+      "title": "『グランド・セフト・オートVI（GTA 6）』リーカーの身元特定に向けて大きく進展。Discord社への開示請求など、徹底追及の構え",
+      "url": "https://automaton-media.com/articles/newsjp/20260901-464296/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "7"
     },
     {
       "title": "任天堂、『ピクミン3 デラックス』に突如1年ぶりアプデ。Switch 2向けに解像度アップ、おすそわけ通信にも一部対応",
       "url": "https://automaton-media.com/articles/newsjp/20260901-464291/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "5"
-    },
-    {
-      "title": "オープンワールド漂流サバイバル『Stranded Deep 2』正式発表。猛獣だらけの“リアル食物連鎖”砂漠にて、川に浮かべた「移動する家」で極限生活",
-      "url": "https://automaton-media.com/articles/newsjp/20260901-464282/",
-      "category": "game",
-      "source": "AUTOMATON",
-      "id": "6"
-    },
-    {
-      "title": "PS5向け情報番組「State of Play」と「State of Play 日本」、なんと“2本立て”で9月3日配信へ。『ファイナルファンタジーVII リベレーション』もじっくり紹介予定",
-      "url": "https://automaton-media.com/articles/newsjp/20260831-464275/",
-      "category": "game",
-      "source": "AUTOMATON",
-      "id": "7"
-    },
-    {
-      "title": "“作品名が113文字”のSteamゲームが見つかるも、「ギネス記録にはまったく及ばない」と話題に。その長さ、圧巻の277文字",
-      "url": "https://automaton-media.com/articles/newsjp/20260831-464267/",
-      "category": "game",
-      "source": "AUTOMATON",
       "id": "8"
     },
     {
-      "title": "XBOX、ディスク所有によりデジタル版のライセンスが手に入る仕組みは“プレイするだけ”で適用。テストが始まりFAQページが公開",
-      "url": "http://www.gamespark.jp/article/2026/09/01/171566.html",
+      "title": "90年ナツメのFC向け横STG『ファイナルミッション』が16bitテイストでリメイク！『Cybernetic Attack ファイナルミッション』発表",
+      "url": "http://www.gamespark.jp/article/2026/09/01/171569.html",
       "category": "game",
       "source": "GameSpark",
       "id": "9"
     },
     {
-      "title": "ノーティードッグ新作アクションADV『Intergalactic: The Heretic Prophet』主人公の撮影が完了。State of Play直前でざわつくファン",
-      "url": "http://www.gamespark.jp/article/2026/09/01/171565.html",
+      "title": "『CODE VEIN II』無料アップデート2.0ではエンディング後の時代を描くコンテンツ追加。サクサク進めそうな「ストーリー重視モード」などてんこ盛りなアプデ",
+      "url": "http://www.gamespark.jp/article/2026/09/01/171568.html",
       "category": "game",
       "source": "GameSpark",
       "id": "10"
     },
     {
-      "title": "KONAMI完全新作JRPG『Rev. NOiR』続報へ！公式番組「KONAMI PRESS START」9月4日0時配信―『SILENT HILL』リメイクの告知はなし",
-      "url": "http://www.gamespark.jp/article/2026/09/01/171564.html",
+      "title": "【吉田輝和の絵日記】たま◯っちに初代プ◯ステ、トロール人形など平成の思い出が押し寄せてくる電子機器修理ゲーム『リ・ストーリー: 思い出修理屋』",
+      "url": "http://www.gamespark.jp/article/2026/09/01/171567.html",
       "category": "game",
       "source": "GameSpark",
       "id": "11"
     },
     {
-      "title": "「スティール・ボール・ラン ジョジョの奇妙な冒険」ジョニィ、ジャイロ、ディエゴがデフォルメフィギュアに！「PalVerse Palé.」登場☆",
-      "url": "https://animeanime.jp/article/2026/08/31/102563.html",
+      "title": "「FX戦士くるみちゃん」10月1日よりアニメ放送開始！令和最強の電波ソング爆誕!? くるみ(CV鈴木愛奈)が歌うOP曲も初公開♪",
+      "url": "https://animeanime.jp/article/2026/09/01/102568.html",
       "category": "anime",
       "source": "アニメ!アニメ!",
       "id": "12"
