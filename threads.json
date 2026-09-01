@@ -1,86 +1,86 @@
 {
-  "updated_at": "2026-09-01T07:02:36+00:00",
+  "updated_at": "2026-09-01T08:02:03+00:00",
   "threads": [
     {
-      "title": "ドタバタ酒場経営アクション「Bronzebeard's Tavern 2」のデモをチェック。無料公開の学生プロジェクトから大幅にパワーアップ［gamescom］",
-      "url": "https://www.4gamer.net/games/038/G103811/20260901020/",
+      "title": "今夜22時から放送の「RADIO 4Gamer Tap（仮）」では，「キャプテン翼２ WORLD FIGHTERS」を紹介します",
+      "url": "https://www.4gamer.net/games/981/G098133/20260901024/",
       "category": "game",
       "source": "4Gamer",
       "id": "1"
     },
     {
-      "title": "シューティングとピンボールが融合!?　ローグライトアクション「Appulse」のデモをチェック［gamescom］",
-      "url": "https://www.4gamer.net/games/038/G103812/20260901021/",
+      "title": "宇宙クジラの背中に街を築くSFシティビルダー「Beyond These Stars」の魅力に迫る。住人とクジラの相反するニーズを満たそう［gamescom］",
+      "url": "https://www.4gamer.net/games/686/G068686/20260901019/",
       "category": "game",
       "source": "4Gamer",
       "id": "2"
     },
     {
-      "title": "登録者数130万人超のYouTubeアニメをゲーム化。スマホ向け放置系RPG「ブラックチャンネル ブレイズロード」，9月14日にリリース",
-      "url": "https://www.4gamer.net/games/037/G103798/20260901015/",
+      "title": "「放置少女」，「転スラ」コラボ「転生したら放置少女だった件」を9月8日開始。リムルたちが異世界へ転移",
+      "url": "https://www.4gamer.net/games/396/G039619/20260901023/",
       "category": "game",
       "source": "4Gamer",
       "id": "3"
     },
     {
-      "title": "モンスター収集ローグライト「Wilderings: The Lost Spring」，早期アクセスを近日中に開始。「Rewilders」から改題し，正式版は2027年春を予定［gamescom］",
-      "url": "https://www.4gamer.net/games/939/G093958/20260901016/",
+      "title": "「モンスターハンターワイルズ：アセンダンス」，世界初のプレイアブル出展。TGS 2026のカプコンブース情報第1弾が公開に",
+      "url": "https://www.4gamer.net/games/759/G075952/20260901022/",
       "category": "game",
       "source": "4Gamer",
       "id": "4"
+    },
+    {
+      "title": "最大10人オンラインお絵描きクイズ『あの雲はまるで』発表。“分かりやすすぎてもダメ”な、じらし上手の発想勝負",
+      "url": "https://automaton-media.com/articles/newsjp/20260901-464366/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "5"
+    },
+    {
+      "title": "『エルデンリング』のボス、「『ナイトレイン』で見たことあるor未履修」で悲鳴っぷり真っ二つ。「鈴玉狩り」など“頻出ボス”で差がつく",
+      "url": "https://automaton-media.com/articles/newsjp/20260901-464370/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "6"
     },
     {
       "title": "SIE、「カスタマーハラスメントに対する基本方針について」を日本向けに公開。来月の改正労働施策総合推進法の施行を受けて",
       "url": "https://automaton-media.com/articles/newsjp/sie-20260901-464319/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "5"
+      "id": "7"
     },
     {
       "title": "物理演算・極限チャレンジ『けん玉100人シミュレーター』に最大10人マルチプレイ追加。誰かのミスですべて台無し、連帯責任100連けん玉",
       "url": "https://automaton-media.com/articles/newsjp/20260901-464355/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "6"
-    },
-    {
-      "title": "『鬼武者 Way of the Sword』、“シリーズトップ級メタスコア”で前評判上々。現代の技術だから作れた新生鬼武者、発売前から勢いに乗る",
-      "url": "https://automaton-media.com/articles/newsjp/20260901-464348/",
-      "category": "game",
-      "source": "AUTOMATON",
-      "id": "7"
-    },
-    {
-      "title": "“いわくつき資料”を読み解くホラー『『スクジサマ』を巡る考察』発表。亡くなったオカルトライターが遺した資料から全容に迫る、モキュメンタリー作品",
-      "url": "https://automaton-media.com/articles/newsjp/20260901-464339/",
-      "category": "game",
-      "source": "AUTOMATON",
       "id": "8"
+    },
+    {
+      "title": "PCパーツの「玄人志向」謎のサングラス男から八咫烏へ転生…新ブランド「Crowxis（クロウシス）」としてリニューアル",
+      "url": "http://www.gamespark.jp/article/2026/09/01/171581.html",
+      "category": "game",
+      "source": "GameSpark",
+      "id": "9"
+    },
+    {
+      "title": "80年代ファミコンゲーム『オリュンポスの戦い』のリメイク版が2027年Steamに登場！オリジナル開発者の夫婦が自ら手がける「愛の伝説」",
+      "url": "http://www.gamespark.jp/article/2026/09/01/171580.html",
+      "category": "game",
+      "source": "GameSpark",
+      "id": "10"
     },
     {
       "title": "【2,300円→1,380円】『Core Keeper』大型アップデートの内容を“我慢しきれず”ティーザー公開していたと明かす―8月の情報まとめ公開＆セール実施",
       "url": "http://www.gamespark.jp/article/2026/09/01/171579.html",
       "category": "game",
       "source": "GameSpark",
-      "id": "9"
-    },
-    {
-      "title": "コロプラ、ブラウザ向け新作『アクティブシネマRPG 369（ミロク）』サービス開始―AI技術を活用した「シネマティック映像×ゲーム」の意欲作",
-      "url": "http://www.gamespark.jp/article/2026/09/01/171578.html",
-      "category": "game",
-      "source": "GameSpark",
-      "id": "10"
-    },
-    {
-      "title": "次回「ニンダイ」2026年9月10日に配信される説が浮上―情報流出を受け「9月10日に情報お届け」と告知した『ジャストダンス』のポストが話題",
-      "url": "http://www.gamespark.jp/article/2026/09/01/171577.html",
-      "category": "game",
-      "source": "GameSpark",
       "id": "11"
     },
     {
-      "title": "「チェンソーマン」ポチタのお尻がカワイイ♪“チェンソーまん”も見逃せない☆「USJ」コラボ情報が到着",
-      "url": "https://animeanime.jp/article/2026/09/01/102572.html",
+      "title": "「攻殻機動隊」防災バックパック登場！付属の隠しソーラーパネルで電源確保をサポート　日常生活でも使用可能【防災の日】",
+      "url": "https://animeanime.jp/article/2026/09/01/102575.html",
       "category": "anime",
       "source": "アニメ!アニメ!",
       "id": "12"
