@@ -1,86 +1,86 @@
 {
-  "updated_at": "2026-09-01T11:02:02+00:00",
+  "updated_at": "2026-09-01T12:02:10+00:00",
   "threads": [
     {
-      "title": "「ディーゼル」×「FFXIV」，コラボプロジェクトの全貌が公開に。アパレルや雑貨，アート展の情報を一挙掲載",
-      "url": "https://www.4gamer.net/games/199/G019924/20260901038/",
+      "title": "崩壊する火山による災害から生存者を救出し，脱出路を確保せよ。「Into the Fire」，オープンプレイテストをスタート",
+      "url": "https://www.4gamer.net/games/859/G085975/20260901043/",
       "category": "game",
       "source": "4Gamer",
       "id": "1"
     },
     {
-      "title": "最大6人で協力できるシミュレーションRPG「Tactful Tactics」，Steamストアページを公開。キャラクターアートは日本画家が担当",
-      "url": "https://www.4gamer.net/games/038/G103820/20260901036/",
+      "title": "デスゲーム参加者の死因・凶器・加害者を割り出し，無人島で起きた事件の全体像を報告書にまとめる。推理ADV「デスゲームの報告書」，本日発売",
+      "url": "https://www.4gamer.net/games/033/G103351/20260901041/",
       "category": "game",
       "source": "4Gamer",
       "id": "2"
     },
     {
-      "title": "深夜勤務に就く監視局員となり，各所に設置されたカメラを切り替えて異変を見つけ出す。物語重視のホラーゲーム「第三監視局」発表，2026年第4四半期にリリース",
-      "url": "https://www.4gamer.net/games/038/G103821/20260901037/",
+      "title": "果てしなく続く川を命綱に，危険な自然を生き抜くサバイバルゲーム「Stranded Deep 2」，2027年にリリース",
+      "url": "https://www.4gamer.net/games/038/G103822/20260901040/",
       "category": "game",
       "source": "4Gamer",
       "id": "3"
     },
     {
-      "title": "「ポケモン30周年、ねむる発表会」レポート。「Pok&#233;mon Sleep」を軸に，「ポケモン×ねむる」をテーマにした企画を続々展開",
-      "url": "https://www.4gamer.net/games/462/G046207/20260901032/",
+      "title": "「ディーゼル」×「FFXIV」，コラボプロジェクトの全貌が公開に。アパレルや雑貨，アート展の情報を一挙掲載",
+      "url": "https://www.4gamer.net/games/199/G019924/20260901038/",
       "category": "game",
       "source": "4Gamer",
       "id": "4"
+    },
+    {
+      "title": "『鬼武者 Way of the Sword』レビュー。武蔵の奇譚時代劇は“火が付く”のがちょっと遅い。圧倒的作り込みの剣戟で魅せる、「令和のカプコン」流バッサリ感",
+      "url": "https://automaton-media.com/articles/impressionjp/20260901-464457/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "5"
     },
     {
       "title": "人気沸騰中のゲーム『STAR WARS ゼロ・カンパニー』、開発チームの約80％が「無給の休職状態」と報じられる。“売れれば復職”の崖っぷち状態か",
       "url": "https://automaton-media.com/articles/newsjp/20260901-464448/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "5"
+      "id": "6"
     },
     {
       "title": "宇宙“ガラクタDIY”サバイバル『Breathedge 2』期待にたがわぬ好発進。オッサン＆チキンが「ありあわせ装備」で銀河を救う、危険だらけトンチキ珍道中",
       "url": "https://automaton-media.com/articles/newsjp/20260901-464441/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "6"
+      "id": "7"
     },
     {
       "title": "スクエニHD、“非公開会社になりそう”との報道をきっぱり否定。事実無根だとして",
       "url": "https://automaton-media.com/articles/newsjp/20260901-464432/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "7"
-    },
-    {
-      "title": "「1億タイル」マインスイーパー『World Sweeper』無料公開。地球丸ごと地雷原、便利スキルもあるけど……デカすぎる",
-      "url": "https://automaton-media.com/articles/newsjp/20260901-464424/",
-      "category": "game",
-      "source": "AUTOMATON",
       "id": "8"
     },
     {
-      "title": "『ARMORED CORE 3』OPの激戦を再現！プラモデル「クレスト CR-C75U2 白兵戦Ver.」が、“新規金型商品”として復刻",
-      "url": "http://www.gamespark.jp/article/2026/09/01/171592.html",
+      "title": "『昭和米国物語』は「今回がようやくプレイヤーの皆さんと本当に出会うことができた」―クリエイティブディレクターがgamescomを終えてコメント",
+      "url": "http://www.gamespark.jp/article/2026/09/01/171595.html",
       "category": "game",
       "source": "GameSpark",
       "id": "9"
     },
     {
-      "title": "「桃園める」と一緒に作業集中！『マブラヴ ガールズガーデン』スピンオフのデスクトップ作業用ソフト『マブラヴ ガールズガーデン Mellow Days』Steamにてデモ版配信",
-      "url": "http://www.gamespark.jp/article/2026/09/01/171591.html",
+      "title": "“カスの『コーヒートーク』”こと『Living on Plain Pasta』9月10日に配信へ！酒クズ先輩にトンデモ料理を振る舞う一夏のADV",
+      "url": "http://www.gamespark.jp/article/2026/09/01/171594.html",
       "category": "game",
       "source": "GameSpark",
       "id": "10"
     },
     {
-      "title": "最大5人協力ローグライト・暴力FPS『Serious Sam: Shatterverse』配信開始！マルチバースからきた異なる能力のサムおじさんたちが活躍",
-      "url": "http://www.gamespark.jp/article/2026/09/01/171590.html",
+      "title": "90年代東京。世界滅亡を望む少女と奇妙な同居生活を送るサイコADV『Rain98』ウィッシュリスト8万件突破！体験版開発は大詰めへ",
+      "url": "http://www.gamespark.jp/article/2026/09/01/171593.html",
       "category": "game",
       "source": "GameSpark",
       "id": "11"
     },
     {
-      "title": "好きな“SF”アニメは？ アンケート〆切は9月7日【#宇宙の日】",
-      "url": "https://animeanime.jp/article/2026/09/01/102590.html",
+      "title": "「ポムポムプリン」がおにぎりやワンコに大変身!? むにゅぐるみパティオ店頭にて販売開始♪",
+      "url": "https://animeanime.jp/article/2026/09/01/102591.html",
       "category": "anime",
       "source": "アニメ!アニメ!",
       "id": "12"
