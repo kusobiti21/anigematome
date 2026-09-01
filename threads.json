@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-09-01T05:01:32+00:00",
+  "updated_at": "2026-09-01T06:02:26+00:00",
   "threads": [
     {
-      "title": "シティコネクション，東京ゲームショウ2026の特設サイトを開設。「じゃじゃ丸の百鬼夜行伝」をはじめとした新作を出展",
-      "url": "https://www.4gamer.net/games/969/G096932/20260901013/",
+      "title": "登録者数130万人超のYouTubeアニメをゲーム化。スマホ向け放置系RPG「ブラックチャンネル ブレイズロード」，9月14日にリリース",
+      "url": "https://www.4gamer.net/games/037/G103798/20260901015/",
       "category": "game",
       "source": "4Gamer",
       "id": "1"
     },
     {
-      "title": "「けん玉100人シミュレーター」，最大10人のオンラインマルチプレイを実装。1人でも失敗すれば全員ゲームオーバー",
-      "url": "https://www.4gamer.net/games/998/G099860/20260901014/",
+      "title": "モンスター収集ローグライト「Wilderings: The Lost Spring」，早期アクセスを近日中に開始。「Rewilders」から改題し，正式版は2027年春を予定［gamescom］",
+      "url": "https://www.4gamer.net/games/939/G093958/20260901016/",
       "category": "game",
       "source": "4Gamer",
       "id": "2"
     },
     {
-      "title": "老舗の自作PC向けブランド「玄人志向」が「Crowxis」へとリブランディング。詳細は東京ゲームショウ2026で公開",
-      "url": "https://www.4gamer.net/games/999/G999902/20260830005/",
+      "title": "［インタビュー］香港のゲーム開発者が1人でも会社を立てる理由。香港ゲーム開発連盟・GameDEVAの代表に，香港のゲームシーンについて話を聞いた",
+      "url": "https://www.4gamer.net/games/964/G096415/20260806059/",
       "category": "game",
       "source": "4Gamer",
       "id": "3"
     },
     {
-      "title": "最大4人で協力できる和風ホラーゲーム「迷宮神社」，Steamストアページを公開。累計15万本の販売数を記録した「迷宮校舎」の精神的続編",
-      "url": "https://www.4gamer.net/games/037/G103794/20260901008/",
+      "title": "シティコネクション，東京ゲームショウ2026の特設サイトを開設。「じゃじゃ丸の百鬼夜行伝」をはじめとした新作を出展",
+      "url": "https://www.4gamer.net/games/969/G096932/20260901013/",
       "category": "game",
       "source": "4Gamer",
       "id": "4"
+    },
+    {
+      "title": "物理演算・極限チャレンジ『けん玉100人シミュレーター』に最大10人マルチプレイ追加。誰かのミスですべて台無し、連帯責任100連けん玉",
+      "url": "https://automaton-media.com/articles/newsjp/20260901-464355/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "5"
+    },
+    {
+      "title": "『鬼武者 Way of the Sword』、“シリーズトップ級メタスコア”で前評判上々。現代の技術だから作れた新生鬼武者、発売前から勢いに乗る",
+      "url": "https://automaton-media.com/articles/newsjp/20260901-464348/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "6"
     },
     {
       "title": "“いわくつき資料”を読み解くホラー『『スクジサマ』を巡る考察』発表。亡くなったオカルトライターが遺した資料から全容に迫る、モキュメンタリー作品",
       "url": "https://automaton-media.com/articles/newsjp/20260901-464339/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "5"
+      "id": "7"
     },
     {
       "title": "最大4人マルチ対応・脱出ホラー『迷宮神社』発表。視覚特化、聴覚特化、さまよう怪異を見極め和風異界から脱出",
       "url": "https://automaton-media.com/articles/newsjp/20260901-464328/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "6"
-    },
-    {
-      "title": "マルチ対応リアル洞窟探検ゲーム『Cave Expedition』発表。“本物の洞窟探検家”が携わり、音も岩肌も「洞窟で収録」した本気仕様",
-      "url": "https://automaton-media.com/articles/newsjp/20260901-464322/",
-      "category": "game",
-      "source": "AUTOMATON",
-      "id": "7"
-    },
-    {
-      "title": "基本プレイ無料・“新感覚”映像没入ゲーム『アクティブシネマRPG 369（ミロク）』サービス開始。ブラウザから遊べる「先端技術フル活用」の意欲作",
-      "url": "https://automaton-media.com/articles/newsjp/20260831-464160/",
-      "category": "game",
-      "source": "AUTOMATON",
       "id": "8"
     },
     {
-      "title": "実在の探検家チームが制作する洞窟探検シムがガチゲーすぎる！最大4人で地下水が溢れる洞窟をロープを張り慎重に進む『Cave Expedition』がめっちゃリアル",
-      "url": "http://www.gamespark.jp/article/2026/09/01/171575.html",
+      "title": "次回「ニンダイ」2026年9月10日に配信される説が浮上―情報流出を受け「9月10日に情報お届け」と告知した『ジャストダンス』のポストが話題",
+      "url": "http://www.gamespark.jp/article/2026/09/01/171577.html",
       "category": "game",
       "source": "GameSpark",
       "id": "9"
     },
     {
-      "title": "ごく普通のオッサンの宇宙サバイバルADV『Breathedge 2』Steam早期アクセス開始！チキンと銀河を駆けるユーモア溢れる作品が早くも“非常に好評”で人気",
-      "url": "http://www.gamespark.jp/article/2026/09/01/171574.html",
+      "title": "『モンハンワイルズ：アセンダンス』世界初試遊がTGS2026で実施決定！新モンスターや復活古龍の討伐クエストを用意",
+      "url": "http://www.gamespark.jp/article/2026/09/01/171576.html",
       "category": "game",
       "source": "GameSpark",
       "id": "10"
     },
     {
-      "title": "【値上げ後価格39.99ユーロ（約5,200円）→今セールなら2,295円】買うならセール中の今しかない。サバイバルアクションRPG『Enshrouded~霧の王国~』セール終了後に値上げ実施―まもなく正式版登場へ",
-      "url": "http://www.gamespark.jp/article/2026/09/01/171573.html",
+      "title": "実在の探検家チームが制作する洞窟探検シムがガチゲーすぎる！最大4人で地下水が溢れる洞窟をロープを張り慎重に進む『Cave Expedition』がめっちゃリアル",
+      "url": "http://www.gamespark.jp/article/2026/09/01/171575.html",
       "category": "game",
       "source": "GameSpark",
       "id": "11"
