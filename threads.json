@@ -1,86 +1,86 @@
 {
-  "updated_at": "2026-09-01T08:02:03+00:00",
+  "updated_at": "2026-09-01T09:01:41+00:00",
   "threads": [
     {
-      "title": "今夜22時から放送の「RADIO 4Gamer Tap（仮）」では，「キャプテン翼２ WORLD FIGHTERS」を紹介します",
-      "url": "https://www.4gamer.net/games/981/G098133/20260901024/",
+      "title": "「ブラスタ」7周年を先取り。衣装デザイナーらへのメールインタビューで紐解く，「ワルい格好良さ」と7周年衣装「神と悪魔」",
+      "url": "https://www.4gamer.net/games/462/G046220/20260803034/",
       "category": "game",
       "source": "4Gamer",
       "id": "1"
     },
     {
-      "title": "宇宙クジラの背中に街を築くSFシティビルダー「Beyond These Stars」の魅力に迫る。住人とクジラの相反するニーズを満たそう［gamescom］",
-      "url": "https://www.4gamer.net/games/686/G068686/20260901019/",
+      "title": "iPhone / iPad向けアプリ「ブリキンロール」配信開始。西 健一氏がAIとの対話で完成させた，装置を組んでボールを転がす物理パズル",
+      "url": "https://www.4gamer.net/games/024/G102448/20260901028/",
       "category": "game",
       "source": "4Gamer",
       "id": "2"
     },
     {
-      "title": "「放置少女」，「転スラ」コラボ「転生したら放置少女だった件」を9月8日開始。リムルたちが異世界へ転移",
-      "url": "https://www.4gamer.net/games/396/G039619/20260901023/",
+      "title": "東京ゲームショウ2026にアイオーデータが出展。GigaCrystaブランドの最新ディスプレイを展示",
+      "url": "https://www.4gamer.net/games/278/G027801/20260901030/",
       "category": "game",
       "source": "4Gamer",
       "id": "3"
     },
     {
-      "title": "「モンスターハンターワイルズ：アセンダンス」，世界初のプレイアブル出展。TGS 2026のカプコンブース情報第1弾が公開に",
-      "url": "https://www.4gamer.net/games/759/G075952/20260901022/",
+      "title": "「Chronicles: Medieval」は俯瞰的な戦術指示と，現場のリーダーとしてのダイナミックなアクションが完全に一体化［gamescom］",
+      "url": "https://www.4gamer.net/games/917/G091712/20260901027/",
       "category": "game",
       "source": "4Gamer",
       "id": "4"
+    },
+    {
+      "title": "2人専用アクションゲーム『オービタルズ Orbitals』レビュー。「友情崩壊協力ゲーム」時代の真逆を征く、「友情を育む」宝石のような協力ゲーム",
+      "url": "https://automaton-media.com/articles/impressionjp/orbitals-20260901-464392/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "5"
+    },
+    {
+      "title": "乗りに乗る『アークナイツ』開発元Hypergryph、“巨大ビル1棟丸ごと借り”で本社を移転へ。「猫部屋」のニーズも満たす新天地",
+      "url": "https://automaton-media.com/articles/newsjp/20260901-464410/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "6"
+    },
+    {
+      "title": "「もう引退するから“売れない理由”を教えて」と募ったゲーム開発者、意見と向き合いアプデ。辛辣フィードバックも糧に、踏みとどまる",
+      "url": "https://automaton-media.com/articles/newsjp/20260901-464393/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "7"
     },
     {
       "title": "最大10人オンラインお絵描きクイズ『あの雲はまるで』発表。“分かりやすすぎてもダメ”な、じらし上手の発想勝負",
       "url": "https://automaton-media.com/articles/newsjp/20260901-464366/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "5"
-    },
-    {
-      "title": "『エルデンリング』のボス、「『ナイトレイン』で見たことあるor未履修」で悲鳴っぷり真っ二つ。「鈴玉狩り」など“頻出ボス”で差がつく",
-      "url": "https://automaton-media.com/articles/newsjp/20260901-464370/",
-      "category": "game",
-      "source": "AUTOMATON",
-      "id": "6"
-    },
-    {
-      "title": "SIE、「カスタマーハラスメントに対する基本方針について」を日本向けに公開。来月の改正労働施策総合推進法の施行を受けて",
-      "url": "https://automaton-media.com/articles/newsjp/sie-20260901-464319/",
-      "category": "game",
-      "source": "AUTOMATON",
-      "id": "7"
-    },
-    {
-      "title": "物理演算・極限チャレンジ『けん玉100人シミュレーター』に最大10人マルチプレイ追加。誰かのミスですべて台無し、連帯責任100連けん玉",
-      "url": "https://automaton-media.com/articles/newsjp/20260901-464355/",
-      "category": "game",
-      "source": "AUTOMATON",
       "id": "8"
     },
     {
-      "title": "PCパーツの「玄人志向」謎のサングラス男から八咫烏へ転生…新ブランド「Crowxis（クロウシス）」としてリニューアル",
-      "url": "http://www.gamespark.jp/article/2026/09/01/171581.html",
+      "title": "デスゲーム参加者の死因を特定するADV『デスゲームの報告書』Steam配信開始！『オブラディン』や『Type Help』好きな人向け",
+      "url": "http://www.gamespark.jp/article/2026/09/01/171584.html",
       "category": "game",
       "source": "GameSpark",
       "id": "9"
     },
     {
-      "title": "80年代ファミコンゲーム『オリュンポスの戦い』のリメイク版が2027年Steamに登場！オリジナル開発者の夫婦が自ら手がける「愛の伝説」",
-      "url": "http://www.gamespark.jp/article/2026/09/01/171580.html",
+      "title": "『GTA6』と発売時期が被るけど…「ゴジラファンは必ず買ってくれる」―日本で発売されない『ゴジラ怪獣大乱闘』リマスター版は11月3日「ゴジラの日」に配信へ",
+      "url": "http://www.gamespark.jp/article/2026/09/01/171583.html",
       "category": "game",
       "source": "GameSpark",
       "id": "10"
     },
     {
-      "title": "【2,300円→1,380円】『Core Keeper』大型アップデートの内容を“我慢しきれず”ティーザー公開していたと明かす―8月の情報まとめ公開＆セール実施",
-      "url": "http://www.gamespark.jp/article/2026/09/01/171579.html",
+      "title": "『紅の砂漠』をPCブラウザで無料体験できる！Twitchにてダウンロード不要の20分限定デモ版を提供中",
+      "url": "http://www.gamespark.jp/article/2026/09/01/171582.html",
       "category": "game",
       "source": "GameSpark",
       "id": "11"
     },
     {
-      "title": "「攻殻機動隊」防災バックパック登場！付属の隠しソーラーパネルで電源確保をサポート　日常生活でも使用可能【防災の日】",
-      "url": "https://animeanime.jp/article/2026/09/01/102575.html",
+      "title": "秋アニメ「しろたん」10月3日より放送開始！ メインビジュアル公開＆ファン参加型メッセージボード企画も♪",
+      "url": "https://animeanime.jp/article/2026/09/01/102580.html",
       "category": "anime",
       "source": "アニメ!アニメ!",
       "id": "12"
