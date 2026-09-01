@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-09-01T12:02:10+00:00",
+  "updated_at": "2026-09-01T13:02:22+00:00",
   "threads": [
+    {
+      "title": "Snapdragon 8 Elite Gen 5＋独自ゲーミングチップ搭載のスマホ「POCO F9 Ultra」発売。Bose協業のサブウーファも内蔵",
+      "url": "https://www.4gamer.net/games/990/G999019/20260830003/",
+      "category": "game",
+      "source": "4Gamer",
+      "id": "1"
+    },
+    {
+      "title": "大量に押し寄せるクリーチャーを倒しながら，ランタンを灯して霧の奥を探索していく。見下ろし型のシューティングサバイバル「Project Lightbringer」発表",
+      "url": "https://www.4gamer.net/games/038/G103827/20260901046/",
+      "category": "game",
+      "source": "4Gamer",
+      "id": "2"
+    },
     {
       "title": "崩壊する火山による災害から生存者を救出し，脱出路を確保せよ。「Into the Fire」，オープンプレイテストをスタート",
       "url": "https://www.4gamer.net/games/859/G085975/20260901043/",
       "category": "game",
       "source": "4Gamer",
-      "id": "1"
+      "id": "3"
     },
     {
       "title": "デスゲーム参加者の死因・凶器・加害者を割り出し，無人島で起きた事件の全体像を報告書にまとめる。推理ADV「デスゲームの報告書」，本日発売",
       "url": "https://www.4gamer.net/games/033/G103351/20260901041/",
       "category": "game",
       "source": "4Gamer",
-      "id": "2"
-    },
-    {
-      "title": "果てしなく続く川を命綱に，危険な自然を生き抜くサバイバルゲーム「Stranded Deep 2」，2027年にリリース",
-      "url": "https://www.4gamer.net/games/038/G103822/20260901040/",
-      "category": "game",
-      "source": "4Gamer",
-      "id": "3"
-    },
-    {
-      "title": "「ディーゼル」×「FFXIV」，コラボプロジェクトの全貌が公開に。アパレルや雑貨，アート展の情報を一挙掲載",
-      "url": "https://www.4gamer.net/games/199/G019924/20260901038/",
-      "category": "game",
-      "source": "4Gamer",
       "id": "4"
+    },
+    {
+      "title": "「大阪の魅力を感じながら狩りをする2日間にしたい」。『モンスターハンターNow』リアルイベント「カーニバル 2026：大阪」合同発表会レポート",
+      "url": "https://automaton-media.com/articles/reportjp/monster-hunter-now-20260901-464458/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "5"
     },
     {
       "title": "『鬼武者 Way of the Sword』レビュー。武蔵の奇譚時代劇は“火が付く”のがちょっと遅い。圧倒的作り込みの剣戟で魅せる、「令和のカプコン」流バッサリ感",
       "url": "https://automaton-media.com/articles/impressionjp/20260901-464457/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "5"
+      "id": "6"
     },
     {
       "title": "人気沸騰中のゲーム『STAR WARS ゼロ・カンパニー』、開発チームの約80％が「無給の休職状態」と報じられる。“売れれば復職”の崖っぷち状態か",
       "url": "https://automaton-media.com/articles/newsjp/20260901-464448/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "6"
+      "id": "7"
     },
     {
       "title": "宇宙“ガラクタDIY”サバイバル『Breathedge 2』期待にたがわぬ好発進。オッサン＆チキンが「ありあわせ装備」で銀河を救う、危険だらけトンチキ珍道中",
       "url": "https://automaton-media.com/articles/newsjp/20260901-464441/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "7"
-    },
-    {
-      "title": "スクエニHD、“非公開会社になりそう”との報道をきっぱり否定。事実無根だとして",
-      "url": "https://automaton-media.com/articles/newsjp/20260901-464432/",
-      "category": "game",
-      "source": "AUTOMATON",
       "id": "8"
     },
     {
-      "title": "『昭和米国物語』は「今回がようやくプレイヤーの皆さんと本当に出会うことができた」―クリエイティブディレクターがgamescomを終えてコメント",
-      "url": "http://www.gamespark.jp/article/2026/09/01/171595.html",
+      "title": "NVIDIAの新技術「DLSS 5」でさらなるグラフィックの境地へ──AIがレンダリング済みのフレームに、フォトリアルな光と質感を加える仕組みとは【特集】",
+      "url": "http://www.gamespark.jp/article/2026/09/01/171598.html",
       "category": "game",
       "source": "GameSpark",
       "id": "9"
     },
     {
-      "title": "“カスの『コーヒートーク』”こと『Living on Plain Pasta』9月10日に配信へ！酒クズ先輩にトンデモ料理を振る舞う一夏のADV",
-      "url": "http://www.gamespark.jp/article/2026/09/01/171594.html",
+      "title": "『ダンジョンズ＆ドラゴンズ』に影響受けた2Dオープンワールドのターン制タクティカルRPGが正式リリース。ハイファンタジー世界で最高のパーティを編成―採れたて！本日のSteam注目ゲーム6選【2026年9月1日】",
+      "url": "http://www.gamespark.jp/article/2026/09/01/171597.html",
       "category": "game",
       "source": "GameSpark",
       "id": "10"
     },
     {
-      "title": "90年代東京。世界滅亡を望む少女と奇妙な同居生活を送るサイコADV『Rain98』ウィッシュリスト8万件突破！体験版開発は大詰めへ",
-      "url": "http://www.gamespark.jp/article/2026/09/01/171593.html",
+      "title": "好調の『SW ゼロ・カンパニー』開発のBit Reactor、発売の数週間前に従業員を一時解雇していたと海外メディア報道―資金難で開発自体も「驚くほど緊縮的」",
+      "url": "http://www.gamespark.jp/article/2026/09/01/171596.html",
       "category": "game",
       "source": "GameSpark",
       "id": "11"
