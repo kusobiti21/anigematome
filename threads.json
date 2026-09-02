@@ -1,86 +1,86 @@
 {
-  "updated_at": "2026-09-02T10:01:58+00:00",
+  "updated_at": "2026-09-02T11:01:41+00:00",
   "threads": [
+    {
+      "title": "にじさんじ「共通衣装3Dグッズ」にライバー15名が加わって9月7日発売。「にじぱぺっと 共通衣装シリーズ」も8名登場",
+      "url": "https://www.4gamer.net/games/004/G100451/20260902047/",
+      "category": "game",
+      "source": "4Gamer",
+      "id": "1"
+    },
+    {
+      "title": "アヘン欲しさに娘を売った男に残された選択肢は，「最悪」か「もっと最悪」しかない。1801年の広州を舞台にした心理ホラーADV「THE GUTTER」，本日発売",
+      "url": "https://www.4gamer.net/games/985/G098550/20260902046/",
+      "category": "game",
+      "source": "4Gamer",
+      "id": "2"
+    },
     {
       "title": "「コンソールアーカイブス ザ・コンビニ2 〜全国チェーン展開だ！〜」，9月3日配信。店舗を経営して全国チェーンを目指すSLGの続編",
       "url": "https://www.4gamer.net/games/038/G103879/20260902038/",
       "category": "game",
       "source": "4Gamer",
-      "id": "1"
+      "id": "3"
     },
     {
       "title": "殺人鬼がうろつく住宅街で，追跡をかわしながらピザを配達する。ステルス要素を備えたサバイバルホラー「Death Delivery」発表，早期アクセスとして配信予定",
       "url": "https://www.4gamer.net/games/038/G103881/20260902040/",
       "category": "game",
       "source": "4Gamer",
-      "id": "2"
-    },
-    {
-      "title": "「レゴ ハリー・ポッター コレクション」，Switch2向けに発売決定。レゴで完全再現されたハリー・ポッターの世界を冒険できる",
-      "url": "https://www.4gamer.net/games/038/G103877/20260902036/",
-      "category": "game",
-      "source": "4Gamer",
-      "id": "3"
-    },
-    {
-      "title": "ライバーの誕生日/記念日グッズ＆ボイスのビジュアルを使用した新グッズ「にじさんじ ノスタルジアコレクション2026」が9月7日発売",
-      "url": "https://www.4gamer.net/games/004/G100451/20260902039/",
-      "category": "game",
-      "source": "4Gamer",
       "id": "4"
+    },
+    {
+      "title": "リアル芝刈りシム『Lawn Mowing Simulator 2』では「数万枚の落ち葉」を吹き飛ばせる新システム実装。芝生表現も進化した次世代バーチャル庭仕事ゲーム、9月23日配信へ",
+      "url": "https://automaton-media.com/articles/newsjp/20260902-464692/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "5"
+    },
+    {
+      "title": "「ブロックが三角柱の『マインクラフト』」を作った人あらわる。置く向きから当たり判定まで、“脱四角”による難題次々",
+      "url": "https://automaton-media.com/articles/newsjp/20260902-464669/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "6"
     },
     {
       "title": "美少女精神崩壊ローグライク『カオスゼロナイトメア』新キャラ「オルガ」は持続ダメージ大幅強化の補助型アタッカー。ストレス管理が重要な大亀裂新ボス「アネス」も公表",
       "url": "https://automaton-media.com/articles/newsjp/20260902-464663/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "5"
+      "id": "7"
     },
     {
       "title": "ガンダム最新作「RG XARX-ZERO（アレックスゼロ）」神山健治監督インタビュー。「ガンダム」への思いや、新作ゲーム『ガンダム ローグオービット』に連なる世界観を訊いた",
       "url": "https://automaton-media.com/articles/interviewsjp/gundam-20260902-464661/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "6"
-    },
-    {
-      "title": "『モンスターハンターワイルズ：アセンダンス』新要素「ブーストブレイサー」のアクションどっさりお披露目。2連相殺や“狩猟笛の躍動”など見どころだらけ",
-      "url": "https://automaton-media.com/articles/newsjp/20260902-464654/",
-      "category": "game",
-      "source": "AUTOMATON",
-      "id": "7"
-    },
-    {
-      "title": "『ドラゴンズドグマ2』大改修アプデで推奨スペック引き下げ、がっつり最適化。さっそくパフォーマンス改善報告も",
-      "url": "https://automaton-media.com/articles/newsjp/20260902-464647/",
-      "category": "game",
-      "source": "AUTOMATON",
       "id": "8"
     },
     {
-      "title": "97年ヒューマンのコンビニ経営シム『ザ・コンビニ2 ～全国チェーン展開だ！～』の「コンアカ」版がPS5/スイッチ2で9月3日配信決定！1作目に続き",
-      "url": "http://www.gamespark.jp/article/2026/09/02/171643.html",
+      "title": "メトロイドヴァニアがお買い得！『グリム・ガーディアンズ SotD』35%オフに『Blasphemous』75%オフ、『銀の斧』や『Dead Cells』は半額【eショップ・PS Storeのお薦めセール】",
+      "url": "http://www.gamespark.jp/article/2026/09/02/171646.html",
       "category": "game",
       "source": "GameSpark",
       "id": "9"
     },
     {
-      "title": "「『ウィッチャー』譲りの“血統”に恥じないRPG」海外レビューハイスコア『The Blood of Dawnwalker』",
-      "url": "http://www.gamespark.jp/article/2026/09/02/171642.html",
+      "title": "『S.T.A.L.K.E.R. 2』Mod開発キットのフェーズ2がリリース！ 独自のストーリーやクエストが制作可能に",
+      "url": "http://www.gamespark.jp/article/2026/09/02/171645.html",
       "category": "game",
       "source": "GameSpark",
       "id": "10"
     },
     {
-      "title": "「たった2分の会議でキャリアのすべてが終わった、『スカイリム』や『Fallout』を手がけているから安全だと思ったのに」…XBOXリセットに伴うベセスダの解雇通知に対する悲痛な声",
-      "url": "http://www.gamespark.jp/article/2026/09/02/171641.html",
+      "title": "サ終が迫る『AVA』18年・6,485日の軌跡を振り返る特設サイト公開。新作『AVA RE:BIRTH』へキャラクター名を引き継げる期間限定キャンペーンも",
+      "url": "http://www.gamespark.jp/article/2026/09/02/171644.html",
       "category": "game",
       "source": "GameSpark",
       "id": "11"
     },
     {
-      "title": "ハローキティの繊細な刺繍がかわいい♪ 完売したミニショルダーバッグが待望の再入荷！ 2WAYで使える上品デザイン",
-      "url": "https://animeanime.jp/article/2026/09/02/102611.html",
+      "title": "サンリオキャラクターズが“くらげ”や“ドーナツ”に♪ 「むにゅぐるみマスコット」新作が9月4日予約開始",
+      "url": "https://animeanime.jp/article/2026/09/02/102615.html",
       "category": "anime",
       "source": "アニメ!アニメ!",
       "id": "12"
