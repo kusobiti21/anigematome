@@ -1,89 +1,82 @@
 {
-  "updated_at": "2026-09-02T03:01:35+00:00",
+  "updated_at": "2026-09-02T04:01:50+00:00",
   "threads": [
     {
-      "title": "［プレイレポ］“神は細部に宿る”を地で行こうとしてる。驚きのこだわりと，戦闘ゼロのデモ版から感じる「無限大ANANTA」の気概",
-      "url": "https://www.4gamer.net/games/731/G073164/20260827018/",
+      "title": "PARCO GAMES，東京ゲームショウ2026に出展。「Finding Polka」「DEPERSON」など計4作品を楽しめる",
+      "url": "https://www.4gamer.net/games/975/G097539/20260901044/",
       "category": "game",
       "source": "4Gamer",
       "id": "1"
     },
     {
-      "title": "「G-MODEアーカイブス+ リッジレーサー」，Switch版を9月3日，Steam版を9月16日に配信。フィーチャーフォン版を復刻",
-      "url": "https://www.4gamer.net/games/038/G103823/20260901039/",
+      "title": "「マリオカート8 デラックス」，Switch 2の性能を活かした機能が利用可能に。画面分割による8人プレイやカメラプレイに対応",
+      "url": "https://www.4gamer.net/games/368/G036843/20260902007/",
       "category": "game",
       "source": "4Gamer",
       "id": "2"
     },
     {
-      "title": "「週刊VTuberファイル」File.136：天晴ほかる【ユニバースプロダクション】",
-      "url": "https://www.4gamer.net/games/011/G101138/20260829003/",
+      "title": "マルチバースを舞台に敵の大群と戦うローグライトFPS「Serious Sam: Shatterverse」配信開始。最大5人でメンタルの軍勢に挑む",
+      "url": "https://www.4gamer.net/games/993/G099390/20260902008/",
       "category": "game",
       "source": "4Gamer",
       "id": "3"
     },
     {
-      "title": "「ドラゴンズドグマ 2」，大型アップデート「TU3.2」を本日配信。「ダークアリズン」のゲームサイクル紹介映像も公開",
-      "url": "https://www.4gamer.net/games/638/G063880/20260902004/",
+      "title": "怪談師が運営していたWebサイトを調査して，読むことで発現する呪いを解く。ホラーARG「死にぞこないの最凶怖い話」，無料で公開",
+      "url": "https://www.4gamer.net/games/038/G103829/20260902006/",
       "category": "game",
       "source": "4Gamer",
       "id": "4"
+    },
+    {
+      "title": "ブラック墓守スローライフ『Graveyard Keeper 2』、5日間の予約だけで「約1億6000万円」売り上げる。“前作の人気再点火”を弾みに、発売前から絶好調",
+      "url": "https://automaton-media.com/articles/newsjp/20260902-464579/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "5"
+    },
+    {
+      "title": "「1億匹」釣り尽くしインクリメンタル『海の魚、ぜんぶ釣る』Steam版発表。UFOからダイナマイトまで、カオス化止まらぬインフレ釣り体験",
+      "url": "https://automaton-media.com/articles/newsjp/20260902-464589/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "6"
+    },
+    {
+      "title": "新作ゲーム紹介イベント「PLAYISM GAME SHOW: TGS 2026 Preview」9月10日配信へ。TGS出展作品「全11本」お届け、“初公開タイトル”も",
+      "url": "https://automaton-media.com/articles/newsjp/20260902-464580/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "7"
     },
     {
       "title": "“電脳少女を育てる”作業集中用ゲーム『Fenestra: my focus, her future』発表。『プリンセスメーカー』風、リアル作業で育つ娘は接し方次第でダウナー系・ツンデレなど9変化",
       "url": "https://automaton-media.com/articles/newsjp/20260902-464560/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "5"
-    },
-    {
-      "title": "『マインクラフト』最新開発版にて「ファーランド」を復活させる“隠しオプション”が見つかる。約15年ぶりに姿をあらわす、幻の地",
-      "url": "https://automaton-media.com/articles/newsjp/minecraft-far-lands-20260902-464569/",
-      "category": "game",
-      "source": "AUTOMATON",
-      "id": "6"
-    },
-    {
-      "title": "ゲーム実況者shu3氏が手がける推理ADV『デスゲームの報告書』、好評率98％の熱い人気。デスゲーム参加者の“死の真相”を突き止める、『オブラディン』風ゲーム",
-      "url": "https://automaton-media.com/articles/newsjp/20260902-464553/",
-      "category": "game",
-      "source": "AUTOMATON",
-      "id": "7"
-    },
-    {
-      "title": "「ファミリーコンピュータ Nintendo Classics」に『忍者龍剣伝III 黄泉の方船』など3作品追加。往年のアクションてんこ盛り",
-      "url": "https://automaton-media.com/articles/newsjp/20260902-464545/",
-      "category": "game",
-      "source": "AUTOMATON",
       "id": "8"
     },
     {
-      "title": "「INDIE Live Expo 2026.12.1」INDIE Wavesの一般公募スタート！応募は無料・締切は9月29日、TGS2026にもブース出展",
-      "url": "http://www.gamespark.jp/article/2026/09/02/171623.html",
+      "title": "海外ゲーム市場で勝つための「コンプライアンス対応」―Apple・Googleの「年齢シグナル」は万能ではない。受け取った“その先”で問われる開発者の責任",
+      "url": "http://www.gamespark.jp/article/2026/09/02/171626.html",
       "category": "game",
       "source": "GameSpark",
       "id": "9"
     },
     {
-      "title": "『リッジレーサー』フィーチャーフォン版が復刻！傑作レーシングが「G-MODEアーカイブス+」にて登場―スイッチ版9月3日・Steam版9月16日配信",
-      "url": "http://www.gamespark.jp/article/2026/09/02/171622.html",
+      "title": "放置ハクスラRPG『タスクバーヒーロー』大型アプデ「疫病地帯」9月8日14時配信へ。新キューブレシピ「腐食」と統計メニューなども追加",
+      "url": "http://www.gamespark.jp/article/2026/09/02/171625.html",
       "category": "game",
       "source": "GameSpark",
       "id": "10"
     },
     {
-      "title": "『ドラゴンズドグマ 2』大型アプデ配信！竜憑き回復アイテム「竜下し」を追加―セーブスロット3枠化＆カスタムスキル6枠化や最適化などモリモリ調整",
-      "url": "http://www.gamespark.jp/article/2026/09/02/171621.html",
+      "title": "作業用の集中支援アプリ×プリメ系育成ADV『Fenestra』発表！作業した分だけ少女が育ち、ダウナーになるかツンデレになるかなどはあなた次第のマルチエンド",
+      "url": "http://www.gamespark.jp/article/2026/09/02/171624.html",
       "category": "game",
       "source": "GameSpark",
       "id": "11"
-    },
-    {
-      "title": "「ちいかわ」ハチワレ、うさぎのお顔“はんぺん”や、チョコにグミも！食欲の秋は「ちいかわ」と☆",
-      "url": "https://animeanime.jp/article/2026/09/02/102596.html",
-      "category": "anime",
-      "source": "アニメ!アニメ!",
-      "id": "12"
     }
   ]
 }
