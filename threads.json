@@ -1,30 +1,30 @@
 {
-  "updated_at": "2026-09-02T22:01:34+00:00",
+  "updated_at": "2026-09-02T23:01:24+00:00",
   "threads": [
+    {
+      "title": "そうだ アニメ，見よう：第267回は「スーパーの裏でヤニ吸うふたり」。中年サラリーマンと若い女性店員の恋模様を描いた癒し系アニメ",
+      "url": "https://www.4gamer.net/games/338/G033856/20260902029/",
+      "category": "game",
+      "source": "4Gamer",
+      "id": "1"
+    },
     {
       "title": "労働者，資本家，政府で利害が真っ向対立。政治経済をテーマにした超重量級ボードゲーム「ヘゲモニー」が，ボードゲームアリーナで正式実装",
       "url": "https://www.4gamer.net/games/639/G063965/20260903003/",
       "category": "game",
       "source": "4Gamer",
-      "id": "1"
+      "id": "2"
     },
     {
       "title": "「キングスレイド」が「キングスレイド リバース（RE:VERSE）」として復活。原作声優陣が多数続投，メインストーリーは日本語フルボイスに【PR】",
       "url": "https://www.4gamer.net/games/944/G094489/20260901017/",
       "category": "game",
       "source": "4Gamer",
-      "id": "2"
+      "id": "3"
     },
     {
       "title": "「アナザーエデン ビギンズ」，体験版を配信開始。メインストーリーを第6章までプレイでき，セーブデータは製品版に引き継ぎ可能",
       "url": "https://www.4gamer.net/games/981/G098195/20260902042/",
-      "category": "game",
-      "source": "4Gamer",
-      "id": "3"
-    },
-    {
-      "title": "「ShipShaper」，早期アクセス版をSteamでリリース。直感的な操作で楽しめる造船サンドボックスゲーム",
-      "url": "https://www.4gamer.net/games/029/G102982/20260902058/",
       "category": "game",
       "source": "4Gamer",
       "id": "4"
@@ -58,22 +58,22 @@
       "id": "8"
     },
     {
-      "title": "「ここは床？天井？」重力反転で脳がバグるパズル『He Who Watches』プレイレポ。弓矢でブロックを操る異色の倉庫番",
-      "url": "http://www.gamespark.jp/article/2026/09/03/171664.html",
+      "title": "『ウィッチャー3』ダンディリオンが消えた！美しき新天地から“血を吸う茨の庭”を冒険する新拡張『追憶の調べ』約45分のゲームプレイを観てきたぞ【gamescom 2026】",
+      "url": "http://www.gamespark.jp/article/2026/09/03/171666.html",
       "category": "game",
       "source": "GameSpark",
       "id": "9"
     },
     {
-      "title": "船のデザイン特化の『ShipShaper: Falconeer Chronicles』早期アクセス開始―簡単に自分好みの船が作成できるほか『Bulwark』に登場させることも可能",
-      "url": "http://www.gamespark.jp/article/2026/09/03/171663.html",
+      "title": "赤ちゃんイノシシが冒険するほっこり系ADV『アドラブル・アドベンチャー』無料アプデ「Family Fun」配信！",
+      "url": "http://www.gamespark.jp/article/2026/09/03/171665.html",
       "category": "game",
       "source": "GameSpark",
       "id": "10"
     },
     {
-      "title": "超リアルボディカムFPS『Bodycam』大型アップデート「Locked & Loaded」配信―武器カスタム大幅強化、新マップ「塹壕」やドローン追加",
-      "url": "http://www.gamespark.jp/article/2026/09/03/171662.html",
+      "title": "「ここは床？天井？」重力反転で脳がバグるパズル『He Who Watches』プレイレポ。弓矢でブロックを操る異色の倉庫番",
+      "url": "http://www.gamespark.jp/article/2026/09/03/171664.html",
       "category": "game",
       "source": "GameSpark",
       "id": "11"
