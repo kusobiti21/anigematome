@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-09-02T00:02:25+00:00",
+  "updated_at": "2026-09-02T01:01:43+00:00",
   "threads": [
+    {
+      "title": "「Delta Force」，全17オペレーターに日本語ボイスを9月8日に実装。2周年の新シーズン「リオリエンテーション」も同日にスタート",
+      "url": "https://www.4gamer.net/games/732/G073256/20260902001/",
+      "category": "game",
+      "source": "4Gamer",
+      "id": "1"
+    },
     {
       "title": "「勝利の女神：NIKKE」，京都コラボ第2弾の詳細を公開。謎解きスタンプラリーや京まふ，嵐電コラボなどを展開",
       "url": "https://www.4gamer.net/games/456/G045622/20260901048/",
       "category": "game",
       "source": "4Gamer",
-      "id": "1"
+      "id": "2"
     },
     {
       "title": "オープンワールド化と高度な自律AIで何が変わるのか？ 「Hello Neighbor 3」の生みの親ニキータ・コレシュニコフ氏が語る“真の自由度”と新たな不気味さ［gamescom］",
       "url": "https://www.4gamer.net/games/775/G077549/20260901051/",
       "category": "game",
       "source": "4Gamer",
-      "id": "2"
+      "id": "3"
     },
     {
       "title": "「無限大ANANTA」の新都市「重霄」は，杭州と上海が溶け合った街。路地の餅つきまで作り込まれていた［gamescom］",
       "url": "https://www.4gamer.net/games/731/G073164/20260827014/",
       "category": "game",
       "source": "4Gamer",
-      "id": "3"
+      "id": "4"
     },
     {
-      "title": "実写ADV「シブヤスクランブルストーリーズ」，クラファン累計支援額1億円を突破。主要人物1名の追加制作も決定",
-      "url": "https://www.4gamer.net/games/905/G090534/20260902003/",
+      "title": "“なんでも実写化”とざわついた「NVIDIA DLSS 5」、9月4日ついに解禁へ。「どこまでリアルにするかは開発者次第」と改めて強調",
+      "url": "https://automaton-media.com/articles/newsjp/20260-464528/",
       "category": "game",
-      "source": "4Gamer",
-      "id": "4"
+      "source": "AUTOMATON",
+      "id": "5"
+    },
+    {
+      "title": "「実は作りやすく可能性に満ちているのに、SRPGはなぜゲーム会社の企画会議で通りづらいのか？」『ハンドラ』SRPGパート開発者と考える、市場にSRPGを増やしていくために必要なこと",
+      "url": "https://automaton-media.com/articles/interviewsjp/srpg-20260902-464498/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "6"
     },
     {
       "title": "協力マルチ対応・大人気残酷美ARPG『No Rest for the Wicked』正式リリースを来年3月へ延期。期待される水準目指し、パフォーマンス・クラスシステムなどさらに磨き込み",
       "url": "https://automaton-media.com/articles/newsjp/20260902-464521/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "5"
+      "id": "7"
     },
     {
       "title": "「大阪の魅力を感じながら狩りをする2日間にしたい」。『モンスターハンターNow』リアルイベント「カーニバル 2026：大阪」合同発表会レポート",
       "url": "https://automaton-media.com/articles/reportjp/monster-hunter-now-20260901-464458/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "6"
-    },
-    {
-      "title": "『鬼武者 Way of the Sword』レビュー。武蔵の奇譚時代劇は“火が付く”のがちょっと遅い。圧倒的作り込みの剣戟で魅せる、「令和のカプコン」流バッサリ感",
-      "url": "https://automaton-media.com/articles/impressionjp/20260901-464457/",
-      "category": "game",
-      "source": "AUTOMATON",
-      "id": "7"
-    },
-    {
-      "title": "人気沸騰中のゲーム『STAR WARS ゼロ・カンパニー』、開発チームの約80％が「無給の休職状態」と報じられる。“売れれば復職”の崖っぷち状態か",
-      "url": "https://automaton-media.com/articles/newsjp/20260901-464448/",
-      "category": "game",
-      "source": "AUTOMATON",
       "id": "8"
+    },
+    {
+      "title": "「武蔵は何者にも止められない自然の猛威そのものだ」海外レビューハイスコア『鬼武者 Way of the Sword』",
+      "url": "http://www.gamespark.jp/article/2026/09/02/171617.html",
+      "category": "game",
+      "source": "GameSpark",
+      "id": "9"
     },
     {
       "title": "『おいでませ、みなみ通りへ！』開発元新作の牛乳配達ADV『Milki Delivery：ミルキィの牛乳屋さん』2026年11月17日発売決定",
       "url": "http://www.gamespark.jp/article/2026/09/02/171616.html",
       "category": "game",
       "source": "GameSpark",
-      "id": "9"
+      "id": "10"
     },
     {
       "title": "自分だけの自然環境を作って歩き回れる『Cozy Country』日本語対応で発売―9月16日まで15%オフの発売記念セール実施",
       "url": "http://www.gamespark.jp/article/2026/09/02/171615.html",
-      "category": "game",
-      "source": "GameSpark",
-      "id": "10"
-    },
-    {
-      "title": "最大100人ミリタリーFPS『WARDOGS』最終ベータテスト発表！前回テストでは同時プレイヤー数10万人突破の注目作",
-      "url": "http://www.gamespark.jp/article/2026/09/02/171614.html",
       "category": "game",
       "source": "GameSpark",
       "id": "11"
