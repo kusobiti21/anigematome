@@ -1,86 +1,86 @@
 {
-  "updated_at": "2026-09-02T02:07:52+00:00",
+  "updated_at": "2026-09-02T03:01:35+00:00",
   "threads": [
     {
-      "title": "「Delta Force」，全17オペレーターに日本語ボイスを9月8日に実装。2周年の新シーズン「リオリエンテーション」も同日にスタート",
-      "url": "https://www.4gamer.net/games/732/G073256/20260902001/",
+      "title": "［プレイレポ］“神は細部に宿る”を地で行こうとしてる。驚きのこだわりと，戦闘ゼロのデモ版から感じる「無限大ANANTA」の気概",
+      "url": "https://www.4gamer.net/games/731/G073164/20260827018/",
       "category": "game",
       "source": "4Gamer",
       "id": "1"
     },
     {
-      "title": "「勝利の女神：NIKKE」，京都コラボ第2弾の詳細を公開。謎解きスタンプラリーや京まふ，嵐電コラボなどを展開",
-      "url": "https://www.4gamer.net/games/456/G045622/20260901048/",
+      "title": "「G-MODEアーカイブス+ リッジレーサー」，Switch版を9月3日，Steam版を9月16日に配信。フィーチャーフォン版を復刻",
+      "url": "https://www.4gamer.net/games/038/G103823/20260901039/",
       "category": "game",
       "source": "4Gamer",
       "id": "2"
     },
     {
-      "title": "オープンワールド化と高度な自律AIで何が変わるのか？ 「Hello Neighbor 3」の生みの親ニキータ・コレシュニコフ氏が語る“真の自由度”と新たな不気味さ［gamescom］",
-      "url": "https://www.4gamer.net/games/775/G077549/20260901051/",
+      "title": "「週刊VTuberファイル」File.136：天晴ほかる【ユニバースプロダクション】",
+      "url": "https://www.4gamer.net/games/011/G101138/20260829003/",
       "category": "game",
       "source": "4Gamer",
       "id": "3"
     },
     {
-      "title": "「無限大ANANTA」の新都市「重霄」は，杭州と上海が溶け合った街。路地の餅つきまで作り込まれていた［gamescom］",
-      "url": "https://www.4gamer.net/games/731/G073164/20260827014/",
+      "title": "「ドラゴンズドグマ 2」，大型アップデート「TU3.2」を本日配信。「ダークアリズン」のゲームサイクル紹介映像も公開",
+      "url": "https://www.4gamer.net/games/638/G063880/20260902004/",
       "category": "game",
       "source": "4Gamer",
       "id": "4"
+    },
+    {
+      "title": "“電脳少女を育てる”作業集中用ゲーム『Fenestra: my focus, her future』発表。『プリンセスメーカー』風、リアル作業で育つ娘は接し方次第でダウナー系・ツンデレなど9変化",
+      "url": "https://automaton-media.com/articles/newsjp/20260902-464560/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "5"
+    },
+    {
+      "title": "『マインクラフト』最新開発版にて「ファーランド」を復活させる“隠しオプション”が見つかる。約15年ぶりに姿をあらわす、幻の地",
+      "url": "https://automaton-media.com/articles/newsjp/minecraft-far-lands-20260902-464569/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "6"
+    },
+    {
+      "title": "ゲーム実況者shu3氏が手がける推理ADV『デスゲームの報告書』、好評率98％の熱い人気。デスゲーム参加者の“死の真相”を突き止める、『オブラディン』風ゲーム",
+      "url": "https://automaton-media.com/articles/newsjp/20260902-464553/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "7"
     },
     {
       "title": "「ファミリーコンピュータ Nintendo Classics」に『忍者龍剣伝III 黄泉の方船』など3作品追加。往年のアクションてんこ盛り",
       "url": "https://automaton-media.com/articles/newsjp/20260902-464545/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "5"
-    },
-    {
-      "title": "『マリオカート8 デラックス』突然アプデ配信、Switch 2に対応。ついでにレース中のスピードが「コイン1枚分だけ速くなる」調整も",
-      "url": "https://automaton-media.com/articles/newsjp/20260902-464539/",
-      "category": "game",
-      "source": "AUTOMATON",
-      "id": "6"
-    },
-    {
-      "title": "大注目の100人対戦FPS『WARDOGS』発売目前に「第2回ベータテスト」開催へ。いよいよ調整大詰め、当日には“大きな発表”も控える",
-      "url": "https://automaton-media.com/articles/newsjp/20260902-464533/",
-      "category": "game",
-      "source": "AUTOMATON",
-      "id": "7"
-    },
-    {
-      "title": "“なんでも実写化”とざわついた「NVIDIA DLSS 5」、9月4日ついに解禁へ。「どこまでリアルにするかは開発者次第」と改めて強調",
-      "url": "https://automaton-media.com/articles/newsjp/20260-464528/",
-      "category": "game",
-      "source": "AUTOMATON",
       "id": "8"
     },
     {
-      "title": "『マリオカート8 デラックス』がスイッチ2に対応！高精細やロード時間短縮、いろいろとカオスな“画面分割8人プレイ”も可能に",
-      "url": "http://www.gamespark.jp/article/2026/09/02/171620.html",
+      "title": "「INDIE Live Expo 2026.12.1」INDIE Wavesの一般公募スタート！応募は無料・締切は9月29日、TGS2026にもブース出展",
+      "url": "http://www.gamespark.jp/article/2026/09/02/171623.html",
       "category": "game",
       "source": "GameSpark",
       "id": "9"
     },
     {
-      "title": "『GTA6』Netflix先行公開映像が3,110万回再生を記録―世界87か国で週間再生回数首位に。でも日本では2位",
-      "url": "http://www.gamespark.jp/article/2026/09/02/171619.html",
+      "title": "『リッジレーサー』フィーチャーフォン版が復刻！傑作レーシングが「G-MODEアーカイブス+」にて登場―スイッチ版9月3日・Steam版9月16日配信",
+      "url": "http://www.gamespark.jp/article/2026/09/02/171622.html",
       "category": "game",
       "source": "GameSpark",
       "id": "10"
     },
     {
-      "title": "SIE、カスハラへの基本方針を公開―「土下座の強要」「社員個人への攻撃」など例示、対応の制限・中止や法的措置も",
-      "url": "http://www.gamespark.jp/article/2026/09/02/171618.html",
+      "title": "『ドラゴンズドグマ 2』大型アプデ配信！竜憑き回復アイテム「竜下し」を追加―セーブスロット3枠化＆カスタムスキル6枠化や最適化などモリモリ調整",
+      "url": "http://www.gamespark.jp/article/2026/09/02/171621.html",
       "category": "game",
       "source": "GameSpark",
       "id": "11"
     },
     {
-      "title": "「AGF2026」STPR Family＆スパリク・ブレマイのショッパーを配布！味の素コラボは推しフレーバーをランダムで",
-      "url": "https://animeanime.jp/article/2026/09/02/102592.html",
+      "title": "「ちいかわ」ハチワレ、うさぎのお顔“はんぺん”や、チョコにグミも！食欲の秋は「ちいかわ」と☆",
+      "url": "https://animeanime.jp/article/2026/09/02/102596.html",
       "category": "anime",
       "source": "アニメ!アニメ!",
       "id": "12"
