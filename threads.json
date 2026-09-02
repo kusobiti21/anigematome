@@ -1,82 +1,89 @@
 {
-  "updated_at": "2026-09-02T04:01:50+00:00",
+  "updated_at": "2026-09-02T05:01:49+00:00",
   "threads": [
     {
-      "title": "PARCO GAMES，東京ゲームショウ2026に出展。「Finding Polka」「DEPERSON」など計4作品を楽しめる",
-      "url": "https://www.4gamer.net/games/975/G097539/20260901044/",
+      "title": "スキルを覚えて1億匹の魚を全部釣る。短編インクリメンタル釣りアクション「海の魚、ぜんぶ釣る」，Steamストアページを公開",
+      "url": "https://www.4gamer.net/games/038/G103834/20260902010/",
       "category": "game",
       "source": "4Gamer",
       "id": "1"
     },
     {
-      "title": "「マリオカート8 デラックス」，Switch 2の性能を活かした機能が利用可能に。画面分割による8人プレイやカメラプレイに対応",
-      "url": "https://www.4gamer.net/games/368/G036843/20260902007/",
+      "title": "「モンハンNow」2年ぶりの大型リアルイベント「モンスターハンターNow カーニバル 2026：大阪」を2026年11月14日・15日に開催。メイン会場はなんば周辺",
+      "url": "https://www.4gamer.net/games/701/G070120/20260902009/",
       "category": "game",
       "source": "4Gamer",
       "id": "2"
     },
     {
-      "title": "マルチバースを舞台に敵の大群と戦うローグライトFPS「Serious Sam: Shatterverse」配信開始。最大5人でメンタルの軍勢に挑む",
-      "url": "https://www.4gamer.net/games/993/G099390/20260902008/",
+      "title": "肉塊と鉄筋コンクリートが融合した校舎に閉じ込められ，「神の試練」に挑んで異界から脱出する。中国発のホラーマンガを原作とするADV「異界・魔学園」，体験版を配信開始",
+      "url": "https://www.4gamer.net/games/035/G103528/20260902015/",
       "category": "game",
       "source": "4Gamer",
       "id": "3"
     },
     {
-      "title": "怪談師が運営していたWebサイトを調査して，読むことで発現する呪いを解く。ホラーARG「死にぞこないの最凶怖い話」，無料で公開",
-      "url": "https://www.4gamer.net/games/038/G103829/20260902006/",
+      "title": "吉田修平氏がホストを務める「吉Pラジオ」「吉Pナイト」，9月21日に渋谷で開催。ゲームを作る側と世界へ届ける側，それぞれのリアルに迫る",
+      "url": "https://www.4gamer.net/games/648/G064898/20260902014/",
       "category": "game",
       "source": "4Gamer",
       "id": "4"
+    },
+    {
+      "title": "『スマブラSP』、アプデで「不正なデータを送受信した際の挙動」が修正される。“切断チート”や不正ステージなどの悪質行為が波紋広げるなかで",
+      "url": "https://automaton-media.com/articles/newsjp/20260902-464611/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "5"
+    },
+    {
+      "title": "“『アークナイツ：エンドフィールド』と『マーベル・ライバルズ』をダブル盗用”した怪しいゲーム広告が物議かもす。勝手に合体、雑すぎキメラ動画",
+      "url": "https://automaton-media.com/articles/newsjp/20260902-464605/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "6"
+    },
+    {
+      "title": "『HUNDRED LINE -最終防衛学園-』（ハンドラ）のSRPGパートは「『ファイアーエムブレム』と真逆の思想」で作られた。“キャラを使い捨てる”ことで探り当てたドーパミン",
+      "url": "https://automaton-media.com/articles/interviewsjp/hundred-line-20260902-464497/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "7"
     },
     {
       "title": "ブラック墓守スローライフ『Graveyard Keeper 2』、5日間の予約だけで「約1億6000万円」売り上げる。“前作の人気再点火”を弾みに、発売前から絶好調",
       "url": "https://automaton-media.com/articles/newsjp/20260902-464579/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "5"
-    },
-    {
-      "title": "「1億匹」釣り尽くしインクリメンタル『海の魚、ぜんぶ釣る』Steam版発表。UFOからダイナマイトまで、カオス化止まらぬインフレ釣り体験",
-      "url": "https://automaton-media.com/articles/newsjp/20260902-464589/",
-      "category": "game",
-      "source": "AUTOMATON",
-      "id": "6"
-    },
-    {
-      "title": "新作ゲーム紹介イベント「PLAYISM GAME SHOW: TGS 2026 Preview」9月10日配信へ。TGS出展作品「全11本」お届け、“初公開タイトル”も",
-      "url": "https://automaton-media.com/articles/newsjp/20260902-464580/",
-      "category": "game",
-      "source": "AUTOMATON",
-      "id": "7"
-    },
-    {
-      "title": "“電脳少女を育てる”作業集中用ゲーム『Fenestra: my focus, her future』発表。『プリンセスメーカー』風、リアル作業で育つ娘は接し方次第でダウナー系・ツンデレなど9変化",
-      "url": "https://automaton-media.com/articles/newsjp/20260902-464560/",
-      "category": "game",
-      "source": "AUTOMATON",
       "id": "8"
     },
     {
-      "title": "海外ゲーム市場で勝つための「コンプライアンス対応」―Apple・Googleの「年齢シグナル」は万能ではない。受け取った“その先”で問われる開発者の責任",
-      "url": "http://www.gamespark.jp/article/2026/09/02/171626.html",
+      "title": "【Game Pass】巨大ドラゴン討伐できる協力サバクラ『ルーンスケープ：ドラゴンワイルズ』正式版や『CoD: BOCW』『バーチャ5』等7本―2026年9月15日までの2週間で追加されるソフト公開",
+      "url": "http://www.gamespark.jp/article/2026/09/02/171629.html",
       "category": "game",
       "source": "GameSpark",
       "id": "9"
     },
     {
-      "title": "放置ハクスラRPG『タスクバーヒーロー』大型アプデ「疫病地帯」9月8日14時配信へ。新キューブレシピ「腐食」と統計メニューなども追加",
-      "url": "http://www.gamespark.jp/article/2026/09/02/171625.html",
+      "title": "巨大ロボ傭兵生活シム『MechWarrior 5: Mercenaries』第9弾DLC「Ashes & Ascension」10月配信へ。最長クラスの18ミッションキャンペーンとクランメック13機が登場",
+      "url": "http://www.gamespark.jp/article/2026/09/02/171628.html",
       "category": "game",
       "source": "GameSpark",
       "id": "10"
     },
     {
-      "title": "作業用の集中支援アプリ×プリメ系育成ADV『Fenestra』発表！作業した分だけ少女が育ち、ダウナーになるかツンデレになるかなどはあなた次第のマルチエンド",
-      "url": "http://www.gamespark.jp/article/2026/09/02/171624.html",
+      "title": "ブカブカYシャツ姿にそそられる！くじコレ『バニーガーデン2』が9月4日販売開始、新規3D素材使用アクスタや“リップ跡”付きグラスも",
+      "url": "http://www.gamespark.jp/article/2026/09/02/171627.html",
       "category": "game",
       "source": "GameSpark",
       "id": "11"
+    },
+    {
+      "title": "「名探偵コナン展」が広島に！怪盗キッド撮影会や“広島会場限定”特典も♪ 【9月19日～】",
+      "url": "https://animeanime.jp/article/2026/09/02/102599.html",
+      "category": "anime",
+      "source": "アニメ!アニメ!",
+      "id": "12"
     }
   ]
 }
