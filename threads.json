@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-09-03T12:02:16+00:00",
+  "updated_at": "2026-09-03T13:01:51+00:00",
   "threads": [
+    {
+      "title": "友情が試される協力型アクション「Friendly Steps」，Steamでリリース。ロープで互いの身体をつなぎ，最大4人の酔っ払いたちが帰宅を目指す",
+      "url": "https://www.4gamer.net/games/012/G101277/20260903012/",
+      "category": "game",
+      "source": "4Gamer",
+      "id": "1"
+    },
     {
       "title": "「Timberborn」，バージョン1.1をリリース。2つの新マップや各陣営固有の建築物，「統計データ」機能などが登場",
       "url": "https://www.4gamer.net/games/550/G055026/20260903036/",
       "category": "game",
       "source": "4Gamer",
-      "id": "1"
+      "id": "2"
     },
     {
       "title": "「ONTOS」，10分間にわたるゲームプレイトレイラーを公開。探索シーンや狂気じみた実験の様子を確認できる",
       "url": "https://www.4gamer.net/games/968/G096858/20260903067/",
       "category": "game",
       "source": "4Gamer",
-      "id": "2"
+      "id": "3"
     },
     {
       "title": "1492年の教皇選挙で，自らを聖ペトロの座に押し上げよう。政治の駆け引きを題材にしたシミュレーション「Papabile」，無料配信中",
       "url": "https://www.4gamer.net/games/039/G103923/20260903066/",
       "category": "game",
       "source": "4Gamer",
-      "id": "3"
+      "id": "4"
     },
     {
-      "title": "自由度の高い育成シム「仙郷愛娘の育て方」，体験版をSteamでリリース。桃源郷で養女を引き取り，温かい日常を共に過ごそう",
-      "url": "https://www.4gamer.net/games/007/G100750/20260903064/",
+      "title": "PS5向け『シティーズ：スカイライン リマスター』、PS4パッケージ版からのアップグレードには「現時点で非対応」に。発売当日に土壇場発表",
+      "url": "https://automaton-media.com/articles/newsjp/20260903-464870/",
       "category": "game",
-      "source": "4Gamer",
-      "id": "4"
+      "source": "AUTOMATON",
+      "id": "5"
     },
     {
       "title": "リアル自由ライフシム『inZOI』で、相手を殴って病院送りにできるように。“本格いざこざ”実装、でも家族は殴っちゃダメ",
       "url": "https://automaton-media.com/articles/newsjp/20260903-464854/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "5"
+      "id": "6"
     },
     {
       "title": "Steamの新作ゲームが急増中、「14分に1本」出る超過密ペースに。一方“売れてるゲーム”ばかりでもなさそう",
       "url": "https://automaton-media.com/articles/newsjp/20260903-464837/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "6"
+      "id": "7"
     },
     {
       "title": "デッキ構築ローグライク×“スイカゲーム風”パズル『Fruitbearer』9月21日配信へ。「カード」を落としフルーツ巨大化、腐る前に搾ってジュースに",
       "url": "https://automaton-media.com/articles/newsjp/fruitbearer-20260903-464838/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "7"
-    },
-    {
-      "title": "“リアルすぎ”ボディカム視点FPS『Bodycam』、Steam同接「3万人」に急上昇。塹壕マップや装備カスタマイズなど、てんこ盛り大型アプデで返り咲く",
-      "url": "https://automaton-media.com/articles/newsjp/20260903-464826/",
-      "category": "game",
-      "source": "AUTOMATON",
       "id": "8"
     },
     {
-      "title": "実写ドラマ版「ゴッド・オブ・ウォー」クレイトス役引き継ぐデイヴ・バウティスタ氏、出演に向けたトレーニング経過を投稿。これでも“軍神”にはまだ足りない！？",
-      "url": "http://www.gamespark.jp/article/2026/09/03/171694.html",
+      "title": "【現地9月14日まで無料】完成の見込みがないとして無料公開されたRPG『Legends of Starkadia』やっぱり有料にすると発表",
+      "url": "http://www.gamespark.jp/article/2026/09/03/171700.html",
       "category": "game",
       "source": "GameSpark",
       "id": "9"
     },
     {
-      "title": "アニメ「SEKIRO: NO DEFEAT」本編映像「すすき野の一戦」が公開されるも監督が「この動画は見ないで」と注意喚起",
-      "url": "http://www.gamespark.jp/article/2026/09/03/171693.html",
+      "title": "『UNDERTALE』初の大規模展覧会、キービジュアルが公開！ Toby Fox氏も「寄贈した\"イヌの毛\"も見られるかも!?」とコメント",
+      "url": "http://www.gamespark.jp/article/2026/09/03/171699.html",
       "category": "game",
       "source": "GameSpark",
       "id": "10"
     },
     {
-      "title": "シリーズ世界累計プレイヤー数800万人突破！『Wo Long: Fallen Dynasty Complete Edition』スイッチ2版リリース",
-      "url": "http://www.gamespark.jp/article/2026/09/03/171692.html",
+      "title": "最大4人で酔っ払いながら帰宅しろ！誰かが転べば巻き添えな協力型アクション『Friendly Steps』Steam配信開始",
+      "url": "http://www.gamespark.jp/article/2026/09/03/171698.html",
       "category": "game",
       "source": "GameSpark",
       "id": "11"
