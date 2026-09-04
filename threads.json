@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-09-04T00:02:21+00:00",
+  "updated_at": "2026-09-04T01:01:32+00:00",
   "threads": [
+    {
+      "title": "講談社ゲームラボ，TGS 2026に新作を含む全24作品を出展。堀井雄二氏のインタビューを収録した雑誌の無料配布も実施",
+      "url": "https://www.4gamer.net/games/991/G999110/20260903042/",
+      "category": "game",
+      "source": "4Gamer",
+      "id": "1"
+    },
     {
       "title": "異国の賃貸マンションの一室で，亡国の王子とその副官の共依存を描くBL心理ホラーADV「俺の解体史」，本日発売",
       "url": "https://www.4gamer.net/games/011/G101190/20260903038/",
       "category": "game",
       "source": "4Gamer",
-      "id": "1"
+      "id": "2"
     },
     {
       "title": "［レビュー］「Finding Polka」の，くだらなさすら愛おしくなる寄り道。ハイタッチがいつぞやの「やったね！」を思い出させる",
       "url": "https://www.4gamer.net/games/975/G097539/20260829023/",
       "category": "game",
       "source": "4Gamer",
-      "id": "2"
-    },
-    {
-      "title": "不思議な生き物たちが暮らせる環境を整えて，荒廃した惑星に緑を取り戻す「BioEden」（あかねのインディーPick Up！）",
-      "url": "https://www.4gamer.net/games/025/G102544/20260903039/",
-      "category": "game",
-      "source": "4Gamer",
       "id": "3"
     },
     {
-      "title": "「Castlevania: Belmont's Curse」の最新トレイラー公開。主人公ローズ・ベルモンドのアクションや，立ちはだかるボスたちの姿を収録",
-      "url": "https://www.4gamer.net/games/983/G098352/20260903055/",
+      "title": "不思議な生き物たちが暮らせる環境を整えて，荒廃した惑星に緑を取り戻す「BioEden」（あかねのSteam Pick Up！）",
+      "url": "https://www.4gamer.net/games/025/G102544/20260903039/",
       "category": "game",
       "source": "4Gamer",
       "id": "4"
+    },
+    {
+      "title": "リアルSWATシューター『Ready or Not』大型アプデで“ミッション自在作り変え機能”実装。「ナイフ一本漢気犯人集団」にしたり、ドアトラップまみれハウスを作りあげたり",
+      "url": "https://automaton-media.com/articles/newsjp/20260904-465062/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "5"
+    },
+    {
+      "title": "XBOXのクラウドゲーミングに「プレイ時間上限」導入へ、Ultimateで月15時間。一方「ゲーパス未加入」でもクラウドゲーミングできる新プランも提供予定",
+      "url": "https://automaton-media.com/articles/newsjp/20260904-465058/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "6"
     },
     {
       "title": "注目の100人対戦FPS『WARDOGS』“最後のクローズドベータ”にいきなり「16万人超」が押し寄せる。広大マップで三つ巴大混戦、戦い方はとにかく自由",
       "url": "https://automaton-media.com/articles/newsjp/20260904-465052/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "5"
+      "id": "7"
     },
     {
       "title": "『ロックマンX』シリーズ唯一のターン制コマンドRPG『ロックマンX コマンドミッション』が22年越しの初復刻へ。今月のPS Plus「クラシックスカタログ」にて",
       "url": "https://automaton-media.com/articles/newsjp/20260904-465039/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "6"
-    },
-    {
-      "title": "『Escape from Tarkov』生みの親が携わる新作FPS『Fragmentary Order』、ゲームプレイ映像を今月中に本格公開へ。謎多き“未来タルコフ”、いよいよ全貌に迫る",
-      "url": "https://automaton-media.com/articles/newsjp/20260904-465030/",
-      "category": "game",
-      "source": "AUTOMATON",
-      "id": "7"
-    },
-    {
-      "title": "『Escape from Tarkov』開発元、なんとパブリッシング事業に参入へ。『タルコフ』のように“○○すぎ”な尖りゲームを支援する",
-      "url": "https://automaton-media.com/articles/newsjp/20260904-465023/",
-      "category": "game",
-      "source": "AUTOMATON",
       "id": "8"
     },
     {
-      "title": "『スパロボ』『三國志』影響の宇宙舞台ターン制ストラテジーRPG『Chaos Front』リリース―ロボ・戦艦・巨神兵など100種の戦闘ユニット登場",
-      "url": "http://www.gamespark.jp/article/2026/09/04/171746.html",
+      "title": "2022年にサ終の「マクロス」音ゲー『歌マクロス』が“買い切り”オフライン版で復活へ。Steam含む2027年春リリース予定でクラファン9月10日開始",
+      "url": "http://www.gamespark.jp/article/2026/09/04/171748.html",
       "category": "game",
       "source": "GameSpark",
       "id": "9"
     },
     {
-      "title": "ロッキーと共にミッション解決！「プロジェクト・ヘイル・メアリー」のVRゲーム『Project Hail Mary: Journey Among The Stars』体験レポ&インタビュー",
-      "url": "http://www.gamespark.jp/article/2026/09/04/171745.html",
+      "title": "物理演算ブランコ靴飛ばし『Shoe it All!』日本語対応で発売―Steamでは9月18日まで20%オフセール開催",
+      "url": "http://www.gamespark.jp/article/2026/09/04/171747.html",
       "category": "game",
       "source": "GameSpark",
       "id": "10"
     },
     {
-      "title": "新米修道士が図書館の本を整理する『Monk Took Book』リリース！最大4人での協力プレイにも対応",
-      "url": "http://www.gamespark.jp/article/2026/09/04/171744.html",
+      "title": "『スパロボ』『三國志』影響の宇宙舞台ターン制ストラテジーRPG『Chaos Front』リリース―ロボ・戦艦・巨神兵など100種の戦闘ユニット登場",
+      "url": "http://www.gamespark.jp/article/2026/09/04/171746.html",
       "category": "game",
       "source": "GameSpark",
       "id": "11"
