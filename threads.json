@@ -1,86 +1,86 @@
 {
-  "updated_at": "2026-09-04T03:01:44+00:00",
+  "updated_at": "2026-09-04T04:01:40+00:00",
   "threads": [
     {
-      "title": "宇宙を彗星となって駆け抜ける3D音楽リズムゲーム「Estella」，今冬のSteam早期アクセス開始に先駆け，TGS 2026に限定デモ版を試遊出展",
-      "url": "https://www.4gamer.net/games/903/G090387/20260904006/",
+      "title": "最後の生存者となり，問題を抱えたAIを頼りに崩壊寸前の宇宙コロニーから脱出を目指す。SFアドベンチャー「Alone With You」，Epic Games Storeで無料配布中",
+      "url": "https://www.4gamer.net/games/039/G103954/20260904017/",
       "category": "game",
       "source": "4Gamer",
       "id": "1"
     },
     {
-      "title": "PS5版「バトルフィールド6」の半額セールは9月9日まで！ ナンバリング最新作「ロックマン11」は448円！「今週のすべり込みセール情報」",
-      "url": "https://www.4gamer.net/games/484/G048410/20260903001/",
+      "title": "RTX 5050＆Core i5搭載でぎりぎり20万円を切ったゲーミングノートPCがGALLERIAから",
+      "url": "https://www.4gamer.net/games/029/G002975/20260904016/",
       "category": "game",
       "source": "4Gamer",
       "id": "2"
     },
     {
-      "title": "ヴァンサバライクのオープンワールドRPG「Mana Alchemy/マナアルケミー」，2027年にSteamでリリース。捨てられた少女が家族に復讐する",
-      "url": "https://www.4gamer.net/games/039/G103942/20260904007/",
+      "title": "「歌マクロス」復活プロジェクトが始動。2027年春発売予定でSteam/iOS/Android向けに開発中，9月10日からクラウドファンディングを実施",
+      "url": "https://www.4gamer.net/games/039/G103946/20260904014/",
       "category": "game",
       "source": "4Gamer",
       "id": "3"
     },
     {
-      "title": "“壁世界”を再びシームレスに探索。三部作の完結編「Wall World 3」が発表に。ロボを降りた主人公自身が力強く壁を登る姿も",
-      "url": "https://www.4gamer.net/games/039/G103944/20260904010/",
+      "title": "プリズムを奪い合う，3対3対3対3の同時バトル！ 「Project ZETA」，第2回グローバルコミュニティテストを開始。新ヒーロー2種を追加【PR】",
+      "url": "https://www.4gamer.net/games/691/G069145/20260904011/",
       "category": "game",
       "source": "4Gamer",
       "id": "4"
+    },
+    {
+      "title": "新たなパチンコ風ローグライク『スプラット・パチンコ』TGSで試遊出展へ。連鎖・シナジー・大爆発、日本から大注目の“ドーパミン噴出”カオスゲーム",
+      "url": "https://automaton-media.com/articles/newsjp/20260904-465120/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "5"
+    },
+    {
+      "title": "大人気ハードコアFPS『Road to Vostok』、初の大型アプデは9月30日リリースへ。NPCのAI大幅強化、新マップに“新勢力”も追加のがっつりアプデ",
+      "url": "https://automaton-media.com/articles/newsjp/road-to-vostok-20260904-465127/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "6"
+    },
+    {
+      "title": "終末世界「ゾンビ肉ケバブ屋」経営シム『Zombie Wrap Simulator』発表。ゾンビをシバいて“材料調達”、夜は押し寄せるゾンビから店を防衛",
+      "url": "https://automaton-media.com/articles/newsjp/20260904-465112/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "7"
     },
     {
       "title": "マクロスのリズムゲーム『歌マクロス』はなぜ復活できたのか？元スクエニ広野Pが語る「ゲームを形に残すこと」への挑戦、熱烈ユーザーの声に導かれた道しるべ",
       "url": "https://automaton-media.com/articles/interviewsjp/uta-macross-20260904-464791/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "5"
-    },
-    {
-      "title": "元素“連鎖爆発”ローグライクSRPG『Hope of Elements ー 魔女とドラゴンの旅』では勝つために「親友の命」まで削る。底なしビルドと鬼畜システムの甘い誘惑、デモ版配信中",
-      "url": "https://automaton-media.com/articles/reportjp/20260904-465093/",
-      "category": "game",
-      "source": "AUTOMATON",
-      "id": "6"
-    },
-    {
-      "title": "基本無料・ブッ飛び戦車PvP『Tyr』、さっそく「非常に好評」の熱い人気。“特殊能力”で瞬間移動に透明化、『LoL』『VALORANT』開発者たちが贈るカジュアル戦車バトル",
-      "url": "https://automaton-media.com/articles/newsjp/tyr-20260904-465083/",
-      "category": "game",
-      "source": "AUTOMATON",
-      "id": "7"
-    },
-    {
-      "title": "トランプ米政権が今度は“セガ風映像”公開、その名も「MAGA」。“国境の壁建設テトリス”などミニゲーム集サイトまで開設、止まらぬIP無断使用に批判の嵐",
-      "url": "https://automaton-media.com/articles/newsjp/20260904-465089/",
-      "category": "game",
-      "source": "AUTOMATON",
       "id": "8"
+    },
+    {
+      "title": "NVIDIAの新技術「DLSS 5」で『NBA 2K27』はこれだけ変わる！AIを使ったグラフィックの新境地とは",
+      "url": "http://www.gamespark.jp/article/2026/09/04/171755.html",
+      "category": "game",
+      "source": "GameSpark",
+      "id": "9"
+    },
+    {
+      "title": "「ドラクエ×ロフト グッズキャラバン 2026」が順次開催！オリジナルショッパーはじめ、40周年記念グッズがズラリ",
+      "url": "http://www.gamespark.jp/article/2026/09/04/171754.html",
+      "category": "game",
+      "source": "GameSpark",
+      "id": "10"
     },
     {
       "title": "XBOXクラウドゲーミング、11月から“月間利用制限”導入へ―コスト増が要因。上限はプラン別に5～15時間、超過後は追加時間の購入可能",
       "url": "http://www.gamespark.jp/article/2026/09/04/171753.html",
       "category": "game",
       "source": "GameSpark",
-      "id": "9"
-    },
-    {
-      "title": "BenQ MOBIUZ、TGS2026で最新モニター6製品を展示へ。新機能「Game Art Color HDR」搭載モデルやWQHD新製品を一挙体験、来場者限定キャンペーンも実施",
-      "url": "http://www.gamespark.jp/article/2026/09/04/171752.html",
-      "category": "game",
-      "source": "GameSpark",
-      "id": "10"
-    },
-    {
-      "title": "ホワイトハウス「SEGA」ならぬ「MAGA」な映像で音声まんま「セーガー」…『テトリス』風ゲームなど無料で遊べるサイト開設しGC、PS2、XBOX 360起動画面まで模倣",
-      "url": "http://www.gamespark.jp/article/2026/09/04/171751.html",
-      "category": "game",
-      "source": "GameSpark",
       "id": "11"
     },
     {
-      "title": "スヌーピーや「パウ・パトロール」とお正月☆年賀ポチ袋が登場♪ 話題の“年賀状じまいシール”もパワーアップ",
-      "url": "https://animeanime.jp/article/2026/09/04/102648.html",
+      "title": "「ヤニねこ」過去最高にヤバい回!?「どんどん表現がエスカレート」「とっても良いクソ回」トゥンク…な百合展開や“CRヤニねこ”にも視聴者沸く☆第9話【ネタバレあり反応まとめ】",
+      "url": "https://animeanime.jp/article/2026/09/04/102651.html",
       "category": "anime",
       "source": "アニメ!アニメ!",
       "id": "12"
