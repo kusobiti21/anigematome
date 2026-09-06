@@ -1,30 +1,30 @@
 {
-  "updated_at": "2026-09-06T21:01:58+00:00",
+  "updated_at": "2026-09-06T22:01:42+00:00",
   "threads": [
+    {
+      "title": "4Gamerの1週間を振り返る「Weekly 4Gamer」，2026年8月31日〜9月6日",
+      "url": "https://www.4gamer.net/games/040/G004099/20260906004/",
+      "category": "game",
+      "source": "4Gamer",
+      "id": "1"
+    },
     {
       "title": "戦利品は胃袋で運べ。回収するほど“インベントリ役”の相棒が巨大化し，撤退に制限がかかる4人協力ホラー「FEEDSTOCK」，Steamページを公開",
       "url": "https://www.4gamer.net/games/039/G103972/20260906003/",
       "category": "game",
       "source": "4Gamer",
-      "id": "1"
+      "id": "2"
     },
     {
       "title": "「シドマイヤーズ シヴィライゼーション VII」，第4の時代を追加する無料アップデート「Arc of Tomorrow」を2027年に配信。初の有償拡張パック「Earthrise」も発表",
       "url": "https://www.4gamer.net/games/807/G080705/20260906002/",
       "category": "game",
       "source": "4Gamer",
-      "id": "2"
+      "id": "3"
     },
     {
       "title": "ホラーADV「ワンダーランドに帰らないで」，約2時間の体験版をSteamでリリース。森やドールハウスの探索，謎解きやギミックなどを楽しめる",
       "url": "https://www.4gamer.net/games/039/G103958/20260904022/",
-      "category": "game",
-      "source": "4Gamer",
-      "id": "3"
-    },
-    {
-      "title": "「アズレン」，新規UR艦船「安土」「タイガー」が参戦。9月8日にスタートするイベント「妖異奇譚」の詳細も公開に",
-      "url": "https://www.4gamer.net/games/390/G039084/20260905008/",
       "category": "game",
       "source": "4Gamer",
       "id": "4"
@@ -58,22 +58,22 @@
       "id": "8"
     },
     {
-      "title": "21世紀最高の競技用宇宙ストラテジー『Sins of a Solar Empire II』。シリーズ18年を経てなお輝くオンリーワンの魅力をご紹介",
-      "url": "http://www.gamespark.jp/article/2026/09/06/171845.html",
+      "title": "「プレイアブルキャラだから容疑者ではない、とは限らない」美麗な基本無料探偵ARPG『白銀の城』は“選択と真相”をどう描く？マーケティングディレクターに直撃【gamescom 2026】",
+      "url": "http://www.gamespark.jp/article/2026/09/07/171846.html",
       "category": "game",
       "source": "GameSpark",
       "id": "9"
     },
     {
-      "title": "『ドラクエ』40周年記念展オリジナルグッズの事後通販が決定！歴代主人公の“冒険の書”開閉ピンズをはじめ、Tシャツや雑貨などほぼ全品が対象",
-      "url": "http://www.gamespark.jp/article/2026/09/06/171844.html",
+      "title": "21世紀最高の競技用宇宙ストラテジー『Sins of a Solar Empire II』。シリーズ18年を経てなお輝くオンリーワンの魅力をご紹介",
+      "url": "http://www.gamespark.jp/article/2026/09/06/171845.html",
       "category": "game",
       "source": "GameSpark",
       "id": "10"
     },
     {
-      "title": "今この時代に「次世代ゲーム機」は可能なのか？半導体進歩の状況から考える、新たなるゲームハードの誕生に立ちふさがる壁【CEDEC2026】",
-      "url": "http://www.gamespark.jp/article/2026/09/06/171843.html",
+      "title": "『ドラクエ』40周年記念展オリジナルグッズの事後通販が決定！歴代主人公の“冒険の書”開閉ピンズをはじめ、Tシャツや雑貨などほぼ全品が対象",
+      "url": "http://www.gamespark.jp/article/2026/09/06/171844.html",
       "category": "game",
       "source": "GameSpark",
       "id": "11"
