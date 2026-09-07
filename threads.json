@@ -1,30 +1,30 @@
 {
-  "updated_at": "2026-09-07T14:01:53+00:00",
+  "updated_at": "2026-09-07T15:01:51+00:00",
   "threads": [
+    {
+      "title": "「ミスモン」がSteamで配信開始。神話のモンスターでパーティを編成し，魔王討伐を目指す「ハクスラ×ストラテジーゲーム」",
+      "url": "https://www.4gamer.net/games/014/G101494/20260907035/",
+      "category": "game",
+      "source": "4Gamer",
+      "id": "1"
+    },
     {
       "title": "魔法の塔の主となって地上世界に干渉するシミュレーションゲーム「Bonespire」が発表に",
       "url": "https://www.4gamer.net/games/040/G104004/20260907044/",
       "category": "game",
       "source": "4Gamer",
-      "id": "1"
+      "id": "2"
     },
     {
       "title": "映画「バイオハザード」，日本語吹替え版の上映が決定。主人公ブライアン役に下野 紘さん，恋人ミシェル役に早見沙織さんを起用",
       "url": "https://www.4gamer.net/games/991/G999102/20260907043/",
       "category": "game",
       "source": "4Gamer",
-      "id": "2"
+      "id": "3"
     },
     {
       "title": "非対称対戦型ホラーゲーム「SAW: Genesis」，第2回クローズドアルファテストを9月17日から開催",
       "url": "https://www.4gamer.net/games/013/G101368/20260907041/",
-      "category": "game",
-      "source": "4Gamer",
-      "id": "3"
-    },
-    {
-      "title": "「白銀の城」，グローバル事前登録を受付中。ヴィクトリア朝様式の大都市を舞台に，事件を調査・推理しながら怪物と戦うオープンワールドRPG",
-      "url": "https://www.4gamer.net/games/908/G090896/20260907040/",
       "category": "game",
       "source": "4Gamer",
       "id": "4"
@@ -58,22 +58,22 @@
       "id": "8"
     },
     {
-      "title": "薙いで刺して首を落とす、血みどろの戦い描く。中世ARPG『The Thandor』Steamストアページ公開",
-      "url": "http://www.gamespark.jp/article/2026/09/07/171890.html",
+      "title": "『モンハンワイルズ:アセンダンス』続報ラッシュから無印版PC同接プレイヤー数が増加―『ワールド』を約1.5倍上回る",
+      "url": "http://www.gamespark.jp/article/2026/09/08/171894.html",
       "category": "game",
       "source": "GameSpark",
       "id": "9"
     },
     {
-      "title": "生成AIで、ゼロからゲームのプロトタイピングを制作する…ゲームデザイナーの企画を後押しする“提案と実践”【CEDEC2026】",
-      "url": "http://www.gamespark.jp/article/2026/09/07/171889.html",
+      "title": "モンスターパーティ編成ハクスラ×ストラテジー『ミスモン』Steam配信開始！ミスモン×装備×陣形の組み合わせで最強部隊を作ってオートバトル",
+      "url": "http://www.gamespark.jp/article/2026/09/08/171893.html",
       "category": "game",
       "source": "GameSpark",
       "id": "10"
     },
     {
-      "title": "AIモデル「GPT-6 Astra」が『Portal』をゲーム内時間2時間足らずで攻略―実時間では23時間38分",
-      "url": "http://www.gamespark.jp/article/2026/09/07/171888.html",
+      "title": "AIが独力でSF開拓シム『RimWorld』をクリア！？実働約15時間、指示内容は「全て自分で判断し、ゲームをクリアせよ」",
+      "url": "http://www.gamespark.jp/article/2026/09/07/171892.html",
       "category": "game",
       "source": "GameSpark",
       "id": "11"
