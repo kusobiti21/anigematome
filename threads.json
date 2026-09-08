@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-09-08T00:02:21+00:00",
+  "updated_at": "2026-09-08T01:02:47+00:00",
   "threads": [
+    {
+      "title": "「Delta Force」，新シーズン「リオリエンテーション」をスタート。新マップ「モグ旧市街」が登場し，全17オペレーターの日本語ボイスが実装に",
+      "url": "https://www.4gamer.net/games/732/G073256/20260908001/",
+      "category": "game",
+      "source": "4Gamer",
+      "id": "1"
+    },
     {
       "title": "「アズールレーン」のリアルイベント“AZUR LANE MUSI9 FES.”会場レポート。トークステージで発表されたゲーム外の最新情報もお届けしよう",
       "url": "https://www.4gamer.net/games/390/G039084/20260907047/",
       "category": "game",
       "source": "4Gamer",
-      "id": "1"
+      "id": "2"
     },
     {
       "title": "「ゼルダの伝説40周年 Direct」「Nintendo Direct」9月8日，9日に二夜連続で配信。忘れずに見たい「今週の公式配信番組」ピックアップ",
       "url": "https://www.4gamer.net/games/421/G042182/20260907036/",
       "category": "game",
       "source": "4Gamer",
-      "id": "2"
+      "id": "3"
     },
     {
       "title": "羊たちが宇宙的恐怖に挑む！ 協力ボードゲーム「Tangled Yarns」，クラファンで目標の6倍超もの支援を獲得。日本語ルールブックも公開済み",
       "url": "https://www.4gamer.net/games/040/G104005/20260908003/",
       "category": "game",
       "source": "4Gamer",
-      "id": "3"
+      "id": "4"
     },
     {
-      "title": "窓辺の一鉢から屋上の楽園へ。室内園芸シム「Tiny Eden」がSteamで本日発売。発売直前にはウィッシュリスト15万件を突破した注目作",
-      "url": "https://www.4gamer.net/games/030/G103035/20260908002/",
+      "title": "新たな中毒系サイコロローグライク『ダイス・タバーン』で“最強ビルド”を作って、無双して、叩き潰された。つらい。気持ちいい。やめられない",
+      "url": "https://automaton-media.com/articles/columnjp/20260908-465677/",
       "category": "game",
-      "source": "4Gamer",
-      "id": "4"
+      "source": "AUTOMATON",
+      "id": "5"
+    },
+    {
+      "title": "最大4人協力・泥棒シム『Thief Simulator 3: First Loot』発表。今度の泥棒はマルチプレイ対応、シリーズ最新作を先取りする無料プロローグ",
+      "url": "https://automaton-media.com/articles/newsjp/20260908-465669/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "6"
     },
     {
       "title": "『ストリートファイター6』新キャラ「アルジュン」10月13日実装へ。突進や当身、コマンド投げなんでもありの、“白ゲージ大量生産”ファイター",
       "url": "https://automaton-media.com/articles/newsjp/20260908-465664/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "5"
+      "id": "7"
     },
     {
       "title": "大人気ゲーム『shapez』開発元の新作は“工場自動化パズル”、『puzzlez – a shapez game』発表。効率化ではなくヒラメキと工夫が活きるライン構築",
       "url": "https://automaton-media.com/articles/newsjp/20260907-465657/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "6"
-    },
-    {
-      "title": "物理演算ミミズ会社員シム『Worming from Home』いきなり好評率98％の快進撃。全身くねらせ無理やりデスクワーク、悪事にも手を染める知能派ミミズ体験",
-      "url": "https://automaton-media.com/articles/newsjp/20260907-465642/",
-      "category": "game",
-      "source": "AUTOMATON",
-      "id": "7"
-    },
-    {
-      "title": "“35年ローン新米ママ”のマンション政治シム『ルール オブ レジデンス』発表。念願の新居はまさかの「独裁マンション」、暮らしを守る理事会サバイバル",
-      "url": "https://automaton-media.com/articles/newsjp/20260907-465627/",
-      "category": "game",
-      "source": "AUTOMATON",
       "id": "8"
+    },
+    {
+      "title": "ゲームは映画などと同格の私たちの文化の一部―仏マクロン大統領が国際ビデオゲームフェスティバルの創設を表明",
+      "url": "http://www.gamespark.jp/article/2026/09/08/171899.html",
+      "category": "game",
+      "source": "GameSpark",
+      "id": "9"
     },
     {
       "title": "図形生産工場シムがパズルゲームに！『puzzlez - a shapez game』発表。自作パズルの共有機能も搭載",
       "url": "http://www.gamespark.jp/article/2026/09/08/171898.html",
       "category": "game",
       "source": "GameSpark",
-      "id": "9"
+      "id": "10"
     },
     {
       "title": "メガドライブのゲームを作れる開発ツール「MD Engine」がSteam配信！コードを一行も書かずに多彩なゲーム体験をデザイン可能",
       "url": "http://www.gamespark.jp/article/2026/09/08/171897.html",
-      "category": "game",
-      "source": "GameSpark",
-      "id": "10"
-    },
-    {
-      "title": "『GOD HAND』風アクション『Forastero』正式発表―西部劇な世界で激しく 攻撃＆スパンキング",
-      "url": "http://www.gamespark.jp/article/2026/09/08/171896.html",
       "category": "game",
       "source": "GameSpark",
       "id": "11"
