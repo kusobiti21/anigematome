@@ -1,86 +1,86 @@
 {
-  "updated_at": "2026-09-08T04:01:42+00:00",
+  "updated_at": "2026-09-08T05:01:31+00:00",
   "threads": [
     {
-      "title": "「日本ゲーム大賞2026」，ゲームデザイナーズ大賞が今年で終了へ。桜井政博氏ら11名が最後の審査",
-      "url": "https://www.4gamer.net/games/991/G999110/20260908012/",
+      "title": "集英社ゲームズ，「呪術廻戦 RUMBLE: SURVIVATON」と「UN:Me」をTGS 2026に出展。体験型エリア「不安回廊」や各種ノベルティの情報を公開",
+      "url": "https://www.4gamer.net/games/015/G101555/20260908011/",
       "category": "game",
       "source": "4Gamer",
       "id": "1"
     },
     {
-      "title": "にじさんじ「ライバープロデュースデートボイス」に石神のぞみ編と緋八マナ編が登場",
-      "url": "https://www.4gamer.net/games/004/G100451/20260908014/",
+      "title": "「.45 パラベラム ブラッドハウンド - サイバーパンクアクティブタイムアクション」，東京ゲームショウ2026にプレイアブル出展",
+      "url": "https://www.4gamer.net/games/815/G081534/20260908017/",
       "category": "game",
       "source": "4Gamer",
       "id": "2"
     },
     {
-      "title": "ポケモンカードゲーム MEGA 拡張パック「30th CELEBRATION」，事前抽選販売を全国のポケモンセンターで実施。9月11日23：59まで受け付け",
-      "url": "https://www.4gamer.net/games/256/G025620/20260908013/",
+      "title": "化け物が潜む暗い地下で，錆びたスプーンを片手に行く手を掘り進む。枯れた井戸の底へ降りていくサイコホラーADV「THE WELL IS NOT EMPTY」，本日発売",
+      "url": "https://www.4gamer.net/games/040/G104011/20260908016/",
       "category": "game",
       "source": "4Gamer",
       "id": "3"
     },
     {
-      "title": "「ひらがな麻雀 ひらがじゃん」のプロ版，9月19日0：00にAmazonで一般販売を開始。一部量販店でも同日に発売予定",
-      "url": "https://www.4gamer.net/games/930/G093084/20260908005/",
+      "title": "「あと1回だけ」が命取り。ダイスを振ってスコアを伸ばすローグライク「ダイス・タバーン：運命の一投」，Steamで本日発売",
+      "url": "https://www.4gamer.net/games/999/G099936/20260908015/",
       "category": "game",
       "source": "4Gamer",
       "id": "4"
+    },
+    {
+      "title": "最大6人で「呪いのボドゲ」に挑むホラー『Invokyr』10月8日配信へ。ダイスを振るたび異変が起きる死の屋敷、次のダイスを探して命がけ探索",
+      "url": "https://automaton-media.com/articles/newsjp/20260908-465735/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "5"
+    },
+    {
+      "title": "“ハエの脳の配線図“が公開され、すぐさま『DOOM』のプレイに使われる。「被ダメージ」を学習して生き残りを目指す",
+      "url": "https://automaton-media.com/articles/newsjp/20260908-465731/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "6"
     },
     {
       "title": "容量わずか「13KB」の3Dゴルフゲームを作った人現る。コース自動生成から“七色ピカピカ”エフェクトまで、全部コミコミ13KB",
       "url": "https://automaton-media.com/articles/newsjp/20260908-465722/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "5"
+      "id": "7"
     },
     {
       "title": "爆走電車ゲー『Denshattack!』の開発者は、年イチでスペインから来るくらい日本が好きらしい。トンチキ電車アクション、その着想元はプラレールやアケゲー",
       "url": "https://automaton-media.com/articles/interviewsjp/denshattack-20260908-465195/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "6"
-    },
-    {
-      "title": "プログラミングなし3Dゲーム制作ツール「SMILE GAME BUILDER」破格の80％オフセール中。これ1本でRPG制作も3Dマップ作製も",
-      "url": "https://automaton-media.com/articles/newsjp/smilegamebuilder-20260907-465638/",
-      "category": "game",
-      "source": "AUTOMATON",
-      "id": "7"
-    },
-    {
-      "title": "人気RPGクリエイターが放つ『天機行：古朝の影』は「王道RPGを徹底的に現代化」していた。“暇しない”バトルにテンポ快速の濃厚探索、いま遊びやすいRPGの形",
-      "url": "https://automaton-media.com/articles/reportjp/20260908-465706/",
-      "category": "game",
-      "source": "AUTOMATON",
       "id": "8"
     },
     {
-      "title": "桜井政博氏が創設した「ゲームデザイナーズ大賞」が終了へ、16年の歴史に幕。審査員11名と授賞式日程などが発表",
-      "url": "http://www.gamespark.jp/article/2026/09/08/171908.html",
+      "title": "『ToHeart』HMX-12“マルチ” のセンサーユニットがまさかの製品化！ 「来栖川エレクトロニクスから製造依頼が届いた」というコンセプト",
+      "url": "http://www.gamespark.jp/article/2026/09/08/171911.html",
       "category": "game",
       "source": "GameSpark",
       "id": "9"
     },
     {
-      "title": "『電車アタック』のサントラを聴けばあなたも立派なゲーム音楽マニア。超クオリティーの猫ミームゴルフゲームのサントラが豪華──ゲーム音楽好き垂涎のアルバム5選【音楽からゲームをはじめてもいいんだよ #5】",
-      "url": "http://www.gamespark.jp/article/2026/09/08/171907.html",
+      "title": "PS5版『Forza Horizon 6』発売延期の噂を実質的に否定―公式が「2026年後半に発売予定」と改めて案内",
+      "url": "http://www.gamespark.jp/article/2026/09/08/171910.html",
       "category": "game",
       "source": "GameSpark",
       "id": "10"
     },
     {
-      "title": "2人の少女が都市伝説をロジックと能力で解明。2.5DなADV話題作『MONOPHOBIA』TGS2026試遊出展！みかみてれん×緜氏が制作に参加―ストーリーデモ初公開へ",
-      "url": "http://www.gamespark.jp/article/2026/09/08/171906.html",
+      "title": "PS1風サイパンACT『.45 パラベラム ブラッドハウンド』TGS2026にてプレイアブル出展！『VA-11 Hall-A』開発元の新作をいち早く遊ぶチャンス",
+      "url": "http://www.gamespark.jp/article/2026/09/08/171909.html",
       "category": "game",
       "source": "GameSpark",
       "id": "11"
     },
     {
-      "title": "AI動画の作り方は？注意したい著作権とは―AIエンタメの現在と未来像を明らかに！日本初のAI動画クリエイター専門誌が登場！「AI動画最前線」",
-      "url": "https://animeanime.jp/article/2026/09/08/102759.html",
+      "title": "「ムーミン」秋の新色ショルダーバッグ登場！ 上品な「ヒースグレー」にミニポーチ付き♪ 500mlペットボトルも収納",
+      "url": "https://animeanime.jp/article/2026/09/08/102760.html",
       "category": "anime",
       "source": "アニメ!アニメ!",
       "id": "12"
