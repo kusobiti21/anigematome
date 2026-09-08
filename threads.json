@@ -1,30 +1,30 @@
 {
-  "updated_at": "2026-09-08T13:03:26+00:00",
+  "updated_at": "2026-09-08T14:02:46+00:00",
   "threads": [
+    {
+      "title": "［プレイレポ］「GUNDAM ROGUE ORBIT」は“ガンダム 対 地球外生命体”を描く。ハイスピードかつ重量感のある近接主体のバトルを確認してきた",
+      "url": "https://www.4gamer.net/games/013/G101360/20260827035/",
+      "category": "game",
+      "source": "4Gamer",
+      "id": "1"
+    },
     {
       "title": "「ドラゴンクエストモンスターズ4」を先行プレイしたら，テンポが良すぎてビックリ。シリーズの伝統を受け継ぎつつ，探索＆配合が快適に",
       "url": "https://www.4gamer.net/games/010/G101055/20260901007/",
       "category": "game",
       "source": "4Gamer",
-      "id": "1"
+      "id": "2"
     },
     {
       "title": "「ペルソナ30周年」スペシャル生放送，9月20日に配信。TVアニメ「ペルソナ５」第1話〜第5話のYouTube無料公開や，声優ラジオも予定",
       "url": "https://www.4gamer.net/games/637/G063753/20260908054/",
       "category": "game",
       "source": "4Gamer",
-      "id": "2"
+      "id": "3"
     },
     {
       "title": "「Shapez」のスピンオフパズルゲーム「puzzlez - a shapez game」が発表に。自動化工場のシステムを利用したさまざまなパズルに挑戦",
       "url": "https://www.4gamer.net/games/040/G104045/20260908056/",
-      "category": "game",
-      "source": "4Gamer",
-      "id": "3"
-    },
-    {
-      "title": "「LET IT DIE: INFERNO」のシーズン4が開幕。「PvEvP」を廃止し「PvE」特化のゲームに進化",
-      "url": "https://www.4gamer.net/games/948/G094803/20260908053/",
       "category": "game",
       "source": "4Gamer",
       "id": "4"
@@ -58,22 +58,22 @@
       "id": "8"
     },
     {
-      "title": "Game*Sparkレビュー：『Valheim』裸一貫から始まる“世界を拡げる”面白さ。早期アクセスからの魅力は変わらず、遊びやすくなる進化も感じられた",
-      "url": "http://www.gamespark.jp/article/2026/09/08/171940.html",
+      "title": "新たな戦場を駆け抜けろ、ガンダム―『GUNDAM ROGUE ORBIT』はロボットアクションのお約束を正当進化させたスタイリッシュなゲームだった【プレイレポート】",
+      "url": "http://www.gamespark.jp/article/2026/09/08/171942.html",
       "category": "game",
       "source": "GameSpark",
       "id": "9"
     },
     {
-      "title": "【無料配布】日本語にも対応の近未来SFスリラー『State of Mind』GOGにて9月10日まで―ディストピアの現実とデジタルユートピアが絡み合う",
-      "url": "http://www.gamespark.jp/article/2026/09/08/171939.html",
+      "title": "猿から進化するアクションADV『Ancestors』続編あるか！？元々パート分けされた作品の一部と開発者語る",
+      "url": "http://www.gamespark.jp/article/2026/09/08/171941.html",
       "category": "game",
       "source": "GameSpark",
       "id": "10"
     },
     {
-      "title": "戦場のほぼすべてのオブジェクトに干渉できる“非常に好評”ターン制SRPGが正式リリース。戦闘中に壁を築き、木を伐採し、川を凍らせる―採れたて！本日のSteam注目ゲーム3選【2026年9月8日】",
-      "url": "http://www.gamespark.jp/article/2026/09/08/171938.html",
+      "title": "Game*Sparkレビュー：『Valheim』裸一貫から始まる“世界を拡げる”面白さ。早期アクセスからの魅力は変わらず、遊びやすくなる進化も感じられた",
+      "url": "http://www.gamespark.jp/article/2026/09/08/171940.html",
       "category": "game",
       "source": "GameSpark",
       "id": "11"
