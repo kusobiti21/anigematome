@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-09-09T01:02:08+00:00",
+  "updated_at": "2026-09-09T02:02:11+00:00",
   "threads": [
+    {
+      "title": "「SILENT HILL f」×「都市伝説解体センター」，コラボを開始。深水雛子と福来あざみが共演するスペシャルミニゲームも公開",
+      "url": "https://www.4gamer.net/games/664/G066418/20260909003/",
+      "category": "game",
+      "source": "4Gamer",
+      "id": "1"
+    },
     {
       "title": "「CODE VEIN II」，DLC「Mask of Idris」と無料アップデートVer.2.0を配信開始。新キャラ「情念の仮面」や2体のボス，新術式が登場",
       "url": "https://www.4gamer.net/games/917/G091725/20260907045/",
       "category": "game",
       "source": "4Gamer",
-      "id": "1"
+      "id": "2"
     },
     {
       "title": "「勝利の女神：NIKKE」，京都コラボ第2弾の特別アニメーションPVとテーマソングを公開。JR東海「推し旅」コラボ第2弾は9月11日に開始",
       "url": "https://www.4gamer.net/games/456/G045622/20260908055/",
       "category": "game",
       "source": "4Gamer",
-      "id": "2"
+      "id": "3"
     },
     {
       "title": "なぜ会心の一撃は気持ちいいのか。期待・時間・コントラストの3視点から，プレイヤーの快感を設計する演出の考え方を学ぶ［ゲームメーカーズスクランブル］",
       "url": "https://www.4gamer.net/games/991/G999104/20260904023/",
       "category": "game",
       "source": "4Gamer",
-      "id": "3"
+      "id": "4"
     },
     {
-      "title": "スマホ連携サービス「ZELDA NOTES」が「ゼルダの伝説 時のオカリナ」に対応。オカリナ演奏や作品知識を試す検定など新機能を搭載",
-      "url": "https://www.4gamer.net/games/015/G101542/20260909001/",
+      "title": "トランプ米政権、今度は『ゼルダの伝説 時のオカリナ』風映像を投稿。“ゼルダDirect直後”を狙ったゲーム便乗広報、まるで懲りてない",
+      "url": "https://automaton-media.com/articles/newsjp/20260909-465893/",
       "category": "game",
-      "source": "4Gamer",
-      "id": "4"
+      "source": "AUTOMATON",
+      "id": "5"
+    },
+    {
+      "title": "細かすぎ物理演算ロケット開発『In Control: Rocketry』発表。設計・組み立て・配線から操縦まで自分でやる “手作業”宇宙飛行",
+      "url": "https://automaton-media.com/articles/newsjp/20260909-465884/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "6"
     },
     {
       "title": "トランプ米政権、“国境の壁建設テトリス”をひっそり削除。テトリス社の“怒りの声明”から数日後に",
       "url": "https://automaton-media.com/articles/newsjp/20260909-465879/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "5"
+      "id": "7"
     },
     {
       "title": "『ウィッチャー３ ワイルドハント コンプリートエディション』、価格改定でPC＆XBOX版が“ちょっとだけ値下がり”。リマスター版が出るので",
       "url": "https://automaton-media.com/articles/newsjp/20260909-465875/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "6"
-    },
-    {
-      "title": "『ゼルダの伝説 時のオカリナ』リメイク版ではオカリナ演奏が“音声入力”できる。「ジャンプ＆ダッシュ」も実装、進化要素いろいろ",
-      "url": "https://automaton-media.com/articles/newsjp/20260908-465869/",
-      "category": "game",
-      "source": "AUTOMATON",
-      "id": "7"
-    },
-    {
-      "title": "『ゼルダの伝説 時のオカリナ』フルリメイク、今年11月5日発売へ。とうとうゲームプレイ披露、「新要素」もいろいろな全貌明らかに",
-      "url": "https://automaton-media.com/articles/newsjp/20260908-465851/",
-      "category": "game",
-      "source": "AUTOMATON",
       "id": "8"
+    },
+    {
+      "title": "米ホワイトハウス“国境を守る壁を築く”『テトリス』ゲー黙って削除。さらに『時オカ』リメイクにも乗っかる「トランプの伝説 MAKE AMERICA GREAT AGAIN」",
+      "url": "http://www.gamespark.jp/article/2026/09/09/171965.html",
+      "category": "game",
+      "source": "GameSpark",
+      "id": "9"
     },
     {
       "title": "ゲーフリARPG『Beast of Reincarnation』次回以降のパッチでアイテム自動取得機能が追加へ。最新アプデではムービーテンポ向上や一部の先行入力など調整",
       "url": "http://www.gamespark.jp/article/2026/09/09/171964.html",
       "category": "game",
       "source": "GameSpark",
-      "id": "9"
+      "id": "10"
     },
     {
       "title": "3Dドット絵オープンワールドRPG/アドベンチャー『EthrA』クラファン開始！ 戦闘では2人の主人公を同時操作",
       "url": "http://www.gamespark.jp/article/2026/09/09/171963.html",
-      "category": "game",
-      "source": "GameSpark",
-      "id": "10"
-    },
-    {
-      "title": "ムキムキシェフがモンスターを倒して調理する酒場経営アクションRPG『Monster Cuisine：狩って、捌いて、いただきます。』発表！",
-      "url": "http://www.gamespark.jp/article/2026/09/09/171962.html",
       "category": "game",
       "source": "GameSpark",
       "id": "11"
