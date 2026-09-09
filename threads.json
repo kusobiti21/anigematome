@@ -1,86 +1,86 @@
 {
-  "updated_at": "2026-09-09T10:01:46+00:00",
+  "updated_at": "2026-09-09T11:01:57+00:00",
   "threads": [
     {
-      "title": "「コンソールアーカイブス 信長の野望・戦国群雄伝」，9月10日配信。約400名の武将が登場する本格派SLG",
-      "url": "https://www.4gamer.net/games/040/G104075/20260909030/",
+      "title": "ガチャ「『ペルソナ3 リロード』ピンバッジコレクション」，9月14日週に発売。作中に登場するモチーフを全8種のピンバッジで再現",
+      "url": "https://www.4gamer.net/games/714/G071477/20260909039/",
       "category": "game",
       "source": "4Gamer",
       "id": "1"
     },
     {
-      "title": "バス運行シミュレーションシリーズ最新作「Bus Simulator 27」本日発売。13社45車種以上の公式ライセンス車両を収録",
-      "url": "https://www.4gamer.net/games/024/G102413/20260909038/",
+      "title": "ドーナツ屋を経営しつつ，迫りくる異変に対処するホラーゲーム「DONUT PANIC」（ドーナッても冷静に），デモ版を配信開始",
+      "url": "https://www.4gamer.net/games/040/G104084/20260909041/",
       "category": "game",
       "source": "4Gamer",
       "id": "2"
     },
     {
-      "title": "モノクロ世界に潜むねこたちを見つけだし，景色に色を取り戻そう。「かくれにゃんこを探せ！〜 Cat Me If You Can 〜」，本日リリース",
-      "url": "https://www.4gamer.net/games/998/G099876/20260909037/",
+      "title": "放置系RPG「放置ランド」，早期アクセス版をSteamでリリース。クリティカル特化や防御特化など，自分好みのプレイスタイルを構築できる",
+      "url": "https://www.4gamer.net/games/040/G104051/20260909036/",
       "category": "game",
       "source": "4Gamer",
       "id": "3"
     },
     {
-      "title": "協力プレイを重視し，物理と化学の相互作用で攻略法を生み出すオープンワールドRPG「未眠野」発表，PVも披露",
-      "url": "https://www.4gamer.net/games/040/G104081/20260909035/",
+      "title": "「コンソールアーカイブス 信長の野望・戦国群雄伝」，9月10日配信。約400名の武将が登場する本格派SLG",
+      "url": "https://www.4gamer.net/games/040/G104075/20260909030/",
       "category": "game",
       "source": "4Gamer",
       "id": "4"
+    },
+    {
+      "title": "Steamゲームの“デモ版の人気”、製品版でどこまで伸びるか大調査。「2～4倍ぐらい」が目安か",
+      "url": "https://automaton-media.com/articles/newsjp/20260909-466100/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "5"
     },
     {
       "title": "「歩く家」とゆく魔女修行ゲーム『REKA』10月26日に正式リリースへ、ついに日本語対応予定。豊富なキャラクリ・建築要素と自動生成世界が紡ぐ、自分だけの旅",
       "url": "https://automaton-media.com/articles/newsjp/20260909-466089/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "5"
+      "id": "6"
     },
     {
       "title": "オリジナルを再現した『東方紅魔郷: Classic』、なぜか2002年リリースの原作『東方紅魔郷』からのセーブデータ引き継ぎに対応。リプレイやクリア記録などが継承できる",
       "url": "https://automaton-media.com/articles/newsjp/20260909-466051/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "6"
+      "id": "7"
     },
     {
       "title": "「ゲーム開発費は高すぎ、ハードは部品が足りない」業界の重鎮らが”アタリショック以来の危機”と警鐘鳴らす。いまやAAAゲーム開発は最大600億円規模とも",
       "url": "https://automaton-media.com/articles/newsjp/20260909-466016/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "7"
-    },
-    {
-      "title": "『ポケモン チャンピオンズ』、本日のアプデでニョロトノだけなぜか覚えていた「はたく」没収。それはそれでなぜ",
-      "url": "https://automaton-media.com/articles/newsjp/pokemon-champions-20260909-466034/",
-      "category": "game",
-      "source": "AUTOMATON",
       "id": "8"
     },
     {
-      "title": "FC『信長の野望・戦国群雄伝』がコンソールアーカイブスに登場。スイッチ2/PS5向けに9月10日配信開始、価格は800円",
-      "url": "http://www.gamespark.jp/article/2026/09/09/171989.html",
+      "title": "“朽ちたマスターソード”デザインがクール！『ゼルダの伝説 ティアキン』スイッチ2対応コントローラーとケースが10月9日発売",
+      "url": "http://www.gamespark.jp/article/2026/09/09/171993.html",
       "category": "game",
       "source": "GameSpark",
       "id": "9"
     },
     {
-      "title": "“歩く魔法の家”と旅する魔女クラフトADV『REKA』正式版が10月26日Steam配信決定！延期乗り越え9月29日には無料デモ版も",
-      "url": "http://www.gamespark.jp/article/2026/09/09/171988.html",
+      "title": "動物たちが平和に暮らすほのぼのライフシム『Little Crossroads』プレイテスト開始！",
+      "url": "http://www.gamespark.jp/article/2026/09/09/171992.html",
       "category": "game",
       "source": "GameSpark",
       "id": "10"
     },
     {
-      "title": "「300時間以上を費やしても、いまだに驚かされる」海外レビューハイスコア『Valheim』",
-      "url": "http://www.gamespark.jp/article/2026/09/09/171987.html",
+      "title": "『スーパーリアル麻雀VR』でSteamを始めた方に教えたい！Steamで遊べる世界の名作アダルトゲームを大特集",
+      "url": "http://www.gamespark.jp/article/2026/09/09/171991.html",
       "category": "game",
       "source": "GameSpark",
       "id": "11"
     },
     {
-      "title": "初見じゃ読めない名字のアニメキャラといえば？ アンケート〆切は9月15日",
-      "url": "https://animeanime.jp/article/2026/09/09/102793.html",
+      "title": "アニメディア10月号は9月10日発売！　表紙&Wカバーは『映画名探偵プリキュア！不思議な庭と2人の秘密』と『原神』！",
+      "url": "https://animeanime.jp/article/2026/09/09/102795.html",
       "category": "anime",
       "source": "アニメ!アニメ!",
       "id": "12"
