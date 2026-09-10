@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-09-10T04:01:52+00:00",
+  "updated_at": "2026-09-10T05:01:33+00:00",
   "threads": [
+    {
+      "title": "Nintendo Switch 2用ソフト「The Ascent Ultimate Edition」，12月3日に発売。3つのダウンロードコンテンツを収録",
+      "url": "https://www.4gamer.net/games/041/G104143/20260910016/",
+      "category": "game",
+      "source": "4Gamer",
+      "id": "1"
+    },
+    {
+      "title": "左手に包丁，右手はマシンガン。料理シムとFPSが融合した奇抜Co-opアクション「Mayhem À La Carte」を発表。2027年中に早期アクセス開始予定",
+      "url": "https://www.4gamer.net/games/041/G104142/20260910015/",
+      "category": "game",
+      "source": "4Gamer",
+      "id": "2"
+    },
     {
       "title": "「朧村正怪奇譚 朧流遊戯伝」，ゲーム内容を紹介する最新映像を本日（9月10日）20：00にマーベラス公式YouTubeチャンネルでプレミア公開",
       "url": "https://www.4gamer.net/games/015/G101552/20260910012/",
       "category": "game",
       "source": "4Gamer",
-      "id": "1"
+      "id": "3"
     },
     {
       "title": "敵の攻撃をかわしてカードで反撃する「ゴールデンスワール」，Steamで発売。デッキ構築とリアルタイムアクションが融合",
       "url": "https://www.4gamer.net/games/964/G096415/20260910009/",
       "category": "game",
       "source": "4Gamer",
-      "id": "2"
-    },
-    {
-      "title": "PlayStation Studios，小島秀夫氏の新作諜報アクション「PHYSINT」への協力から撤退すると発表。協力体制がPlayStationからXBOXへ移行",
-      "url": "https://www.4gamer.net/games/771/G077164/20260910013/",
-      "category": "game",
-      "source": "4Gamer",
-      "id": "3"
-    },
-    {
-      "title": "「SUNSOFT is Back! レトロゲームセレクション2」，12月17日に発売。「いっき」「アトランチスの謎」「スーパーアラビアン」「マハラジャ」を収録",
-      "url": "https://www.4gamer.net/games/041/G104133/20260910010/",
-      "category": "game",
-      "source": "4Gamer",
       "id": "4"
+    },
+    {
+      "title": "往年の和風RPG『ONI』シリーズがNintendo Swich向けに復刻、来年1月28日発売へ。『鬼忍降魔録 ONI』から『幕末降臨伝 ONI』まで、どどんと7作品まとめて蘇る",
+      "url": "https://automaton-media.com/articles/newsjp/20260910-466483/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "5"
+    },
+    {
+      "title": "協力マルチ対応料理FPS『Mayhem À La Carte – メイヘム・アラカルト ～カオスキッチン～』発表。なぜか敵が襲撃してくるキッチンで、武器を片手にクッキング",
+      "url": "https://automaton-media.com/articles/newsjp/mayhem-a-la-carte-20260910-466425/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "6"
     },
     {
       "title": "約30年ぶりに復活したSRPG『幻世録 リメイク』Steamで配信開始。5つの種族が争う大陸の戦乱劇、“1998年のオリジナル版”もまるごと収録",
       "url": "https://automaton-media.com/articles/newsjp/20260910-466471/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "5"
+      "id": "7"
     },
     {
       "title": "1つの物語を“多視点”連作で描くADV『ARIA BLUE』始動、第1弾『夏音』は来年1月28日発売へ。失った夏を取り戻す青春ファンタジー",
       "url": "https://automaton-media.com/articles/newsjp/20260910-466463/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "6"
-    },
-    {
-      "title": "謎の怖い会社「株式会社闇」はなぜホラーゲームも出し始めたのか。オフィスも怖いの？心霊体験は？中の人＆『たろうくん』開発者に訊いたら、めっちゃフレンドリー",
-      "url": "https://automaton-media.com/articles/interviewsjp/yamigames-202600910-466421/",
-      "category": "game",
-      "source": "AUTOMATON",
-      "id": "7"
-    },
-    {
-      "title": "コジマプロダクション、新作『PHYSINT』ではPlayStationではなくXBOXとタッグに。SIEの“『PHYSINT』プロジェクト中止”通達を受けて",
-      "url": "https://automaton-media.com/articles/newsjp/20260910-466428/",
-      "category": "game",
-      "source": "AUTOMATON",
       "id": "8"
     },
     {
-      "title": "街の流れを止めるな！プログラミングゲーム『If 赤 Then 停止』デモ版配信―エンジニアとして信号機や遮断機を制御。『農家は Replace() されました』パブリッシャー新作",
-      "url": "http://www.gamespark.jp/article/2026/09/10/172055.html",
+      "title": "料理しながら敵を撃退！ 最大4人で挑む協力型クッキング・シューター『メイヘム・アラカルト ～カオスキッチン～』発表",
+      "url": "http://www.gamespark.jp/article/2026/09/10/172059.html",
       "category": "game",
       "source": "GameSpark",
       "id": "9"
     },
     {
-      "title": "異色コマンドRPG『ロックマンX コマンドミッション』にサバクラ『ルーンスケープ：ドラゴンワイルズ』正式版が登場！2026年9月度PS Plus「ゲームカタログ」ラインナップ",
-      "url": "http://www.gamespark.jp/article/2026/09/10/172054.html",
+      "title": "【期間限定20%オフ】『めっちゃカメレオン』スイッチ2版はPC版とのクロスプレイに対応。ユーザー制作マップも年内に使用可能に",
+      "url": "http://www.gamespark.jp/article/2026/09/10/172058.html",
       "category": "game",
       "source": "GameSpark",
       "id": "10"
     },
     {
-      "title": "ウルトラワイドで一閃！「MPG 341CQR QD-OLED X36」×『鬼武者 Way of the Sword』で至高の映像体験を堪能",
-      "url": "http://www.gamespark.jp/article/2026/09/10/172053.html",
+      "title": "『トルネコの大冒険 不思議のダンジョン ちょっとステキなリマスター』Steamにて「賛否両論」発進。操作性の悪さが足を引っ張る",
+      "url": "http://www.gamespark.jp/article/2026/09/10/172057.html",
       "category": "game",
       "source": "GameSpark",
       "id": "11"
