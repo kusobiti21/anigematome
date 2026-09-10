@@ -1,86 +1,86 @@
 {
-  "updated_at": "2026-09-10T08:02:06+00:00",
+  "updated_at": "2026-09-10T09:01:34+00:00",
   "threads": [
+    {
+      "title": "「東京ゲームショウ2026」は国内外から合計1138社が出展。会場マップやイベントステージのタイムテーブルも公開に",
+      "url": "https://www.4gamer.net/games/991/G999110/20260910036/",
+      "category": "game",
+      "source": "4Gamer",
+      "id": "1"
+    },
+    {
+      "title": "「Overcooked!」の開発元が手掛ける新作「Stage Fright」，最新ゲームプレイ映像を披露。ドタバタな協力プレイを残しつつ，2人で奇妙な仕掛けを乗り越え，パズルを解いていく",
+      "url": "https://www.4gamer.net/games/865/G086599/20260910031/",
+      "category": "game",
+      "source": "4Gamer",
+      "id": "2"
+    },
     {
       "title": "［プレイレポ］「GBVSR」に参戦するイドを先行体験。大剣と竜人化を使い分けるスタンダードタイプ。Switch2版の感触も良好",
       "url": "https://www.4gamer.net/games/021/G102119/20260828003/",
       "category": "game",
       "source": "4Gamer",
-      "id": "1"
+      "id": "3"
     },
     {
       "title": "「Skyrim」，まさかの「IKEA」とのコラボDLCをリリース。収納力抜群のシェルフ“カラックス”が相棒として冒険に付き添う",
       "url": "https://www.4gamer.net/games/125/G012566/20260910030/",
       "category": "game",
       "source": "4Gamer",
-      "id": "2"
-    },
-    {
-      "title": "「風来のシレン」30周年記念グッズの期間限定再販売が開始。対象商品20％オフやお得なセット販売も",
-      "url": "https://www.4gamer.net/games/858/G085870/20260910028/",
-      "category": "game",
-      "source": "4Gamer",
-      "id": "3"
-    },
-    {
-      "title": "オンラインイベント「PLAYISM GAME SHOW: TGS 2026 Preview」，本日（9月10日）19：30に配信。TGS 2026に出展する全11タイトルを発表",
-      "url": "https://www.4gamer.net/games/991/G999110/20260910026/",
-      "category": "game",
-      "source": "4Gamer",
       "id": "4"
+    },
+    {
+      "title": "工画堂スタジオ新作・ミツバチ娘ローグライトSTG『Brabee（ブラビー）』発表、TGSでさっそく試遊出展へ。昼夜で戦況一変な森を“特化ビルド”で突き進む",
+      "url": "https://automaton-media.com/articles/newsjp/20260910-466555/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "5"
     },
     {
       "title": "『グランブルーファンタジーヴァーサス -ライジング-』新キャラ「イド」は力強く取っつきやすい。と思いきや“竜人化”で一変、『GBVSR』らしい“やりこみ要素”もあり",
       "url": "https://automaton-media.com/articles/reportjp/20260910-466512/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "5"
+      "id": "6"
     },
     {
       "title": "版権争いの巻き添えになった『Friday the 13th: The Game』公式、今さら版権元に“支払いが足りない”と訴えられる。「ゲームを終わらせたのはそっちだ、厚かましい」と怒りの反撃宣言",
       "url": "https://automaton-media.com/articles/newsjp/20260910-466562/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "6"
+      "id": "7"
     },
     {
       "title": "Nintendo Switch 2にデカめの本体アプデ到来、オンラインライセンスを使いやすく。Mii作成で“あのBGM”が流れたり、変化いろいろ",
       "url": "https://automaton-media.com/articles/newsjp/20260910-466528/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "7"
-    },
-    {
-      "title": "路線図だけみて駅名当てゲーム『ネスゴシ』無料公開。わからなかったら線路を広げる「Wordle」風ルールで日本全国600路線、素人には意味不明",
-      "url": "https://automaton-media.com/articles/newsjp/20260910-466518/",
-      "category": "game",
-      "source": "AUTOMATON",
       "id": "8"
     },
     {
-      "title": "ゴーレムをプログラムしてダンジョン攻略する全自動RPG『Algolemeth』デモ版Steamでリリース！BGMは古代祐三氏",
-      "url": "http://www.gamespark.jp/article/2026/09/10/172068.html",
+      "title": "『Core Keeper』大型無料アプデ「地下のライダー」9月21日配信決定！畜産動物への騎乗や新アイテム「フックショット」が登場",
+      "url": "http://www.gamespark.jp/article/2026/09/10/172075.html",
       "category": "game",
       "source": "GameSpark",
       "id": "9"
     },
     {
-      "title": "Steamレビュー2万件以上、「非常に好評」の超現実ノベルゲー『存在/しないあなた、と私』PS5/PS4/スイッチ版が配信。ゲームの「主人公」を自認する謎の美少女と対話",
-      "url": "http://www.gamespark.jp/article/2026/09/10/172067.html",
+      "title": "スイッチ2本体アップデートにてMiiの編集画面にBGMが追加。歴代任天堂ハードのMii編集画面の曲が聴ける",
+      "url": "http://www.gamespark.jp/article/2026/09/10/172074.html",
       "category": "game",
       "source": "GameSpark",
       "id": "10"
     },
     {
-      "title": "『ウマ娘』和装な勝負服がカッコイイ！新たに「ファレノプシス」が育成ウマ娘として実装決定",
-      "url": "http://www.gamespark.jp/article/2026/09/10/172066.html",
+      "title": "「DLSS 5に対応し、目を見張る水準の映像リアリティを実現している」海外レビューハイスコア『NBA 2K27』",
+      "url": "http://www.gamespark.jp/article/2026/09/10/172073.html",
       "category": "game",
       "source": "GameSpark",
       "id": "11"
     },
     {
-      "title": "ミッキー、マリー、くまのプーさんがビニール傘に♪ 手書き風の“原画タッチ”がかわいいディズニー限定デザイン",
-      "url": "https://animeanime.jp/article/2026/09/10/102808.html",
+      "title": "「Zガンダム」Mk-II（エゥーゴ仕様）を解体・再構築―最上級ブランド「解体匠機」より立体化！",
+      "url": "https://animeanime.jp/article/2026/09/10/102814.html",
       "category": "anime",
       "source": "アニメ!アニメ!",
       "id": "12"
