@@ -1,86 +1,86 @@
 {
-  "updated_at": "2026-09-11T02:01:38+00:00",
+  "updated_at": "2026-09-11T03:01:53+00:00",
   "threads": [
     {
-      "title": "「LOLLIPOP CHAINSAW RePOP」，発売2周年記念の無料アップデートを本日配信。新コスチューム「パーティドレス」などを追加",
-      "url": "https://www.4gamer.net/games/642/G064217/20260911001/",
+      "title": "サイコロジカルホラー「BrokenLore: DON’T LIE」発売。引きこもりの少女「ジュンコ」を主人公とし，嘘と薬，埋もれた記憶で歪んだ世界を描く",
+      "url": "https://www.4gamer.net/games/950/G095017/20260911003/",
       "category": "game",
       "source": "4Gamer",
       "id": "1"
     },
     {
-      "title": "［インタビュー］非営利団体Godot Foundationはそもそも何者なのか。第3のゲームエンジン「Godot Engine」を支える組織に，AIへの姿勢と日本展開を聞いた",
-      "url": "https://www.4gamer.net/games/032/G103266/20260813003/",
+      "title": "「Infinity: HexaDome Tactics」，Steamで配信開始。SFボードゲーム「Infinity」の世界を舞台にした1対1のターン制アリーナ・タクティクスゲーム",
+      "url": "https://www.4gamer.net/games/967/G096799/20260911005/",
       "category": "game",
       "source": "4Gamer",
       "id": "2"
     },
     {
-      "title": "育てた宇宙生物に意識を移して戦う，育成×TPSアクション「ボイドリング・バウンド」（あかねのSteam Pick Up！）",
-      "url": "https://www.4gamer.net/games/025/G102544/20260909032/",
+      "title": "「UNDER NIGHT IN-BIRTH II Sys:Celes」，DLCキャラクター「ゾハル」をPC/PS5向けに9月16日配信。ドッペルゲンガーとの連携で相手を翻弄",
+      "url": "https://www.4gamer.net/games/728/G072884/20260911004/",
       "category": "game",
       "source": "4Gamer",
       "id": "3"
     },
     {
-      "title": "PS5向けパッケージ版「エッジ オブ メモリーズ」デラックスエディション，12月10日発売決定。ゲームプレイ紹介トレイラーを公開",
-      "url": "https://www.4gamer.net/games/938/G093870/20260910062/",
+      "title": "「LOLLIPOP CHAINSAW RePOP」，発売2周年記念の無料アップデートを本日配信。新コスチューム「パーティドレス」などを追加",
+      "url": "https://www.4gamer.net/games/642/G064217/20260911001/",
       "category": "game",
       "source": "4Gamer",
       "id": "4"
+    },
+    {
+      "title": "Ubisoft、Steamでの“ランチャー二重起動”を順次廃止へ。まずは『プリンス オブ ペルシャ 失われた王冠』からテスト中",
+      "url": "https://automaton-media.com/articles/newsjp/20260911-466754/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "5"
+    },
+    {
+      "title": "リミナルスペースをラジコンカーで探索するサイコホラー『Tape 101: Liminal Descent』9月19日配信へ。スケールも歪んだ不可思議世界をタイヤで駆ける",
+      "url": "https://automaton-media.com/articles/newsjp/tape-101-liminal-descent-20260911-466745/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "6"
     },
     {
       "title": "人気洞窟サンドボックス『コアキーパー』、次回アプデは9月21日配信予定。動物を乗り回せるように、苔むす新サブバイオームも登場するどっさりアプデ",
       "url": "https://automaton-media.com/articles/newsjp/20260911-466737/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "5"
+      "id": "7"
     },
     {
       "title": "オープンワールドアクション“JRPG”『エッジ オブ メモリーズ』12月10日発売へ。「スタジオ閉鎖」後も諦めず開発された、執念の一作",
       "url": "https://automaton-media.com/articles/newsjp/20260911-466725/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "6"
-    },
-    {
-      "title": "大注目の100人対戦FPS『WARDOGS』開幕直後からプレイヤー殺到、一時は「20万人待ち」に。まず立ちはだかる“ログイン戦争”",
-      "url": "https://automaton-media.com/articles/newsjp/20260911-466715/",
-      "category": "game",
-      "source": "AUTOMATON",
-      "id": "7"
-    },
-    {
-      "title": "「1人vs8匹」非対称すぎバトル『Rat Game』10月30日配信へ。シェフ対ネズミ、やりたい放題の害獣掃討異種かくれんぼ",
-      "url": "https://automaton-media.com/articles/newsjp/20260911-466707/",
-      "category": "game",
-      "source": "AUTOMATON",
       "id": "8"
+    },
+    {
+      "title": "ユービーアイ製PCゲーが遊びやすくなるかも…まずはSteam版『プリンス オブ ペルシャ 失われた王冠』にてUbisoft ConnectのPCランチャーのインストール・起動が不要に",
+      "url": "http://www.gamespark.jp/article/2026/09/11/172122.html",
+      "category": "game",
+      "source": "GameSpark",
+      "id": "9"
+    },
+    {
+      "title": "SQLで事件を解くプログラミング系の推理ゲー『Ghost in the SQL Data』日本語対応デモ版が配信！誰かが火災発生の前に通報？その謎を解け",
+      "url": "http://www.gamespark.jp/article/2026/09/11/172121.html",
+      "category": "game",
+      "source": "GameSpark",
+      "id": "10"
     },
     {
       "title": "メガドライブの名作STG『グレイランサー』が今ネオジオで復活！？PC/現世代機にも展開の『Gley Lancer: Overdrive』発表―TGS2026試遊出展",
       "url": "http://www.gamespark.jp/article/2026/09/11/172120.html",
       "category": "game",
       "source": "GameSpark",
-      "id": "9"
-    },
-    {
-      "title": "100人FPS『WARDOGS』早期アクセス開始で早速100万本！同接も約34万人でテストより盛り上がる―ヘリも戦車も入り乱れる三つ巴のなんでもあり決戦が人気",
-      "url": "http://www.gamespark.jp/article/2026/09/11/172119.html",
-      "category": "game",
-      "source": "GameSpark",
-      "id": "10"
-    },
-    {
-      "title": "「非常に好評」帰宅を目指す協力アドベンチャー『RV There Yet?』湾岸の新ステージ配信開始―Steam版の過去最安セールも開催",
-      "url": "http://www.gamespark.jp/article/2026/09/11/172118.html",
-      "category": "game",
-      "source": "GameSpark",
       "id": "11"
     },
     {
-      "title": "ゴジラに挑む“新怪獣”を決めよう！「新怪獣総選挙」始動― 1位は新作特撮「フェス・ゴジラ」で映像化",
-      "url": "https://animeanime.jp/article/2026/09/11/102831.html",
+      "title": "「ディズニー・クリスマス」推し活にも◎“窓付きポーチ”が登場♪ 限定グッズ付き宿泊プランが販売",
+      "url": "https://animeanime.jp/article/2026/09/11/102836.html",
       "category": "anime",
       "source": "アニメ!アニメ!",
       "id": "12"
