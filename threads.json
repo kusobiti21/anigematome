@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-09-11T09:01:41+00:00",
+  "updated_at": "2026-09-11T10:01:49+00:00",
   "threads": [
+    {
+      "title": "ゲームフリーク，東京ゲームショウ2026のブース出展に先駆け，特別生放送を9月14日19：00に実施",
+      "url": "https://www.4gamer.net/games/999/G999905/20260911040/",
+      "category": "game",
+      "source": "4Gamer",
+      "id": "1"
+    },
+    {
+      "title": "「リリース直前！『マビノギモバイル』TGS特別番組」，9月17日20：00より配信決定",
+      "url": "https://www.4gamer.net/games/387/G038732/20260911038/",
+      "category": "game",
+      "source": "4Gamer",
+      "id": "2"
+    },
     {
       "title": "松竹ゲームズ，「東京ゲームショウ2026」の出展情報を公開。「ムーミン：ムーミン谷の夏まつり」「MONOPHOBIA」など新作を試遊できる",
       "url": "https://www.4gamer.net/games/013/G101345/20260911033/",
       "category": "game",
       "source": "4Gamer",
-      "id": "1"
+      "id": "3"
     },
     {
       "title": "荷物の配達をしながら隠された秘密を解き明かすトラックシム「Truckful / トラックフル」，10月9日に発売決定",
       "url": "https://www.4gamer.net/games/870/G087066/20260911035/",
       "category": "game",
       "source": "4Gamer",
-      "id": "2"
-    },
-    {
-      "title": "ポケモンカードゲーム MEGA 拡張パック「30th CELEBRATION」など3商品の追加抽選販売応募受付が開始。9月16日16：59まで",
-      "url": "https://www.4gamer.net/games/256/G025620/20260911034/",
-      "category": "game",
-      "source": "4Gamer",
-      "id": "3"
-    },
-    {
-      "title": "“異常が日常”の町で，歯や目玉といった作物を育てながら農場を営む。伊藤潤二作品の画風を想起させるコージーホラーRPG「Welcome to Elderfield」，発売開始",
-      "url": "https://www.4gamer.net/games/042/G104222/20260911031/",
-      "category": "game",
-      "source": "4Gamer",
       "id": "4"
+    },
+    {
+      "title": "「マクロス」のリズムゲーム『歌マクロス』復活プロジェクトが大注目浴びる。1日足らずでクラファン7000万円超",
+      "url": "https://automaton-media.com/articles/newsjp/20260911-466919/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "5"
+    },
+    {
+      "title": "グラボ高騰止まらず、「NVIDIA GeForce RTX 5090」はついに100万円を超え始める。“さらなるグラボ値上げ”を予告するショップも",
+      "url": "https://automaton-media.com/articles/newsjp/20260911-466913/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "6"
     },
     {
       "title": "物理演算ミサイル“自力誘導”ゲーム『Dumbfire』大注目集めブームの兆し。ぶつかれば爆発、癖になる激ムズ曲芸飛行、プレイテスト開催中",
       "url": "https://automaton-media.com/articles/newsjp/20260911-466855/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "5"
+      "id": "7"
     },
     {
       "title": "ヒット中・因習村生活シム『ほの暮しの庭』無料＆有料大型アプデ計画どどんと発表。まずは9月29日無料配信へ。農地拡大に家畜追加、有料DLCでは追加シナリオなどが実装へ",
       "url": "https://automaton-media.com/articles/newsjp/20260911-466852/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "6"
-    },
-    {
-      "title": "新生『AVA』こと『AVA RE:BIRTH』が目指すのは、“努力が報われる”ゲームバランス。エイムだけじゃない、知識も判断も活きる作品に",
-      "url": "https://automaton-media.com/articles/newsjp/20260911-466886/",
-      "category": "game",
-      "source": "AUTOMATON",
-      "id": "7"
-    },
-    {
-      "title": "終末世界“親子”ゾンビサバイバル『夜明けのキャンプ』発表。5歳の娘を守る逃避行、選択を通じて結末も変わる親子の物語",
-      "url": "https://automaton-media.com/articles/newsjp/camp-dawn-20260911-466874/",
-      "category": "game",
-      "source": "AUTOMATON",
       "id": "8"
     },
     {
-      "title": "【TGS2026】カラフルでキュートな2.5DアクションRPG『Edentopia』がホール9・E27でプレイアブルデモ出展。ボス討伐で缶バッジなど限定キャンペーン3種",
-      "url": "http://www.gamespark.jp/article/2026/09/11/172139.html",
+      "title": "『リトルナイトメア』開発陣の『REANIMAL』が「日本ホラーゲーム大賞2026」ホラーナラティブ・演出賞を受賞―スウェーデンのデザイン賞に続く栄誉",
+      "url": "http://www.gamespark.jp/article/2026/09/11/172144.html",
       "category": "game",
       "source": "GameSpark",
       "id": "9"
     },
     {
-      "title": "新作『クレイジータクシー：ワールドツアー』立ちながら遊ぶ往年のアーケード筐体を再現！？ハンドル＆シフターを備えTGS2026に出展",
-      "url": "http://www.gamespark.jp/article/2026/09/11/172138.html",
+      "title": "スイッチ2版『Stellar Blade』はパッケージにゲーム全体を収録。低コストとされる32GBモデルのゲームカードの存在明らかに",
+      "url": "http://www.gamespark.jp/article/2026/09/11/172143.html",
       "category": "game",
       "source": "GameSpark",
       "id": "10"
     },
     {
-      "title": "『ほの暮しの庭』追加コンテンツが配信決定！27年春に追加シナリオ&新マップが追加へーまずは9月29日に無料アップデート第1弾が実装",
-      "url": "http://www.gamespark.jp/article/2026/09/11/172137.html",
+      "title": "『太古の神:哪吒』は「神々の激突」をドラゴンボールばりの激しいアクションで描く3Dアクション。『黒神話：悟空』以降の中国ゲーム開発者が抱く“野心”とは【インタビュー】",
+      "url": "http://www.gamespark.jp/article/2026/09/11/172142.html",
       "category": "game",
       "source": "GameSpark",
       "id": "11"
