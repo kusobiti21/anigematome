@@ -1,86 +1,86 @@
 {
-  "updated_at": "2026-09-11T01:02:17+00:00",
+  "updated_at": "2026-09-11T02:01:38+00:00",
   "threads": [
+    {
+      "title": "「LOLLIPOP CHAINSAW RePOP」，発売2周年記念の無料アップデートを本日配信。新コスチューム「パーティドレス」などを追加",
+      "url": "https://www.4gamer.net/games/642/G064217/20260911001/",
+      "category": "game",
+      "source": "4Gamer",
+      "id": "1"
+    },
     {
       "title": "［インタビュー］非営利団体Godot Foundationはそもそも何者なのか。第3のゲームエンジン「Godot Engine」を支える組織に，AIへの姿勢と日本展開を聞いた",
       "url": "https://www.4gamer.net/games/032/G103266/20260813003/",
       "category": "game",
       "source": "4Gamer",
-      "id": "1"
+      "id": "2"
     },
     {
       "title": "育てた宇宙生物に意識を移して戦う，育成×TPSアクション「ボイドリング・バウンド」（あかねのSteam Pick Up！）",
       "url": "https://www.4gamer.net/games/025/G102544/20260909032/",
       "category": "game",
       "source": "4Gamer",
-      "id": "2"
+      "id": "3"
     },
     {
       "title": "PS5向けパッケージ版「エッジ オブ メモリーズ」デラックスエディション，12月10日発売決定。ゲームプレイ紹介トレイラーを公開",
       "url": "https://www.4gamer.net/games/938/G093870/20260910062/",
       "category": "game",
       "source": "4Gamer",
-      "id": "3"
+      "id": "4"
     },
     {
-      "title": "「LEVEL5 VISION 2026 II 夢」情報まとめ。「イナイレ」新作，初代「レイトン教授」リメイクが発表され，複数の最新映像が公開された",
-      "url": "https://www.4gamer.net/games/041/G104178/20260910066/",
+      "title": "人気洞窟サンドボックス『コアキーパー』、次回アプデは9月21日配信予定。動物を乗り回せるように、苔むす新サブバイオームも登場するどっさりアプデ",
+      "url": "https://automaton-media.com/articles/newsjp/20260911-466737/",
       "category": "game",
-      "source": "4Gamer",
-      "id": "4"
+      "source": "AUTOMATON",
+      "id": "5"
+    },
+    {
+      "title": "オープンワールドアクション“JRPG”『エッジ オブ メモリーズ』12月10日発売へ。「スタジオ閉鎖」後も諦めず開発された、執念の一作",
+      "url": "https://automaton-media.com/articles/newsjp/20260911-466725/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "6"
+    },
+    {
+      "title": "大注目の100人対戦FPS『WARDOGS』開幕直後からプレイヤー殺到、一時は「20万人待ち」に。まず立ちはだかる“ログイン戦争”",
+      "url": "https://automaton-media.com/articles/newsjp/20260911-466715/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "7"
     },
     {
       "title": "「1人vs8匹」非対称すぎバトル『Rat Game』10月30日配信へ。シェフ対ネズミ、やりたい放題の害獣掃討異種かくれんぼ",
       "url": "https://automaton-media.com/articles/newsjp/20260911-466707/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "5"
-    },
-    {
-      "title": "“『原神』のキャラボイスを盗用”音声AIサービス運営会社に約1700万円の賠償が命じられる。声紋鑑定で「キャラとほぼ同じ声」判定、ゲーム内ボイス無断学習もバレる",
-      "url": "https://automaton-media.com/articles/newsjp/20260911-466700/",
-      "category": "game",
-      "source": "AUTOMATON",
-      "id": "6"
-    },
-    {
-      "title": "『マインクラフト』秋アプデ「ウィルダネス・バウンド」9月15日配信へ。“鮮やか紅葉”の新バイオームや座れる「クッション」、新建築素材もよりどりみどり",
-      "url": "https://automaton-media.com/articles/newsjp/20260911-466692/",
-      "category": "game",
-      "source": "AUTOMATON",
-      "id": "7"
-    },
-    {
-      "title": "PS5『Marvel’s Wolverine』開発者インタビュー。『Marvel’s Spider-Man』の経験を経て作ったのはジェットコースターの冒険。展開と60fpsと暴力で描いた「ウルヴァリンらしさ」",
-      "url": "https://automaton-media.com/articles/newsjp/wol-20260911-466683/",
-      "category": "game",
-      "source": "AUTOMATON",
       "id": "8"
+    },
+    {
+      "title": "メガドライブの名作STG『グレイランサー』が今ネオジオで復活！？PC/現世代機にも展開の『Gley Lancer: Overdrive』発表―TGS2026試遊出展",
+      "url": "http://www.gamespark.jp/article/2026/09/11/172120.html",
+      "category": "game",
+      "source": "GameSpark",
+      "id": "9"
     },
     {
       "title": "100人FPS『WARDOGS』早期アクセス開始で早速100万本！同接も約34万人でテストより盛り上がる―ヘリも戦車も入り乱れる三つ巴のなんでもあり決戦が人気",
       "url": "http://www.gamespark.jp/article/2026/09/11/172119.html",
       "category": "game",
       "source": "GameSpark",
-      "id": "9"
+      "id": "10"
     },
     {
       "title": "「非常に好評」帰宅を目指す協力アドベンチャー『RV There Yet?』湾岸の新ステージ配信開始―Steam版の過去最安セールも開催",
       "url": "http://www.gamespark.jp/article/2026/09/11/172118.html",
       "category": "game",
       "source": "GameSpark",
-      "id": "10"
-    },
-    {
-      "title": "『レイトン教授と蒸気の新世界』ついに12月10日発売決定！ 久石譲×幾田りらのテーマ曲「The New World」も発表",
-      "url": "http://www.gamespark.jp/article/2026/09/11/172117.html",
-      "category": "game",
-      "source": "GameSpark",
       "id": "11"
     },
     {
-      "title": "ペンペンが部屋に!?「エヴァ×長崎ハウステンボス」がパワーアップ！コラボルームがグレードアップ＆新グルメ・グッズも",
-      "url": "https://animeanime.jp/article/2026/09/11/102828.html",
+      "title": "ゴジラに挑む“新怪獣”を決めよう！「新怪獣総選挙」始動― 1位は新作特撮「フェス・ゴジラ」で映像化",
+      "url": "https://animeanime.jp/article/2026/09/11/102831.html",
       "category": "anime",
       "source": "アニメ!アニメ!",
       "id": "12"
