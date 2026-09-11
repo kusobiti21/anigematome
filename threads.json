@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T00:02:11+00:00",
+  "updated_at": "2026-09-11T01:02:17+00:00",
   "threads": [
     {
       "title": "［インタビュー］非営利団体Godot Foundationはそもそも何者なのか。第3のゲームエンジン「Godot Engine」を支える組織に，AIへの姿勢と日本展開を聞いた",
@@ -30,50 +30,50 @@
       "id": "4"
     },
     {
+      "title": "「1人vs8匹」非対称すぎバトル『Rat Game』10月30日配信へ。シェフ対ネズミ、やりたい放題の害獣掃討異種かくれんぼ",
+      "url": "https://automaton-media.com/articles/newsjp/20260911-466707/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "5"
+    },
+    {
+      "title": "“『原神』のキャラボイスを盗用”音声AIサービス運営会社に約1700万円の賠償が命じられる。声紋鑑定で「キャラとほぼ同じ声」判定、ゲーム内ボイス無断学習もバレる",
+      "url": "https://automaton-media.com/articles/newsjp/20260911-466700/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "6"
+    },
+    {
       "title": "『マインクラフト』秋アプデ「ウィルダネス・バウンド」9月15日配信へ。“鮮やか紅葉”の新バイオームや座れる「クッション」、新建築素材もよりどりみどり",
       "url": "https://automaton-media.com/articles/newsjp/20260911-466692/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "5"
+      "id": "7"
     },
     {
       "title": "PS5『Marvel’s Wolverine』開発者インタビュー。『Marvel’s Spider-Man』の経験を経て作ったのはジェットコースターの冒険。展開と60fpsと暴力で描いた「ウルヴァリンらしさ」",
       "url": "https://automaton-media.com/articles/newsjp/wol-20260911-466683/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "6"
-    },
-    {
-      "title": "異界温泉宿経営＆ダンジョン探索生き残りRPG『アンダー ミュトス』発表。『ポケモン』『テイルズ』『GRANDIA』に携わったクリエイターたちが集った新作",
-      "url": "https://automaton-media.com/articles/newsjp/20260910-466640/",
-      "category": "game",
-      "source": "AUTOMATON",
-      "id": "7"
-    },
-    {
-      "title": "『ファイナルファンタジーVII リベレーション』先行プレイ感想。自由に空を飛び、降りた先には高密度フィールド、圧倒的「オープンワールド」体験",
-      "url": "https://automaton-media.com/articles/reportjp/20260910-466642/",
-      "category": "game",
-      "source": "AUTOMATON",
       "id": "8"
+    },
+    {
+      "title": "100人FPS『WARDOGS』早期アクセス開始で早速100万本！同接も約34万人でテストより盛り上がる―ヘリも戦車も入り乱れる三つ巴のなんでもあり決戦が人気",
+      "url": "http://www.gamespark.jp/article/2026/09/11/172119.html",
+      "category": "game",
+      "source": "GameSpark",
+      "id": "9"
     },
     {
       "title": "「非常に好評」帰宅を目指す協力アドベンチャー『RV There Yet?』湾岸の新ステージ配信開始―Steam版の過去最安セールも開催",
       "url": "http://www.gamespark.jp/article/2026/09/11/172118.html",
       "category": "game",
       "source": "GameSpark",
-      "id": "9"
+      "id": "10"
     },
     {
       "title": "『レイトン教授と蒸気の新世界』ついに12月10日発売決定！ 久石譲×幾田りらのテーマ曲「The New World」も発表",
       "url": "http://www.gamespark.jp/article/2026/09/11/172117.html",
-      "category": "game",
-      "source": "GameSpark",
-      "id": "10"
-    },
-    {
-      "title": "「非常に好評」ラヴクラフト風の世界で船を修理するシミュレーションゲーム『Sunken Engine』正式リリース！",
-      "url": "http://www.gamespark.jp/article/2026/09/11/172116.html",
       "category": "game",
       "source": "GameSpark",
       "id": "11"
