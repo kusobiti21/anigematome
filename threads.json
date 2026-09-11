@@ -1,30 +1,30 @@
 {
-  "updated_at": "2026-09-11T13:01:47+00:00",
+  "updated_at": "2026-09-11T14:01:54+00:00",
   "threads": [
+    {
+      "title": "異常を見つけたら“必ず”調べろ。ホラーADV「柘榴団地」のDLC「柘榴団地 夜勤」，Steamページを公開",
+      "url": "https://www.4gamer.net/games/913/G091305/20260911062/",
+      "category": "game",
+      "source": "4Gamer",
+      "id": "1"
+    },
     {
       "title": "汚染された廃施設で謎の物体を処理し，証拠を隠滅。ブロック押し系パズル「Hazard Pay」，配信開始",
       "url": "https://www.4gamer.net/games/042/G104218/20260911059/",
       "category": "game",
       "source": "4Gamer",
-      "id": "1"
+      "id": "2"
     },
     {
       "title": "クリストファー・ノーラン監督「オデュッセイア」，本日全国公開。全編IMAXフィルムカメラで描く，英雄オデュッセウスの10年に及ぶ帰還の旅",
       "url": "https://www.4gamer.net/games/991/G999102/20260911051/",
       "category": "game",
       "source": "4Gamer",
-      "id": "2"
+      "id": "3"
     },
     {
       "title": "スクエニ，TGS2026出展5タイトル合同の「TGS前夜祭」キャンペーンを開始。1万円分クーポンを計15名にプレゼント",
       "url": "https://www.4gamer.net/games/013/G101379/20260911056/",
-      "category": "game",
-      "source": "4Gamer",
-      "id": "3"
-    },
-    {
-      "title": "「え…車どこだっけ？」　自分の車とまったく同じ車が9万9999台ある駐車場で，マイカーを探し出していく。探し物シム「Where Did I Park?」発表",
-      "url": "https://www.4gamer.net/games/042/G104230/20260911049/",
       "category": "game",
       "source": "4Gamer",
       "id": "4"
@@ -58,22 +58,22 @@
       "id": "8"
     },
     {
-      "title": "巨大企業のCEOとなり、月面を開拓するコロニーシムが正式リリース。大規模アプデでは新機能や改善が盛り沢山―採れたて！本日のSteam注目ゲーム17選【2026年9月11日】",
-      "url": "http://www.gamespark.jp/article/2026/09/11/172152.html",
+      "title": "アソビズム新作『OmOchim（オモチム）』TGS2026出展決定。試遊台12台＆ロボットプログラミングコースを展開",
+      "url": "http://www.gamespark.jp/article/2026/09/11/172153.html",
       "category": "game",
       "source": "GameSpark",
       "id": "9"
     },
     {
-      "title": "VR/非VR対応。アクション映画インスパイアのFPS『Gunman Contracts - Stand Alone』早期アクセス開始―プロのヒットマンとして犯罪組織に立ち向かう",
-      "url": "http://www.gamespark.jp/article/2026/09/11/172151.html",
+      "title": "巨大企業のCEOとなり、月面を開拓するコロニーシムが正式リリース。大規模アプデでは新機能や改善が盛り沢山―採れたて！本日のSteam注目ゲーム17選【2026年9月11日】",
+      "url": "http://www.gamespark.jp/article/2026/09/11/172152.html",
       "category": "game",
       "source": "GameSpark",
       "id": "10"
     },
     {
-      "title": "ボードゲーム原作のターン制タクティクス『Infinity: HexaDome Tactics』発売。コンパクトなステージでランダム要素の無い緊張感抜群のハイテンポバトル",
-      "url": "http://www.gamespark.jp/article/2026/09/11/172150.html",
+      "title": "VR/非VR対応。アクション映画インスパイアのFPS『Gunman Contracts - Stand Alone』早期アクセス開始―プロのヒットマンとして犯罪組織に立ち向かう",
+      "url": "http://www.gamespark.jp/article/2026/09/11/172151.html",
       "category": "game",
       "source": "GameSpark",
       "id": "11"
