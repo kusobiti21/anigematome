@@ -1,86 +1,86 @@
 {
-  "updated_at": "2026-09-11T03:01:53+00:00",
+  "updated_at": "2026-09-11T04:01:53+00:00",
   "threads": [
     {
-      "title": "サイコロジカルホラー「BrokenLore: DON’T LIE」発売。引きこもりの少女「ジュンコ」を主人公とし，嘘と薬，埋もれた記憶で歪んだ世界を描く",
-      "url": "https://www.4gamer.net/games/950/G095017/20260911003/",
+      "title": "ピクセルアートで描かれるファンタジー世界で，12体の守護者を倒すローグライクアクションADV「Astral Ascent」と，戦闘機を操るアーケード風のシューティングゲーム「Luftrausers」がEpic Games Storeで無料配布中",
+      "url": "https://www.4gamer.net/games/554/G055490/20260911010/",
       "category": "game",
       "source": "4Gamer",
       "id": "1"
     },
     {
-      "title": "「Infinity: HexaDome Tactics」，Steamで配信開始。SFボードゲーム「Infinity」の世界を舞台にした1対1のターン制アリーナ・タクティクスゲーム",
-      "url": "https://www.4gamer.net/games/967/G096799/20260911005/",
+      "title": "USJの新アトラクション「『バイオハザード レクイエム』 ザ・ダイブ」，本日から12月27日まで開催。ゲームの世界を細部まで再現",
+      "url": "https://www.4gamer.net/games/917/G091773/20260911007/",
       "category": "game",
       "source": "4Gamer",
       "id": "2"
     },
     {
-      "title": "「UNDER NIGHT IN-BIRTH II Sys:Celes」，DLCキャラクター「ゾハル」をPC/PS5向けに9月16日配信。ドッペルゲンガーとの連携で相手を翻弄",
-      "url": "https://www.4gamer.net/games/728/G072884/20260911004/",
+      "title": "韓国で「メイプルストーリー」と「ブルーアーカイブ」の大型コラボが11月19日開催へ",
+      "url": "https://www.4gamer.net/games/011/G001163/20260911012/",
       "category": "game",
       "source": "4Gamer",
       "id": "3"
     },
     {
-      "title": "「LOLLIPOP CHAINSAW RePOP」，発売2周年記念の無料アップデートを本日配信。新コスチューム「パーティドレス」などを追加",
-      "url": "https://www.4gamer.net/games/642/G064217/20260911001/",
+      "title": "「Fable」公式ポッドキャストで新情報を公開。シームレスに探索できる「バウアーストーン」や奥深いバトルシステムを紹介",
+      "url": "https://www.4gamer.net/games/520/G052094/20260911011/",
       "category": "game",
       "source": "4Gamer",
       "id": "4"
+    },
+    {
+      "title": "『カルドセプト ビギンズ』発売2か月で「10万本」突破。10年ぶりの『カルドセプト』完全新作、シリーズ復活に確かな反響",
+      "url": "https://automaton-media.com/articles/newsjp/20260911-466787/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "5"
+    },
+    {
+      "title": "最大8人マルチ「3Dお絵かき」ゲーム『スーパー画伯』発表。つぶつぶ盛ってお題を伝える、“どうしてこうなった”連発必至の高難度立体お絵かき",
+      "url": "https://automaton-media.com/articles/newsjp/20260911-466778/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "6"
+    },
+    {
+      "title": "『UNDER NIGHT IN-BIRTH II Sys:Celes』1年ぶり新追加キャラ「ゾハル」は9月16日配信へ。“ドッペルゲンガー”とのコンビで相手を翻弄する高速インファイター",
+      "url": "https://automaton-media.com/articles/newsjp/20260911-466772/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "7"
     },
     {
       "title": "Ubisoft、Steamでの“ランチャー二重起動”を順次廃止へ。まずは『プリンス オブ ペルシャ 失われた王冠』からテスト中",
       "url": "https://automaton-media.com/articles/newsjp/20260911-466754/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "5"
-    },
-    {
-      "title": "リミナルスペースをラジコンカーで探索するサイコホラー『Tape 101: Liminal Descent』9月19日配信へ。スケールも歪んだ不可思議世界をタイヤで駆ける",
-      "url": "https://automaton-media.com/articles/newsjp/tape-101-liminal-descent-20260911-466745/",
-      "category": "game",
-      "source": "AUTOMATON",
-      "id": "6"
-    },
-    {
-      "title": "人気洞窟サンドボックス『コアキーパー』、次回アプデは9月21日配信予定。動物を乗り回せるように、苔むす新サブバイオームも登場するどっさりアプデ",
-      "url": "https://automaton-media.com/articles/newsjp/20260911-466737/",
-      "category": "game",
-      "source": "AUTOMATON",
-      "id": "7"
-    },
-    {
-      "title": "オープンワールドアクション“JRPG”『エッジ オブ メモリーズ』12月10日発売へ。「スタジオ閉鎖」後も諦めず開発された、執念の一作",
-      "url": "https://automaton-media.com/articles/newsjp/20260911-466725/",
-      "category": "game",
-      "source": "AUTOMATON",
       "id": "8"
+    },
+    {
+      "title": "【2,570円→0円】19世紀イングランドの庭園が舞台、高評価の植物×一人称視点パズル『Botany Manor』Amazonプライム会員向けに無料配布！",
+      "url": "http://www.gamespark.jp/article/2026/09/11/172124.html",
+      "category": "game",
+      "source": "GameSpark",
+      "id": "9"
+    },
+    {
+      "title": "『FF7 リベレーション』パケ版はディスク1枚でDL必須。ディスクだけで遊べない仕様に海外から反響―浜口D「品質を妥協したくなかった」と理由を説明",
+      "url": "http://www.gamespark.jp/article/2026/09/11/172123.html",
+      "category": "game",
+      "source": "GameSpark",
+      "id": "10"
     },
     {
       "title": "ユービーアイ製PCゲーが遊びやすくなるかも…まずはSteam版『プリンス オブ ペルシャ 失われた王冠』にてUbisoft ConnectのPCランチャーのインストール・起動が不要に",
       "url": "http://www.gamespark.jp/article/2026/09/11/172122.html",
       "category": "game",
       "source": "GameSpark",
-      "id": "9"
-    },
-    {
-      "title": "SQLで事件を解くプログラミング系の推理ゲー『Ghost in the SQL Data』日本語対応デモ版が配信！誰かが火災発生の前に通報？その謎を解け",
-      "url": "http://www.gamespark.jp/article/2026/09/11/172121.html",
-      "category": "game",
-      "source": "GameSpark",
-      "id": "10"
-    },
-    {
-      "title": "メガドライブの名作STG『グレイランサー』が今ネオジオで復活！？PC/現世代機にも展開の『Gley Lancer: Overdrive』発表―TGS2026試遊出展",
-      "url": "http://www.gamespark.jp/article/2026/09/11/172120.html",
-      "category": "game",
-      "source": "GameSpark",
       "id": "11"
     },
     {
-      "title": "「ディズニー・クリスマス」推し活にも◎“窓付きポーチ”が登場♪ 限定グッズ付き宿泊プランが販売",
-      "url": "https://animeanime.jp/article/2026/09/11/102836.html",
+      "title": "スヌーピーたちとあたたかく♪ もこもこインナーウェアや、刺しゅう入りタイツが登場☆秋冬アイテムで寒さ対策を",
+      "url": "https://animeanime.jp/article/2026/09/11/102840.html",
       "category": "anime",
       "source": "アニメ!アニメ!",
       "id": "12"
