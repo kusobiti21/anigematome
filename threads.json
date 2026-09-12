@@ -1,86 +1,86 @@
 {
-  "updated_at": "2026-09-12T09:01:53+00:00",
+  "updated_at": "2026-09-12T10:01:41+00:00",
   "threads": [
+    {
+      "title": "「Fate/EXTRA Record」，主人公と契約するサーヴァント候補の1人「アーチャー」にフォーカスしたキャラクターPVが公開に",
+      "url": "https://www.4gamer.net/games/520/G052062/20260911058/",
+      "category": "game",
+      "source": "4Gamer",
+      "id": "1"
+    },
     {
       "title": "週刊Steam広場 第170号：「Valheim」が正式リリースされ，「WARDOGS」の早期アクセスがスタート",
       "url": "https://www.4gamer.net/games/038/G003821/20260912002/",
       "category": "game",
       "source": "4Gamer",
-      "id": "1"
+      "id": "2"
     },
     {
       "title": "9月12日はクイズの日。「ウィズジェネレーション」でクイズ募集キャンペーンがスタート。採用されたクイズは実際にゲーム内で出題される",
       "url": "https://www.4gamer.net/games/036/G103653/20260912005/",
       "category": "game",
       "source": "4Gamer",
-      "id": "2"
+      "id": "3"
     },
     {
       "title": "銛を投げて魚をゲット！ 魚の力で海を爆走！ ムッキムキの腕が光る釣り×パルクールFPS「fresh fish」，Steamページを公開",
       "url": "https://www.4gamer.net/games/042/G104232/20260912003/",
       "category": "game",
       "source": "4Gamer",
-      "id": "3"
+      "id": "4"
     },
     {
-      "title": "［インタビュー］「アナザーエデン ビギンズ」は，新規も古参ファンも楽しめる新作コンシューマRPGに。プロデューサーが語る，その魅力とは",
-      "url": "https://www.4gamer.net/games/981/G098195/20260909042/",
+      "title": "ホラー×スローライフRPG『Welcome to Elderfield』デモ版の勢いそのまま絶好調スタート。異形だらけの町で農業し、恋愛も怪物退治もできる“異常な日常”",
+      "url": "https://automaton-media.com/articles/newsjp/20260912-467055/",
       "category": "game",
-      "source": "4Gamer",
-      "id": "4"
+      "source": "AUTOMATON",
+      "id": "5"
     },
     {
       "title": "Steamの新たな中毒系ダイスローグライク『ダイス・タバーン：運命の一投』、「好評率93％」の好調な滑り出し。出目をいじって確率操作、“魔改造サイコロ”で運命をねじ曲げる",
       "url": "https://automaton-media.com/articles/newsjp/20260912-466985/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "5"
+      "id": "6"
     },
     {
       "title": "最大6人マルチ対応・アライグマの物理演算ゴミ運び『Trash Day』10月14日配信へ。ゴミ満載のカートで進む帰り道、たまに荷物をぶちまける",
       "url": "https://automaton-media.com/articles/newsjp/trash-day-20260912-467043/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "6"
+      "id": "7"
     },
     {
       "title": "レベルファイブ日野社長、“AI盛り込みトレイラー発表会”について「派手にしたかった」ためと弁明。ただ発売するゲームには、“安易なAI出力データ”は入れない",
       "url": "https://automaton-media.com/articles/newsjp/20260912-467049/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "7"
+      "id": "8"
     },
     {
-      "title": "「非常に好評」採掘インクリメンタル『山食いドワーフ』ついに日本語対応。ツルハシから“ジャイロコプター”まで総動員、あらゆる手段で山肌を削る",
-      "url": "https://automaton-media.com/articles/newsjp/20260912-467031/",
+      "title": "とにかく操作性にこだわった1,000回遊べる系ターン制ローグライクRPG『勇者ローグ』10月31日リリース！「快適ダッシュ」でストレスフリーにダンジョン攻略",
+      "url": "http://www.gamespark.jp/article/2026/09/12/172177.html",
       "category": "game",
-      "source": "AUTOMATON",
-      "id": "8"
+      "source": "GameSpark",
+      "id": "9"
+    },
+    {
+      "title": "マンガやフィギュアを販売する経営シム『Anime Shop Simulator』Steamで発売―トレカは自分で開けてデッキを組める",
+      "url": "http://www.gamespark.jp/article/2026/09/12/172176.html",
+      "category": "game",
+      "source": "GameSpark",
+      "id": "10"
     },
     {
       "title": "『モンハンワイルズ：アセンダンス』新要素「ブーストブレイサー」で進化したヘビィボウガンのアクション公開！",
       "url": "http://www.gamespark.jp/article/2026/09/12/172175.html",
       "category": "game",
       "source": "GameSpark",
-      "id": "9"
-    },
-    {
-      "title": "『POSTAL 2』トータルコンバージョンMod「ADRENALIN」のリリースが延期―最終ティーザー映像も公開",
-      "url": "http://www.gamespark.jp/article/2026/09/12/172174.html",
-      "category": "game",
-      "source": "GameSpark",
-      "id": "10"
-    },
-    {
-      "title": "AI映像が物議醸したレベルファイブ発表会について日野社長が謝罪―「発売されるゲームに安易なAI出力データは入らない」と説明",
-      "url": "http://www.gamespark.jp/article/2026/09/12/172173.html",
-      "category": "game",
-      "source": "GameSpark",
       "id": "11"
     },
     {
-      "title": "「ブルーロック」潔世一、糸師凛、凪誠士郎らがジャケットでクール♪ エゴイストがローソンに集合☆ 限定パケ「トッポ」やクリアファイルをゲットしよう！",
-      "url": "https://animeanime.jp/article/2026/09/12/102883.html",
+      "title": "「文スト」15歳の太宰治をイメージ！“人間失格”刺繍に包帯っぽ白プリーツ♪「MAYLA」アイコニックドレス登場",
+      "url": "https://animeanime.jp/article/2026/09/12/102886.html",
       "category": "anime",
       "source": "アニメ!アニメ!",
       "id": "12"
