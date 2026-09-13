@@ -1,86 +1,86 @@
 {
-  "updated_at": "2026-09-13T02:01:43+00:00",
+  "updated_at": "2026-09-13T03:01:45+00:00",
   "threads": [
+    {
+      "title": "「ディアブロ V」では特定の拠点を持たずにキャラバンで移動。新クラスとして「プレイグ・ナイト」が登場",
+      "url": "https://www.4gamer.net/games/042/G104233/20260913004/",
+      "category": "game",
+      "source": "4Gamer",
+      "id": "1"
+    },
     {
       "title": "「餓狼伝説 City of the Wolves」，最新DLCキャラ「キム・カッファン」を9月24日に配信。2人の息子に続き，韓国最強のテコンドー使いが参戦",
       "url": "https://www.4gamer.net/games/649/G064915/20260911061/",
       "category": "game",
       "source": "4Gamer",
-      "id": "1"
+      "id": "2"
     },
     {
       "title": "「オーバーウォッチ」，新サポート「ドクトリン」を発表。シーズン5のリワークで「ソンブラ」はサポート・ロールに移行へ",
       "url": "https://www.4gamer.net/games/484/G048450/20260913003/",
       "category": "game",
       "source": "4Gamer",
-      "id": "2"
+      "id": "3"
     },
     {
       "title": "名作RTS「StarCraft」の新作は物語主導型のオープンワールドシューターに。「STARCRAFT」，2030年発売",
       "url": "https://www.4gamer.net/games/042/G104234/20260913002/",
       "category": "game",
       "source": "4Gamer",
-      "id": "3"
+      "id": "4"
     },
     {
-      "title": "シリーズ最新作「ディアブロ V」発表，2029年春発売へ。「ディアブロ」のNetflixアニメシリーズも制作中",
-      "url": "https://www.4gamer.net/games/042/G104233/20260913001/",
+      "title": "街オープンワールド『NTE』は「客を殴って追い出すカフェ」が儲かる。狂ってるけど実用的、今こそ“最悪な金策”をいろいろ試してみた",
+      "url": "https://automaton-media.com/articles/special-column/20260913-467087/",
       "category": "game",
-      "source": "4Gamer",
-      "id": "4"
+      "source": "AUTOMATON",
+      "id": "5"
     },
     {
       "title": "『ロマンシング サガ3 デスティニーユナイテッド』ではコマンダーモード「廃止」。“サラも安心して主人公に出来る”など、公式生放送で続々アンサー",
       "url": "https://automaton-media.com/articles/newsjp/20260913-467079/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "5"
+      "id": "6"
     },
     {
       "title": "『ディアブロ V』サプライズ発表、2029年春リリースへ。“病を広げる”新クラスなどもお披露目",
       "url": "https://automaton-media.com/articles/newsjp/diablo-v-20260913-467074/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "6"
+      "id": "7"
     },
     {
       "title": "オトメイト新作乙女ゲーム『VELVET CANDY TINT KISS』発表。「危険なキス」で男を虜にする、現代ファンタジー小悪魔ラブロマンス",
       "url": "https://automaton-media.com/articles/newsjp/20260912-467067/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "7"
+      "id": "8"
     },
     {
-      "title": "ホラー×スローライフRPG『Welcome to Elderfield』デモ版の勢いそのまま絶好調スタート。異形だらけの町で農業し、恋愛も怪物退治もできる“異常な日常”",
-      "url": "https://automaton-media.com/articles/newsjp/20260912-467055/",
+      "title": "日本で『ダンジョンマスター』や『ウルティマ オンライン』を売った男―EAビクターやアイドス日本法人を率いた本多慧氏に訊く\"洋ゲー\"黎明期の舞台裏",
+      "url": "http://www.gamespark.jp/article/2026/09/13/172186.html",
       "category": "game",
-      "source": "AUTOMATON",
-      "id": "8"
+      "source": "GameSpark",
+      "id": "9"
+    },
+    {
+      "title": "『パルワールド』次回大型アップデートに向けて進展か。V1.1の進展を示唆する写真を投稿【26年8月後半にHOTな「サバイバルゲー」はこれだ！】",
+      "url": "http://www.gamespark.jp/article/2026/09/13/172185.html",
+      "category": "game",
+      "source": "GameSpark",
+      "id": "10"
     },
     {
       "title": "グラニフ×『ドラクエ』コラボグッズが9月18日発売！スライムTシャツやデスピサロのジャケットなど、冒険心をくすぐるラインナップ",
       "url": "http://www.gamespark.jp/article/2026/09/13/172184.html",
       "category": "game",
       "source": "GameSpark",
-      "id": "9"
-    },
-    {
-      "title": "『ドラクエ』即売り切れ「キングスライム目薬」受注販売情報はもうチェックした？ロート製薬オンラインで9月24日12時より受付開始",
-      "url": "http://www.gamespark.jp/article/2026/09/13/172183.html",
-      "category": "game",
-      "source": "GameSpark",
-      "id": "10"
-    },
-    {
-      "title": "カードダス『ドラゴンクエスト』第2弾が10月30日発売！HD-2D版『ドラクエIII』より勇者、カンダタら全35枚を収録",
-      "url": "http://www.gamespark.jp/article/2026/09/13/172182.html",
-      "category": "game",
-      "source": "GameSpark",
       "id": "11"
     },
     {
-      "title": "「ウルトラマン」特別パケのハーバーや横濱煉瓦も！「60周年展」コラボ商品が登場！シルバーウィークは親子3世代で横浜へ☆",
-      "url": "https://animeanime.jp/article/2026/09/13/102895.html",
+      "title": "「北斗の拳」ラオウ＆ジャギのサウナハットで“わがサウナ道に一片の悔いなし!!”異色ラインナップの「370」コラボサウナグッズ登場",
+      "url": "https://animeanime.jp/article/2026/09/13/102898.html",
       "category": "anime",
       "source": "アニメ!アニメ!",
       "id": "12"
