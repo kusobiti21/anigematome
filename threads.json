@@ -1,86 +1,86 @@
 {
-  "updated_at": "2026-09-15T03:02:29+00:00",
+  "updated_at": "2026-09-15T04:02:15+00:00",
   "threads": [
     {
-      "title": "命懸け＆イカサマ上等の麻雀ゲームが復活。「ひぐらしの哭く頃に 雀」がHDリマスターで2027年にPC/PS5/Switchで発売",
-      "url": "https://www.4gamer.net/games/042/G104275/20260914053/",
+      "title": "キュートなペットをお世話しよう！ 絶対に処置を間違えないでね&hearts; 育成観察型ホラー「CHIBBY: PROJECT PET」，Steamストアページを公開",
+      "url": "https://www.4gamer.net/games/042/G104282/20260915009/",
       "category": "game",
       "source": "4Gamer",
       "id": "1"
     },
     {
-      "title": "幻のゲーム雑誌（？），24年ぶりに復活！　「4Gamer magazine」をTGS 2026の4Gamerブースで無料配布します",
-      "url": "https://www.4gamer.net/games/000/G000000/20260914009/",
+      "title": "バレンシアガとセガがコラボ。ソニックのビジュアルや両社のロゴをデザインしたTシャツ，フーディなどを日本先行リリース",
+      "url": "https://www.4gamer.net/games/991/G999106/20260915010/",
       "category": "game",
       "source": "4Gamer",
       "id": "2"
     },
     {
-      "title": "「ACE COMBAT 8」，ストーリートレイラーと最新情報を公開。オリジナル機体「FA-36 Game」や近未来超兵器を紹介",
-      "url": "https://www.4gamer.net/games/969/G096901/20260915005/",
+      "title": "「BanG Dream! Our Notes」，9月24日にリリース。全5バンドのストーリー100話を収録，翌日からカバー曲を5日連続追加",
+      "url": "https://www.4gamer.net/games/974/G097456/20260915008/",
       "category": "game",
       "source": "4Gamer",
       "id": "3"
     },
     {
-      "title": "「Triple-i Initiative Showcase」，サプライズエディションを日本時間10月9日1：00より配信。8本のワールドプレミアを予定",
-      "url": "https://www.4gamer.net/games/991/G999110/20260915006/",
+      "title": "Valve製VR HMD「Steam Frame」の販売がスタート。価格は約20万円から",
+      "url": "https://www.4gamer.net/games/999/G999902/20260915011/",
       "category": "game",
       "source": "4Gamer",
       "id": "4"
+    },
+    {
+      "title": "夢見るアリスの「TRPG風」冒険ゲーム『Alice Nation』10月16日配信へ。カードが導く不思議世界脱出、会話に観察、あるいは“肘打ち”か",
+      "url": "https://automaton-media.com/articles/newsjp/20260915-467595/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "5"
+    },
+    {
+      "title": "『レイマン レジェンド リトールド』発売まで約2週間で突然の延期。完成はしてるけどもっと磨く、実はオリジナル版も発売直前に延期した過去",
+      "url": "https://automaton-media.com/articles/newsjp/20260915-467583/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "6"
+    },
+    {
+      "title": "Steam Frameレビュー。Steamの「VRゲーム」と「VRじゃないゲーム」を遊べるヘッドセット、しかしスタンドアローンでは力及ばず",
+      "url": "https://automaton-media.com/articles/impressionjp/steam-frame-20260915-467529/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "7"
     },
     {
       "title": "『ウィザードリィVI 禁断の魔筆』Steam移植版、発表。“入手困難”だった「Wizardry 6」スーパーファミコン版が蘇る",
       "url": "https://automaton-media.com/articles/newsjp/20260915-467554/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "5"
-    },
-    {
-      "title": "『ひぐらしのなく頃に』の麻雀ゲームがまさかの復活、『ひぐらしの哭く頃に 雀 REMASTER』発表。負けると死、イカサマあり",
-      "url": "https://automaton-media.com/articles/newsjp/20260915-467546/",
-      "category": "game",
-      "source": "AUTOMATON",
-      "id": "6"
-    },
-    {
-      "title": "協力マルチ潜水艦「激務」シム『S.O.N.A.R. – 潜水艦クルー、準備不足！』は“海軍協力”リアル艦内で、船酔い・浸水・仲間割れの大騒ぎ。10月30日配信へ",
-      "url": "https://automaton-media.com/articles/newsjp/20260915-467531/",
-      "category": "game",
-      "source": "AUTOMATON",
-      "id": "7"
-    },
-    {
-      "title": "『アナザーエデン ビギンズ』開発者インタビュー。運営型ゲームの買い切り化はゲキムズだった。エンジンを変え、戦闘を変え、核は変えず、追求した家庭用ゲームらしさ",
-      "url": "https://automaton-media.com/articles/interviewsjp/ab-20260915-467494/",
-      "category": "game",
-      "source": "AUTOMATON",
       "id": "8"
     },
     {
-      "title": "SFC版『WizardryVI 禁断の魔筆』が2027年に移植発売決定！45周年を祝う記念情報が一挙公開",
-      "url": "http://www.gamespark.jp/article/2026/09/15/172276.html",
+      "title": "消臭もできるカドショ経営シム『TCG Card Shop Simulator』正式リリース！ついにカードゲームのプレイが可能に―自分で大会を開催して自分で優勝しよう",
+      "url": "http://www.gamespark.jp/article/2026/09/15/172281.html",
       "category": "game",
       "source": "GameSpark",
       "id": "9"
     },
     {
-      "title": "命賭けイカサマ麻雀『ひぐらしの哭く頃に 雀 REMASTER』2027年復刻決定。『スーチーパイ』『スーパーリアル麻雀』など脱衣麻雀復刻を手掛けたシティコネクションより",
-      "url": "http://www.gamespark.jp/article/2026/09/15/172275.html",
+      "title": "ちょっぴりダークで不謹慎なアンデッドを使役する墓地管理シム『Graveyard Keeper 2』デモ版が配信開始。9月23日発売の製品版に引き継ぎ可能",
+      "url": "http://www.gamespark.jp/article/2026/09/15/172280.html",
       "category": "game",
       "source": "GameSpark",
       "id": "10"
     },
     {
-      "title": "何が起きるかわからない人生、備え方をサバイバルゲー『RuneScape: Dragonwilds』で学ぶ。伐採も魔法も、すべては来るべきその日のため！",
-      "url": "http://www.gamespark.jp/article/2026/09/15/172274.html",
+      "title": "「メモリ不足はSteam Deck 2の開発計画にそれほど影響を与えていない」…海外メディアにValveの開発者が語る",
+      "url": "http://www.gamespark.jp/article/2026/09/15/172279.html",
       "category": "game",
       "source": "GameSpark",
       "id": "11"
     },
     {
-      "title": "Netflix&セガ、映像化に向けたパートナーシップ締結 第1弾で「クレイジータクシー」実写映画化へ",
-      "url": "https://animeanime.jp/article/2026/09/15/102952.html",
+      "title": "「ONE PIECE」ログポース＆イーストブルーが腕時計に！10月16日より数量限定で復刻発売",
+      "url": "https://animeanime.jp/article/2026/09/15/102955.html",
       "category": "anime",
       "source": "アニメ!アニメ!",
       "id": "12"
