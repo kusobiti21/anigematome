@@ -1,86 +1,86 @@
 {
-  "updated_at": "2026-09-15T02:03:26+00:00",
+  "updated_at": "2026-09-15T03:02:29+00:00",
   "threads": [
     {
-      "title": "認知異常と本格推理を組み合わせたサスペンスアドベンチャー「病能探偵」，11月5日にSteamとSTOVEでリリース。TGS 2026にも出展決定",
-      "url": "https://www.4gamer.net/games/910/G091052/20260914027/",
+      "title": "命懸け＆イカサマ上等の麻雀ゲームが復活。「ひぐらしの哭く頃に 雀」がHDリマスターで2027年にPC/PS5/Switchで発売",
+      "url": "https://www.4gamer.net/games/042/G104275/20260914053/",
       "category": "game",
       "source": "4Gamer",
       "id": "1"
     },
     {
-      "title": "「勝利の女神：NIKKE」，新SSR「ギルティ：マイティバニー」を9月17日に実装。新イベント「COIN RUSH SHOWDOWN」を開催",
-      "url": "https://www.4gamer.net/games/456/G045622/20260914039/",
+      "title": "幻のゲーム雑誌（？），24年ぶりに復活！　「4Gamer magazine」をTGS 2026の4Gamerブースで無料配布します",
+      "url": "https://www.4gamer.net/games/000/G000000/20260914009/",
       "category": "game",
       "source": "4Gamer",
       "id": "2"
     },
     {
-      "title": "MCP対応前からUnreal Engineを自力で操れていたLLMエージェントは，UE5.8のMCPで何ができるようになったのか［ゲームメーカーズスクランブル］",
-      "url": "https://www.4gamer.net/games/210/G021013/20260907003/",
+      "title": "「ACE COMBAT 8」，ストーリートレイラーと最新情報を公開。オリジナル機体「FA-36 Game」や近未来超兵器を紹介",
+      "url": "https://www.4gamer.net/games/969/G096901/20260915005/",
       "category": "game",
       "source": "4Gamer",
       "id": "3"
     },
     {
-      "title": "RDNA 4世代のエントリーGPU「Radeon RX 9050」の実力は？ GeForceのエントリー級「GeForce RTX 5050」と比較してみた",
-      "url": "https://www.4gamer.net/games/869/G086962/20260913010/",
+      "title": "「Triple-i Initiative Showcase」，サプライズエディションを日本時間10月9日1：00より配信。8本のワールドプレミアを予定",
+      "url": "https://www.4gamer.net/games/991/G999110/20260915006/",
       "category": "game",
       "source": "4Gamer",
       "id": "4"
     },
     {
-      "title": "人気低下ぎみのSIE脱出シューター『Marathon』、“PvE常設大型アプデ”が土壇場延期に。「シーズン更新をもっとユルくする」と表明、立て直しの一手となるか",
-      "url": "https://automaton-media.com/articles/newsjp/20260915-467521/",
+      "title": "『ウィザードリィVI 禁断の魔筆』Steam移植版、発表。“入手困難”だった「Wizardry 6」スーパーファミコン版が蘇る",
+      "url": "https://automaton-media.com/articles/newsjp/20260915-467554/",
       "category": "game",
       "source": "AUTOMATON",
       "id": "5"
     },
     {
-      "title": "日本深夜タクシー運転ホラー『樹海への道』正式発表、2027年発売へ。カーナビなしで乗客探しふらふら迷走、時には“何か”が乗ってくる",
-      "url": "https://automaton-media.com/articles/newsjp/20260915-467515/",
+      "title": "『ひぐらしのなく頃に』の麻雀ゲームがまさかの復活、『ひぐらしの哭く頃に 雀 REMASTER』発表。負けると死、イカサマあり",
+      "url": "https://automaton-media.com/articles/newsjp/20260915-467546/",
       "category": "game",
       "source": "AUTOMATON",
       "id": "6"
     },
     {
-      "title": "Steam Frame開発者インタビュー。PC用の無線VRヘッドセットを作っていたはずが、気が付いたらヘッドセットだけでVRゲームが動くようになっていた",
-      "url": "https://automaton-media.com/articles/interviewsjp/steam-frame-20260914-467439/",
+      "title": "協力マルチ潜水艦「激務」シム『S.O.N.A.R. – 潜水艦クルー、準備不足！』は“海軍協力”リアル艦内で、船酔い・浸水・仲間割れの大騒ぎ。10月30日配信へ",
+      "url": "https://automaton-media.com/articles/newsjp/20260915-467531/",
       "category": "game",
       "source": "AUTOMATON",
       "id": "7"
     },
     {
-      "title": "Valveの新VRヘッドセット「Steam Frame」いきなり販売開始。19万9980円から",
-      "url": "https://automaton-media.com/articles/newsjp/20260915-467421/",
+      "title": "『アナザーエデン ビギンズ』開発者インタビュー。運営型ゲームの買い切り化はゲキムズだった。エンジンを変え、戦闘を変え、核は変えず、追求した家庭用ゲームらしさ",
+      "url": "https://automaton-media.com/articles/interviewsjp/ab-20260915-467494/",
       "category": "game",
       "source": "AUTOMATON",
       "id": "8"
     },
     {
-      "title": "認知異常が伝染し殺人現場を歪めるデスゲーム推理ADV『病能探偵』11月5日配信決定！「嘘がつけない」など13人の「病能者」が集う―完全犯罪達成で神になり願いを叶えろ",
-      "url": "http://www.gamespark.jp/article/2026/09/15/172272.html",
+      "title": "SFC版『WizardryVI 禁断の魔筆』が2027年に移植発売決定！45周年を祝う記念情報が一挙公開",
+      "url": "http://www.gamespark.jp/article/2026/09/15/172276.html",
       "category": "game",
       "source": "GameSpark",
       "id": "9"
     },
     {
-      "title": "『クレイジータクシー』実写映画化決定！Netflixとセガが新たな提携発表―『ソニック』や『STRANGER THAN HEAVEN』の企画も進行中",
-      "url": "http://www.gamespark.jp/article/2026/09/15/172271.html",
+      "title": "命賭けイカサマ麻雀『ひぐらしの哭く頃に 雀 REMASTER』2027年復刻決定。『スーチーパイ』『スーパーリアル麻雀』など脱衣麻雀復刻を手掛けたシティコネクションより",
+      "url": "http://www.gamespark.jp/article/2026/09/15/172275.html",
       "category": "game",
       "source": "GameSpark",
       "id": "10"
     },
     {
-      "title": "“作業”にならないサバイバルクラフトを目指して。便利魔法が彩る『RuneScape: Dragonwilds』開発者に、“100時間超”へ成長した世界を訊く【インタビュー】",
-      "url": "http://www.gamespark.jp/article/2026/09/15/172270.html",
+      "title": "何が起きるかわからない人生、備え方をサバイバルゲー『RuneScape: Dragonwilds』で学ぶ。伐採も魔法も、すべては来るべきその日のため！",
+      "url": "http://www.gamespark.jp/article/2026/09/15/172274.html",
       "category": "game",
       "source": "GameSpark",
       "id": "11"
     },
     {
-      "title": "“聖地巡礼”したいアニメは？ アンケート〆切は9月21日",
-      "url": "https://animeanime.jp/article/2026/09/15/102949.html",
+      "title": "Netflix&セガ、映像化に向けたパートナーシップ締結 第1弾で「クレイジータクシー」実写映画化へ",
+      "url": "https://animeanime.jp/article/2026/09/15/102952.html",
       "category": "anime",
       "source": "アニメ!アニメ!",
       "id": "12"
