@@ -1,86 +1,86 @@
 {
-  "updated_at": "2026-09-15T22:01:56+00:00",
+  "updated_at": "2026-09-15T23:01:30+00:00",
   "threads": [
+    {
+      "title": "「プラグマタ」の開発で起こった4つの課題。これ以上遅れられない状況で，プロジェクトマネージャーはどう向き合ったのか［ゲームメーカーズスクランブル］",
+      "url": "https://www.4gamer.net/games/512/G051239/20260907001/",
+      "category": "game",
+      "source": "4Gamer",
+      "id": "1"
+    },
     {
       "title": "ボドゲ版「Baba Is You」のクラファンがスタート。盤面上の単語を動かしてルールを変えながら，「YOU」を「WIN」へと導く2人対戦パズルゲーム",
       "url": "https://www.4gamer.net/games/029/G102974/20260916001/",
       "category": "game",
       "source": "4Gamer",
-      "id": "1"
+      "id": "2"
     },
     {
       "title": "［インタビュー］6周年の「三國志 覇道」で，攻城戦の根底が変わる新シーズン「龍気連響」開幕。盾に強い新兵科“工兵”も現る",
       "url": "https://www.4gamer.net/games/489/G048903/20260904038/",
       "category": "game",
       "source": "4Gamer",
-      "id": "2"
+      "id": "3"
     },
     {
       "title": "「PowerWash Simulator 2」，新たなダウンロードコンテンツ「Barbie Pack」を2026年内にリリース",
       "url": "https://www.4gamer.net/games/891/G089129/20260915036/",
       "category": "game",
       "source": "4Gamer",
-      "id": "3"
+      "id": "4"
     },
     {
-      "title": "昼にキャンプを強化し，夜に訪れる襲撃から焚き火の炎を守り抜け。「Feed the Fire」，アナウンストレイラーを公開",
-      "url": "https://www.4gamer.net/games/043/G104313/20260915053/",
+      "title": "人気根強い剣戟アクション『フォーオナー』が無料配布中、Ubisoft Storeにて。定価4180円が今ならタダ",
+      "url": "https://automaton-media.com/articles/newsjp/20260916-467812/",
       "category": "game",
-      "source": "4Gamer",
-      "id": "4"
+      "source": "AUTOMATON",
+      "id": "5"
     },
     {
       "title": "大人気マルチ対応サバイバルクラフト『ルーンスケープ：ドラゴンワイルズ』ついに正式リリース。巨大ドラゴン討伐を目指す自由とロマンの冒険、大型アプデで“ラスボス”も実装",
       "url": "https://automaton-media.com/articles/newsjp/20260915-467778/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "5"
+      "id": "6"
     },
     {
       "title": "『トータルウォー：ウォーハンマー40,000』先行プレイ感想。日本語字幕付きで人気ストラテジーゲーム入門から、特殊兵器で敵軍団を一網打尽まで体験",
       "url": "https://automaton-media.com/articles/reportjp/tt-20260915-467751/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "6"
+      "id": "7"
     },
     {
       "title": "メルカリ、『ポケモンカードゲーム』30周年記念パックを「一定期間出品禁止」に。発売前日に“即転売”シャットアウト表明",
       "url": "https://automaton-media.com/articles/newsjp/20260915-467743/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "7"
+      "id": "8"
     },
     {
-      "title": "日本で非売品だった「Amazon Web Services」学習カードゲーム『AWS BuilderCards』9月25日に発売、Amazonにて。“ベストプラクティスなウェルアーキテクテッドのアーキテクチャ”を遊んで学べる",
-      "url": "https://automaton-media.com/articles/newsjp/20260915-467737/",
+      "title": "【Game Pass】新作『Gears of War: E-Day』『Minecraft Dungeons II 』など計13本登場―2026年10月上旬までのラインナップ公開",
+      "url": "http://www.gamespark.jp/article/2026/09/16/172328.html",
       "category": "game",
-      "source": "AUTOMATON",
-      "id": "8"
+      "source": "GameSpark",
+      "id": "9"
+    },
+    {
+      "title": "日本語音声にも対応する戦国時代ストラテジー決定版『Total War: SHOGUN 2 - Complete Edition』発表！",
+      "url": "http://www.gamespark.jp/article/2026/09/16/172327.html",
+      "category": "game",
+      "source": "GameSpark",
+      "id": "10"
     },
     {
       "title": "狩猟アクション×スローライフ『Monster Fantasy』9月22日よりプレイテスト実施へ。『モンハン』がインスピレーション源の1つだとする作品",
       "url": "http://www.gamespark.jp/article/2026/09/16/172326.html",
       "category": "game",
       "source": "GameSpark",
-      "id": "9"
-    },
-    {
-      "title": "10年以上開発続く『オブリビオン』再現Mod「Skyblivion」はリリースに近づいていると告知。トレイラー制作などを担うボランティアを募集中",
-      "url": "http://www.gamespark.jp/article/2026/09/16/172325.html",
-      "category": "game",
-      "source": "GameSpark",
-      "id": "10"
-    },
-    {
-      "title": "スイッチ2版『めっちゃカメレオン』売上30万本突破！近日中にボイスチャット関連のアップデートも予定",
-      "url": "http://www.gamespark.jp/article/2026/09/16/172324.html",
-      "category": "game",
-      "source": "GameSpark",
       "id": "11"
     },
     {
-      "title": "「ちいかわ」手をつないだデザインがかわいい♪ランチグッズ&お風呂アイテム登場 寝具や「アプレレクール」アパレルも",
-      "url": "https://animeanime.jp/article/2026/09/15/102974.html",
+      "title": "「ウマ娘」ミホノブルボンが立体化！“オペレーション『三冠獲得』を開始―”スラリ美脚や揺蕩う髪…精巧なデザインを再現",
+      "url": "https://animeanime.jp/article/2026/09/16/102975.html",
       "category": "anime",
       "source": "アニメ!アニメ!",
       "id": "12"
