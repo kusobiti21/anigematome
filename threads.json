@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-09-15T00:02:01+00:00",
+  "updated_at": "2026-09-15T01:02:56+00:00",
   "threads": [
+    {
+      "title": "「勝利の女神：NIKKE」，新SSR「ギルティ：マイティバニー」を9月17日に実装。新イベント「COIN RUSH SHOWDOWN」を開催",
+      "url": "https://www.4gamer.net/games/456/G045622/20260914039/",
+      "category": "game",
+      "source": "4Gamer",
+      "id": "1"
+    },
     {
       "title": "MCP対応前からUnreal Engineを自力で操れていたLLMエージェントは，UE5.8のMCPで何ができるようになったのか［ゲームメーカーズスクランブル］",
       "url": "https://www.4gamer.net/games/210/G021013/20260907003/",
       "category": "game",
       "source": "4Gamer",
-      "id": "1"
+      "id": "2"
     },
     {
       "title": "RDNA 4世代のエントリーGPU「Radeon RX 9050」の実力は？ GeForceのエントリー級「GeForce RTX 5050」と比較してみた",
       "url": "https://www.4gamer.net/games/869/G086962/20260913010/",
       "category": "game",
       "source": "4Gamer",
-      "id": "2"
+      "id": "3"
     },
     {
       "title": "23年ぶりの新DLC「Warcraft III Reforged: Forsaken Kingdom」が発表＆即日配信。約30時間のボリュームでフォーセイクンの起源を描く",
       "url": "https://www.4gamer.net/games/439/G043977/20260915004/",
       "category": "game",
       "source": "4Gamer",
-      "id": "3"
+      "id": "4"
     },
     {
-      "title": "9月17日から開催される「東京ゲームショウ2026」に合わせて，さまざまな番組が配信。忘れずに見たい「今週の公式配信番組」ピックアップ",
-      "url": "https://www.4gamer.net/games/421/G042182/20260914043/",
+      "title": "Valveの新VRヘッドセット「Steam Frame」いきなり販売開始。19万9980円から",
+      "url": "https://automaton-media.com/articles/newsjp/20260915-467421/",
       "category": "game",
-      "source": "4Gamer",
-      "id": "4"
+      "source": "AUTOMATON",
+      "id": "5"
+    },
+    {
+      "title": "世紀末「巨大カニ上暮らし」ローグライト『The Crab is Walking』発表。省スペースで都市建築、軍隊育てて進軍せよ、『The King is Watching』開発元の新作",
+      "url": "https://automaton-media.com/articles/newsjp/20260915-467485/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "6"
     },
     {
       "title": "Switch 2/Switch『ピクロスS CLIMAX』発表、12月10日発売へ。『ピクロスS』シリーズの集大成、厳選1000問以上をまとめ新規高難度ボーナス問題も収録",
       "url": "https://automaton-media.com/articles/newsjp/20260915-467465/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "5"
+      "id": "7"
     },
     {
       "title": "『スーパーダンガンロンパ２×２』の“異様に高い推奨PCスペック”は、「4K高画質想定」だったから。『モンハンワイルズ』超えの推奨環境、後日更新へ",
       "url": "https://automaton-media.com/articles/newsjp/20260914-467454/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "6"
-    },
-    {
-      "title": "Steamの新たなマルチ“極限キャンプ生活”ホラー『フィード・ザ・ファイア』発表。昼は仲良く物資集め、夜はだいぶ怖い異形まみれの落差デカすぎサバイバル",
-      "url": "https://automaton-media.com/articles/newsjp/20260914-467431/",
-      "category": "game",
-      "source": "AUTOMATON",
-      "id": "7"
-    },
-    {
-      "title": "Switch 2/Switch/PC用アケコン「HORI Arcade Classic Pro」発表。『アケアカ』対応、スティック以外にトラックボールなど4種付け替えで“あの頃”の操作感を実現",
-      "url": "https://automaton-media.com/articles/newsjp/20260914-467413/",
-      "category": "game",
-      "source": "AUTOMATON",
       "id": "8"
+    },
+    {
+      "title": "「Steam Frame」本日9月15日サプライズで発売！価格は199,980円から―Steamライブラリの非VRゲームも遊べるワイヤレスVRヘッドセットが販売開始",
+      "url": "http://www.gamespark.jp/article/2026/09/15/172266.html",
+      "category": "game",
+      "source": "GameSpark",
+      "id": "9"
     },
     {
       "title": "現代兵器を中世に持ち込むアクションストラテジー型サンドボックス『Kingmakers』ゲームプレイ深掘り映像！",
       "url": "http://www.gamespark.jp/article/2026/09/15/172265.html",
       "category": "game",
       "source": "GameSpark",
-      "id": "9"
+      "id": "10"
     },
     {
       "title": "サイバーパンクな貧困地区で成り上がる質屋経営シム『Probably Stolen』10月29日リリース！粗悪タバコや違法武器などを査定し、当局の目を掻い潜ってお金を稼ぐ",
       "url": "http://www.gamespark.jp/article/2026/09/15/172264.html",
-      "category": "game",
-      "source": "GameSpark",
-      "id": "10"
-    },
-    {
-      "title": "夜勤タクシー運転手として日本の街を巡るサイコロジカルホラー『樹海への道』2027年リリース！",
-      "url": "http://www.gamespark.jp/article/2026/09/15/172263.html",
       "category": "game",
       "source": "GameSpark",
       "id": "11"
