@@ -1,86 +1,86 @@
 {
-  "updated_at": "2026-09-15T04:02:15+00:00",
+  "updated_at": "2026-09-15T05:02:09+00:00",
   "threads": [
+    {
+      "title": "「呪術廻戦 RUMBLE: SURVIVATON」，発売時期を2027年に延期。TGS 2026で世界初のプレイテスト出展を実施，最大8人で対戦可能",
+      "url": "https://www.4gamer.net/games/015/G101555/20260915014/",
+      "category": "game",
+      "source": "4Gamer",
+      "id": "1"
+    },
     {
       "title": "キュートなペットをお世話しよう！ 絶対に処置を間違えないでね&hearts; 育成観察型ホラー「CHIBBY: PROJECT PET」，Steamストアページを公開",
       "url": "https://www.4gamer.net/games/042/G104282/20260915009/",
       "category": "game",
       "source": "4Gamer",
-      "id": "1"
+      "id": "2"
     },
     {
       "title": "バレンシアガとセガがコラボ。ソニックのビジュアルや両社のロゴをデザインしたTシャツ，フーディなどを日本先行リリース",
       "url": "https://www.4gamer.net/games/991/G999106/20260915010/",
       "category": "game",
       "source": "4Gamer",
-      "id": "2"
+      "id": "3"
     },
     {
       "title": "「BanG Dream! Our Notes」，9月24日にリリース。全5バンドのストーリー100話を収録，翌日からカバー曲を5日連続追加",
       "url": "https://www.4gamer.net/games/974/G097456/20260915008/",
       "category": "game",
       "source": "4Gamer",
-      "id": "3"
+      "id": "4"
     },
     {
-      "title": "Valve製VR HMD「Steam Frame」の販売がスタート。価格は約20万円から",
-      "url": "https://www.4gamer.net/games/999/G999902/20260915011/",
+      "title": "サイバーパンク悪徳質屋シム『Probably Stolen』では盗品を売り、警察をかわし、“客になりすますAI”を銃で撃つ。リスクしかないギリギリ商売、10月29日発売へ",
+      "url": "https://automaton-media.com/articles/newsjp/20260915-467608/",
       "category": "game",
-      "source": "4Gamer",
-      "id": "4"
+      "source": "AUTOMATON",
+      "id": "5"
+    },
+    {
+      "title": "“Steam Deck 2”開発者いわく、メモリ危機下でも「開発目標」は変わらない。明確な性能向上なくして、Steam Deck 2なし",
+      "url": "https://automaton-media.com/articles/newsjp/20260915-467603/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "6"
     },
     {
       "title": "夢見るアリスの「TRPG風」冒険ゲーム『Alice Nation』10月16日配信へ。カードが導く不思議世界脱出、会話に観察、あるいは“肘打ち”か",
       "url": "https://automaton-media.com/articles/newsjp/20260915-467595/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "5"
+      "id": "7"
     },
     {
       "title": "『レイマン レジェンド リトールド』発売まで約2週間で突然の延期。完成はしてるけどもっと磨く、実はオリジナル版も発売直前に延期した過去",
       "url": "https://automaton-media.com/articles/newsjp/20260915-467583/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "6"
-    },
-    {
-      "title": "Steam Frameレビュー。Steamの「VRゲーム」と「VRじゃないゲーム」を遊べるヘッドセット、しかしスタンドアローンでは力及ばず",
-      "url": "https://automaton-media.com/articles/impressionjp/steam-frame-20260915-467529/",
-      "category": "game",
-      "source": "AUTOMATON",
-      "id": "7"
-    },
-    {
-      "title": "『ウィザードリィVI 禁断の魔筆』Steam移植版、発表。“入手困難”だった「Wizardry 6」スーパーファミコン版が蘇る",
-      "url": "https://automaton-media.com/articles/newsjp/20260915-467554/",
-      "category": "game",
-      "source": "AUTOMATON",
       "id": "8"
     },
     {
-      "title": "消臭もできるカドショ経営シム『TCG Card Shop Simulator』正式リリース！ついにカードゲームのプレイが可能に―自分で大会を開催して自分で優勝しよう",
-      "url": "http://www.gamespark.jp/article/2026/09/15/172281.html",
+      "title": "大規模再編進めるXBOX CEO、自らサポート業務にも参加―毎月数時間にわたりユーザーからの問い合わせに対応していると報道",
+      "url": "http://www.gamespark.jp/article/2026/09/15/172285.html",
       "category": "game",
       "source": "GameSpark",
       "id": "9"
     },
     {
-      "title": "ちょっぴりダークで不謹慎なアンデッドを使役する墓地管理シム『Graveyard Keeper 2』デモ版が配信開始。9月23日発売の製品版に引き継ぎ可能",
-      "url": "http://www.gamespark.jp/article/2026/09/15/172280.html",
+      "title": "最大100人三つ巴FPS『WARDOGS』がGeForce NOWに登場！『Valheim』1.0「Deep North」や『Bus Simulator 27』など計9タイトル追加",
+      "url": "http://www.gamespark.jp/article/2026/09/15/172284.html",
       "category": "game",
       "source": "GameSpark",
       "id": "10"
     },
     {
-      "title": "「メモリ不足はSteam Deck 2の開発計画にそれほど影響を与えていない」…海外メディアにValveの開発者が語る",
-      "url": "http://www.gamespark.jp/article/2026/09/15/172279.html",
+      "title": "『雨のちハレ女』ゲームシステム&キャラクターなど新情報が公開！ゲームフリークが手掛ける新作“洗濯ゲーム”、TGS2026では「ハレ女部」を再現した部室が展示",
+      "url": "http://www.gamespark.jp/article/2026/09/15/172283.html",
       "category": "game",
       "source": "GameSpark",
       "id": "11"
     },
     {
-      "title": "「ONE PIECE」ログポース＆イーストブルーが腕時計に！10月16日より数量限定で復刻発売",
-      "url": "https://animeanime.jp/article/2026/09/15/102955.html",
+      "title": "『呪術廻戦 RUMBLE: SURVIVATON』発売時期が2027年に延期「より良い形で皆様にお届けするために」",
+      "url": "https://animeanime.jp/article/2026/09/15/102956.html",
       "category": "anime",
       "source": "アニメ!アニメ!",
       "id": "12"
