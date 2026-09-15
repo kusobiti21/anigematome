@@ -1,86 +1,86 @@
 {
-  "updated_at": "2026-09-15T01:02:56+00:00",
+  "updated_at": "2026-09-15T02:03:26+00:00",
   "threads": [
+    {
+      "title": "認知異常と本格推理を組み合わせたサスペンスアドベンチャー「病能探偵」，11月5日にSteamとSTOVEでリリース。TGS 2026にも出展決定",
+      "url": "https://www.4gamer.net/games/910/G091052/20260914027/",
+      "category": "game",
+      "source": "4Gamer",
+      "id": "1"
+    },
     {
       "title": "「勝利の女神：NIKKE」，新SSR「ギルティ：マイティバニー」を9月17日に実装。新イベント「COIN RUSH SHOWDOWN」を開催",
       "url": "https://www.4gamer.net/games/456/G045622/20260914039/",
       "category": "game",
       "source": "4Gamer",
-      "id": "1"
+      "id": "2"
     },
     {
       "title": "MCP対応前からUnreal Engineを自力で操れていたLLMエージェントは，UE5.8のMCPで何ができるようになったのか［ゲームメーカーズスクランブル］",
       "url": "https://www.4gamer.net/games/210/G021013/20260907003/",
       "category": "game",
       "source": "4Gamer",
-      "id": "2"
+      "id": "3"
     },
     {
       "title": "RDNA 4世代のエントリーGPU「Radeon RX 9050」の実力は？ GeForceのエントリー級「GeForce RTX 5050」と比較してみた",
       "url": "https://www.4gamer.net/games/869/G086962/20260913010/",
       "category": "game",
       "source": "4Gamer",
-      "id": "3"
+      "id": "4"
     },
     {
-      "title": "23年ぶりの新DLC「Warcraft III Reforged: Forsaken Kingdom」が発表＆即日配信。約30時間のボリュームでフォーセイクンの起源を描く",
-      "url": "https://www.4gamer.net/games/439/G043977/20260915004/",
+      "title": "人気低下ぎみのSIE脱出シューター『Marathon』、“PvE常設大型アプデ”が土壇場延期に。「シーズン更新をもっとユルくする」と表明、立て直しの一手となるか",
+      "url": "https://automaton-media.com/articles/newsjp/20260915-467521/",
       "category": "game",
-      "source": "4Gamer",
-      "id": "4"
+      "source": "AUTOMATON",
+      "id": "5"
+    },
+    {
+      "title": "日本深夜タクシー運転ホラー『樹海への道』正式発表、2027年発売へ。カーナビなしで乗客探しふらふら迷走、時には“何か”が乗ってくる",
+      "url": "https://automaton-media.com/articles/newsjp/20260915-467515/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "6"
+    },
+    {
+      "title": "Steam Frame開発者インタビュー。PC用の無線VRヘッドセットを作っていたはずが、気が付いたらヘッドセットだけでVRゲームが動くようになっていた",
+      "url": "https://automaton-media.com/articles/interviewsjp/steam-frame-20260914-467439/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "7"
     },
     {
       "title": "Valveの新VRヘッドセット「Steam Frame」いきなり販売開始。19万9980円から",
       "url": "https://automaton-media.com/articles/newsjp/20260915-467421/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "5"
-    },
-    {
-      "title": "世紀末「巨大カニ上暮らし」ローグライト『The Crab is Walking』発表。省スペースで都市建築、軍隊育てて進軍せよ、『The King is Watching』開発元の新作",
-      "url": "https://automaton-media.com/articles/newsjp/20260915-467485/",
-      "category": "game",
-      "source": "AUTOMATON",
-      "id": "6"
-    },
-    {
-      "title": "Switch 2/Switch『ピクロスS CLIMAX』発表、12月10日発売へ。『ピクロスS』シリーズの集大成、厳選1000問以上をまとめ新規高難度ボーナス問題も収録",
-      "url": "https://automaton-media.com/articles/newsjp/20260915-467465/",
-      "category": "game",
-      "source": "AUTOMATON",
-      "id": "7"
-    },
-    {
-      "title": "『スーパーダンガンロンパ２×２』の“異様に高い推奨PCスペック”は、「4K高画質想定」だったから。『モンハンワイルズ』超えの推奨環境、後日更新へ",
-      "url": "https://automaton-media.com/articles/newsjp/20260914-467454/",
-      "category": "game",
-      "source": "AUTOMATON",
       "id": "8"
     },
     {
-      "title": "「Steam Frame」本日9月15日サプライズで発売！価格は199,980円から―Steamライブラリの非VRゲームも遊べるワイヤレスVRヘッドセットが販売開始",
-      "url": "http://www.gamespark.jp/article/2026/09/15/172266.html",
+      "title": "認知異常が伝染し殺人現場を歪めるデスゲーム推理ADV『病能探偵』11月5日配信決定！「嘘がつけない」など13人の「病能者」が集う―完全犯罪達成で神になり願いを叶えろ",
+      "url": "http://www.gamespark.jp/article/2026/09/15/172272.html",
       "category": "game",
       "source": "GameSpark",
       "id": "9"
     },
     {
-      "title": "現代兵器を中世に持ち込むアクションストラテジー型サンドボックス『Kingmakers』ゲームプレイ深掘り映像！",
-      "url": "http://www.gamespark.jp/article/2026/09/15/172265.html",
+      "title": "『クレイジータクシー』実写映画化決定！Netflixとセガが新たな提携発表―『ソニック』や『STRANGER THAN HEAVEN』の企画も進行中",
+      "url": "http://www.gamespark.jp/article/2026/09/15/172271.html",
       "category": "game",
       "source": "GameSpark",
       "id": "10"
     },
     {
-      "title": "サイバーパンクな貧困地区で成り上がる質屋経営シム『Probably Stolen』10月29日リリース！粗悪タバコや違法武器などを査定し、当局の目を掻い潜ってお金を稼ぐ",
-      "url": "http://www.gamespark.jp/article/2026/09/15/172264.html",
+      "title": "“作業”にならないサバイバルクラフトを目指して。便利魔法が彩る『RuneScape: Dragonwilds』開発者に、“100時間超”へ成長した世界を訊く【インタビュー】",
+      "url": "http://www.gamespark.jp/article/2026/09/15/172270.html",
       "category": "game",
       "source": "GameSpark",
       "id": "11"
     },
     {
-      "title": "「映画ドラえもん のび太の蒸気時間車」2027年3月5日公開！19世紀英国での大冒険描く 特報お披露目",
-      "url": "https://animeanime.jp/article/2026/09/15/102947.html",
+      "title": "“聖地巡礼”したいアニメは？ アンケート〆切は9月21日",
+      "url": "https://animeanime.jp/article/2026/09/15/102949.html",
       "category": "anime",
       "source": "アニメ!アニメ!",
       "id": "12"
