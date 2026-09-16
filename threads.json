@@ -1,30 +1,30 @@
 {
-  "updated_at": "2026-09-15T23:01:30+00:00",
+  "updated_at": "2026-09-16T00:02:05+00:00",
   "threads": [
+    {
+      "title": "「勝利の女神：NIKKE」が京都各地をめぐる街歩き企画を開始。黄色に染まるタワーの前で声優らが参加を呼びかけた",
+      "url": "https://www.4gamer.net/games/456/G045622/20260915057/",
+      "category": "game",
+      "source": "4Gamer",
+      "id": "1"
+    },
     {
       "title": "「プラグマタ」の開発で起こった4つの課題。これ以上遅れられない状況で，プロジェクトマネージャーはどう向き合ったのか［ゲームメーカーズスクランブル］",
       "url": "https://www.4gamer.net/games/512/G051239/20260907001/",
       "category": "game",
       "source": "4Gamer",
-      "id": "1"
+      "id": "2"
     },
     {
       "title": "ボドゲ版「Baba Is You」のクラファンがスタート。盤面上の単語を動かしてルールを変えながら，「YOU」を「WIN」へと導く2人対戦パズルゲーム",
       "url": "https://www.4gamer.net/games/029/G102974/20260916001/",
       "category": "game",
       "source": "4Gamer",
-      "id": "2"
+      "id": "3"
     },
     {
       "title": "［インタビュー］6周年の「三國志 覇道」で，攻城戦の根底が変わる新シーズン「龍気連響」開幕。盾に強い新兵科“工兵”も現る",
       "url": "https://www.4gamer.net/games/489/G048903/20260904038/",
-      "category": "game",
-      "source": "4Gamer",
-      "id": "3"
-    },
-    {
-      "title": "「PowerWash Simulator 2」，新たなダウンロードコンテンツ「Barbie Pack」を2026年内にリリース",
-      "url": "https://www.4gamer.net/games/891/G089129/20260915036/",
       "category": "game",
       "source": "4Gamer",
       "id": "4"
@@ -58,22 +58,22 @@
       "id": "8"
     },
     {
-      "title": "【Game Pass】新作『Gears of War: E-Day』『Minecraft Dungeons II 』など計13本登場―2026年10月上旬までのラインナップ公開",
-      "url": "http://www.gamespark.jp/article/2026/09/16/172328.html",
+      "title": "協力プレイ対応ローグライトFPS『Guns & Dragons』次回プレイテストでAI生成だったアイコンを手描きに置換と告知",
+      "url": "http://www.gamespark.jp/article/2026/09/16/172329.html",
       "category": "game",
       "source": "GameSpark",
       "id": "9"
     },
     {
-      "title": "日本語音声にも対応する戦国時代ストラテジー決定版『Total War: SHOGUN 2 - Complete Edition』発表！",
-      "url": "http://www.gamespark.jp/article/2026/09/16/172327.html",
+      "title": "【Game Pass】新作『Gears of War: E-Day』『Minecraft Dungeons II 』など計13本登場―2026年10月上旬までのラインナップ公開",
+      "url": "http://www.gamespark.jp/article/2026/09/16/172328.html",
       "category": "game",
       "source": "GameSpark",
       "id": "10"
     },
     {
-      "title": "狩猟アクション×スローライフ『Monster Fantasy』9月22日よりプレイテスト実施へ。『モンハン』がインスピレーション源の1つだとする作品",
-      "url": "http://www.gamespark.jp/article/2026/09/16/172326.html",
+      "title": "日本語音声にも対応する戦国時代ストラテジー決定版『Total War: SHOGUN 2 - Complete Edition』発表！",
+      "url": "http://www.gamespark.jp/article/2026/09/16/172327.html",
       "category": "game",
       "source": "GameSpark",
       "id": "11"
