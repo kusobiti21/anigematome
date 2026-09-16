@@ -1,86 +1,86 @@
 {
-  "updated_at": "2026-09-16T11:01:44+00:00",
+  "updated_at": "2026-09-16T12:02:16+00:00",
   "threads": [
     {
-      "title": "タイミング良く敵の攻撃を弾き，魔法カードで反撃。「Witch the Showdown」，早期アクセス版を11月19日に配信決定",
-      "url": "https://www.4gamer.net/games/838/G083821/20260916036/",
+      "title": "魔法生物を収集しながら世界を冒険し，バトルや謎解きに挑もう。「アニモ」，PC / コンソール版で配信開始",
+      "url": "https://www.4gamer.net/games/918/G091819/20260916042/",
       "category": "game",
       "source": "4Gamer",
       "id": "1"
     },
     {
-      "title": "「わしゃがなTV出張版 in TGS2026」，9月20日11：00から4Gamerブースで実施決定。整理券を配布予定",
-      "url": "https://www.4gamer.net/games/991/G999108/20260916028/",
+      "title": "「東京ゲームショウ2026」4Gamer特設サイトがオープン。試遊，ステージイベント，冊子配布を4Gamerブースで実施",
+      "url": "https://www.4gamer.net/words/018/W01892/",
       "category": "game",
       "source": "4Gamer",
       "id": "2"
     },
     {
-      "title": "勇者ラルの末裔となり，復活した魔王ルウに挑む。「EGGコンソール ディープダンジョンII 勇士の紋章 MSX」，9月17日配信",
-      "url": "https://www.4gamer.net/games/043/G104356/20260916039/",
+      "title": "PCとXBOX，スマホへの接続をスムーズに切り替えられるSteelSeries製ゲームパッド「Aeon Pro」が9月25日発売",
+      "url": "https://www.4gamer.net/games/037/G003732/20260916040/",
       "category": "game",
       "source": "4Gamer",
       "id": "3"
     },
     {
-      "title": "「超エキサイトボール」，Steamストアページを公開。次々と飛んでくるボールを左右のフリッパーで打ち返す！",
-      "url": "https://www.4gamer.net/games/043/G104355/20260916034/",
+      "title": "タイミング良く敵の攻撃を弾き，魔法カードで反撃。「Witch the Showdown」，早期アクセス版を11月19日に配信決定",
+      "url": "https://www.4gamer.net/games/838/G083821/20260916036/",
       "category": "game",
       "source": "4Gamer",
       "id": "4"
+    },
+    {
+      "title": "傑作アクションRPG『天地創造』リマスター版、来年1月14日に発売へ。便利機能いろいろで現代化、31年越しに蘇る",
+      "url": "https://automaton-media.com/articles/newsjp/20260916-468074/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "5"
+    },
+    {
+      "title": "『Fate/Grand Order（FGO）』新イベント「くたばれ！ パンプキンファーム･スローター」開幕。シナリオはamphibian氏、懐疑心が支配するサスペンスなハロウィン",
+      "url": "https://automaton-media.com/articles/newsjp/20260916-468061/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "6"
     },
     {
       "title": "「圧倒的に好評」の陶芸＆経営シム『陶芸マスター』、“約7年”の時を経てついに正式リリース。好きな形の「渾身の陶器」を作りあげ、展示会/売上で資金稼ぎ",
       "url": "https://automaton-media.com/articles/newsjp/20260916-468054/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "5"
+      "id": "7"
     },
     {
       "title": "最大8人協力“ピクセル冒険“ARPG『ディムレイス』、Steam同接1万人超えの好発進。エルフやミノタウロスにもなれるファンタジー生活は、戦って食って寝て恋する全部盛り",
       "url": "https://automaton-media.com/articles/newsjp/20260916-468042/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "6"
-    },
-    {
-      "title": "“野焼き”パズルゲーム『NOYAKI — CONTROLLED BURN』発表。地形と風を読み、いつ・どこに火を入れるか見極めて野原を焼きはらう、家は焼いちゃだめ",
-      "url": "https://automaton-media.com/articles/newsjp/20260916-468035/",
-      "category": "game",
-      "source": "AUTOMATON",
-      "id": "7"
-    },
-    {
-      "title": "人気スクショ共有ツール「Gyazo」に不正アクセス、“約2362万件”のアカウント情報大規模流出。利用者にパスワード変更を呼びかけ",
-      "url": "https://automaton-media.com/articles/newsjp/20260916-468029/",
-      "category": "game",
-      "source": "AUTOMATON",
       "id": "8"
+    },
+    {
+      "title": "超常現象アクションRPG続編『CONTROL Resonant』アクセシビリティ対応を含めた難度調整機能詳細公開―調整次第でより高難度にも",
+      "url": "http://www.gamespark.jp/article/2026/09/16/172368.html",
+      "category": "game",
+      "source": "GameSpark",
+      "id": "9"
+    },
+    {
+      "title": "エニックス名作アクションRPG『天地創造』2027年1月14日にリリース決定。16ビットの傑作が現代のプラットフォームで復活",
+      "url": "http://www.gamespark.jp/article/2026/09/16/172367.html",
+      "category": "game",
+      "source": "GameSpark",
+      "id": "10"
     },
     {
       "title": "華麗にトリックを決めるアグレッシブインラインスケートゲーム『Rollout Inline』早期アクセス開始！",
       "url": "http://www.gamespark.jp/article/2026/09/16/172366.html",
       "category": "game",
       "source": "GameSpark",
-      "id": "9"
-    },
-    {
-      "title": "高い自由度を誇るサンドボックスRPG『歴史の終わり』PS5/XBOX Series X|S版が発売決定。Steam正式版とともに2027年第1四半期リリース予定",
-      "url": "http://www.gamespark.jp/article/2026/09/16/172365.html",
-      "category": "game",
-      "source": "GameSpark",
-      "id": "10"
-    },
-    {
-      "title": "『ニンジャラ２ 未知なる惑星』はなぜ対戦→PvEオープンワールドへ舵を切ったのか？ 前編・後編に分けた理由や協力プレイの魅力に迫る、金田元貴ディレクターにインタビュー",
-      "url": "http://www.gamespark.jp/article/2026/09/16/172364.html",
-      "category": "game",
-      "source": "GameSpark",
       "id": "11"
     },
     {
-      "title": "“名コンビ”といえば？ アンケート〆切は9月23日【接着の日】",
-      "url": "https://animeanime.jp/article/2026/09/16/102997.html",
+      "title": "「リゼロ」小林裕介&高橋李依が体験♪ ペテルギウスの権能「見えざる手」や「雪原の大兎」を再現…10年間にわたる歩みを凝縮した初展示会レポ",
+      "url": "https://animeanime.jp/article/2026/09/16/102998.html",
       "category": "anime",
       "source": "アニメ!アニメ!",
       "id": "12"
