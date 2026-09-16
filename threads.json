@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-09-16T05:01:32+00:00",
+  "updated_at": "2026-09-16T06:01:53+00:00",
   "threads": [
+    {
+      "title": "「METAL SLUG」30周年を振り返る。「METAL SLUG ULTIMATE COLLECTION」の実機プレイも披露する記念ステージをTGS 2026で開催",
+      "url": "https://www.4gamer.net/games/041/G104111/20260915026/",
+      "category": "game",
+      "source": "4Gamer",
+      "id": "1"
+    },
+    {
+      "title": "「Guild Wars 2」，拡張パック「Visions of Eternity」の大型アップデート「Code of Creation」を北米・欧州向けに実装",
+      "url": "https://www.4gamer.net/games/038/G003857/20260916016/",
+      "category": "game",
+      "source": "4Gamer",
+      "id": "2"
+    },
     {
       "title": "「AION2」のグローバル版をプレイできる「Launch Scale Test」，9月17日より開催。東京ゲームショウ2026で試遊も可能",
       "url": "https://www.4gamer.net/games/440/G044032/20260916013/",
       "category": "game",
       "source": "4Gamer",
-      "id": "1"
+      "id": "3"
     },
     {
       "title": "「Apex Legends」，「ストリートファイター6」とのコラボイベントを9月23日から開催。ワイルドカードでスト6テーマの戦いが楽しめる",
       "url": "https://www.4gamer.net/games/449/G044914/20260916010/",
       "category": "game",
       "source": "4Gamer",
-      "id": "2"
-    },
-    {
-      "title": "日本ゲーム大賞2026の大賞は「ぽこ あ ポケモン」に決定。今年で最後となるゲームデザイナーズ大賞は「文字遊戯」に",
-      "url": "https://www.4gamer.net/games/991/G999104/20260916012/",
-      "category": "game",
-      "source": "4Gamer",
-      "id": "3"
-    },
-    {
-      "title": "舞台はさまざまな人の遺品を管理する施設。母の死に隠された謎を暴くADV「忌品管理部」，Steamで配信開始",
-      "url": "https://www.4gamer.net/games/020/G102092/20260916008/",
-      "category": "game",
-      "source": "4Gamer",
       "id": "4"
+    },
+    {
+      "title": "PS5に新アプデ、ボイスチャットで「喋っている人の名前」が画面表示されるように。PS5標準VCが“Discord風”に進化",
+      "url": "https://automaton-media.com/articles/newsjp/20260916-467924/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "5"
     },
     {
       "title": "基本プレイ無料・モンスター育成ARPG『アニモ』、さっそくSteam同接「10万人超え」の爆裂ヒット。協力プレイ対応の“モンスターにもなれる”注目作",
       "url": "https://automaton-media.com/articles/newsjp/20260916-467907/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "5"
+      "id": "6"
     },
     {
       "title": "物理演算対応・ラーメン屋経営シム『Japanese Ramen Simulator』9月28日早期アクセス配信へ。盛り付け自在、“湯切りモーション変更”まで搭載したこだわりの一作",
       "url": "https://automaton-media.com/articles/newsjp/20260916-467913/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "6"
+      "id": "7"
     },
     {
       "title": "美少女高速アクションローグライト『Ved：リキュア』9月22日発売へ。スタイリッシュ攻撃を“個別カスタマイズ”、バフの「連鎖」で敵をしばき倒す",
       "url": "https://automaton-media.com/articles/newsjp/20260916-467893/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "7"
+      "id": "8"
     },
     {
-      "title": "戦国時代ストラテジー『トータルウォー：ショーグン２ コンプリートエディション』発表、10月14日配信へ。初の日本語フルボイス化、シリーズ屈指の人気作に完全版到来",
-      "url": "https://automaton-media.com/articles/newsjp/20260916-467894/",
+      "title": "建物ひとつひとつをカスタマイズできる街づくりサンドボックスゲーム『miniopolis』正式発表！",
+      "url": "http://www.gamespark.jp/article/2026/09/16/172350.html",
       "category": "game",
-      "source": "AUTOMATON",
-      "id": "8"
+      "source": "GameSpark",
+      "id": "9"
     },
     {
       "title": "最大6人協力のカオスなラーメン屋経営シム『Japanese Ramen Simulator』9月28日Steam早期アクセス開始！ラーメン評論家や泥棒も来店",
       "url": "http://www.gamespark.jp/article/2026/09/16/172349.html",
       "category": "game",
       "source": "GameSpark",
-      "id": "9"
+      "id": "10"
     },
     {
       "title": "『ポケモン』“へんしんが苦手なメタモン”がチャームになって登場！ピカチュウ、ヒトカゲなど全5種の「めじるしガチャ」発売",
       "url": "http://www.gamespark.jp/article/2026/09/16/172348.html",
-      "category": "game",
-      "source": "GameSpark",
-      "id": "10"
-    },
-    {
-      "title": "【TGS2026】5年連続出展の重鎮・GALLERIA。ハイパフォーマンスPCを体験できるアクティビティ＆豪華出展情報が発表！",
-      "url": "http://www.gamespark.jp/article/2026/09/16/172347.html",
       "category": "game",
       "source": "GameSpark",
       "id": "11"
