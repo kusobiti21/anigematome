@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-09-17T14:02:04+00:00",
+  "updated_at": "2026-09-17T15:02:17+00:00",
   "threads": [
     {
-      "title": "玄人志向は「名前の壁」や「語りにくさ」の問題を抱えていた。新ブランド「Crowxis」のコンセプトと製品展開が明らかに［TGS2026］",
-      "url": "https://www.4gamer.net/games/043/G104376/20260917076/",
+      "title": "クレイジータクシー，日本で爆走！　渋谷や浅草風の街並みが舞台の「クレイジータクシー：ワールドツアー」TGSデモを先行体験［TGS2026］",
+      "url": "https://www.4gamer.net/games/014/G101453/20260915001/",
       "category": "game",
       "source": "4Gamer",
       "id": "1"
     },
     {
-      "title": "「機動警察パトレイバー」の名シーンを追体験できる3Dアクション「機動警察パトレイバー the Case Files」が本日リリース",
-      "url": "https://www.4gamer.net/games/992/G099296/20260917075/",
+      "title": "「クレイジータクシー：ワールドツアー」日本凱旋（？）インタビュー。“当時のノリ”を今どう届けるのか，その挑戦を開発陣に聞く［TGS2026］",
+      "url": "https://www.4gamer.net/games/014/G101452/20260915002/",
       "category": "game",
       "source": "4Gamer",
       "id": "2"
     },
     {
-      "title": "モンスター収集×育成RPG「Lumi Master」，本日リリース。100種類以上の「るぅみ」を集めて育成。片手操作にも対応",
-      "url": "https://www.4gamer.net/games/043/G104382/20260917071/",
+      "title": "［プレイレポ］「シャングリラ・フロンティア〜七つの最強種〜」TGS 2026出展版を試遊。片手操作で「ウェザエモン」や「リュカオーン」と戦える［TGS2026］",
+      "url": "https://www.4gamer.net/games/642/G064271/20260909015/",
       "category": "game",
       "source": "4Gamer",
       "id": "3"
     },
     {
-      "title": "「フラガリアメモリーズ Color of Wishes」，2027年内リリース予定。ゲームの描き下ろしビジュアルを公開",
-      "url": "https://www.4gamer.net/games/959/G095956/20260917072/",
+      "title": "「METAL SLUG ULTIMATE COLLECTION」の見どころを紹介したステージをレポート。「巻き戻し機能」やオンライン要素などの新要素も搭載［TGS2026］",
+      "url": "https://www.4gamer.net/games/041/G104111/20260917083/",
       "category": "game",
       "source": "4Gamer",
       "id": "4"
+    },
+    {
+      "title": "『クレイジータクシー：ワールドツアー』開発者に訊く、シリーズだからこそ味わえる体験と“らしさ”とは何か？笑いながらドライブ、加点法、そして……",
+      "url": "https://automaton-media.com/articles/interviewsjp/20260917-468487/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "5"
+    },
+    {
+      "title": "『クレイジータクシー』はなぜ新作を開発することができたのか？25年の空白を経て、新作『クレイジータクシー：ワールドツアー』が実現した理由を開発者に訊く",
+      "url": "https://automaton-media.com/articles/interviewsjp/20260917-468477/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "6"
+    },
+    {
+      "title": "『クレイジータクシー：ワールドツアー』先行プレイ感想。ボケ、町並み、キャラ、音楽、テキスト、あらゆる方向から笑いを誘う『クレイジータクシー』最新作",
+      "url": "https://automaton-media.com/articles/reportjp/20260918-468460/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "7"
     },
     {
       "title": "基本プレイ無料MMORPG『マビノギモバイル』PC・スマホで10月7日リリースへ。バトルもマイホーム作りもできる「新しいマビノギ」、ほのぼの生活がまもなく到来",
       "url": "https://automaton-media.com/articles/newsjp/20260917-468452/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "5"
-    },
-    {
-      "title": "姿を消した両親の行方を追うミステリーゲーム『Hope in the City』11月10日配信へ。あらゆる証拠を“スケッチ”で記録し、真実への道筋を描く",
-      "url": "https://automaton-media.com/articles/newsjp/hope-in-the-city-20260917-468445/",
-      "category": "game",
-      "source": "AUTOMATON",
-      "id": "6"
-    },
-    {
-      "title": "オンライン終末サバイバル『Once Human』大型アプデ「禁断の島」10月22日配信へ。船を作りあげ、異形が闊歩する大海原へと突入",
-      "url": "https://automaton-media.com/articles/newsjp/20260917-468409/",
-      "category": "game",
-      "source": "AUTOMATON",
-      "id": "7"
-    },
-    {
-      "title": "大人気マルチ対応MOBA風ローグライト『Shape of Dreams』いきなりPS5/XBOX/Switch 2版発売、大型アプデまで到来。冷気使いの新キャラ、ボス行動ランダム化システムなどでやり込み深まる",
-      "url": "https://automaton-media.com/articles/newsjp/20260917-468383/",
-      "category": "game",
-      "source": "AUTOMATON",
       "id": "8"
     },
     {
-      "title": "【吉田輝和のTGS絵日記】硬派なハクスラダンジョンRPGの最新作『METRO QUESTER ZERO』で、命知らずなメンズたちと一緒に戦ってきた",
-      "url": "http://www.gamespark.jp/article/2026/09/17/172435.html",
+      "title": "【3,160円→0円】ローグライクストラテジー『Shogun Showdown（将軍 対決）』＆探偵ADV『Mindcop』Epic Gamesストアにて9月24日まで無料配布",
+      "url": "http://www.gamespark.jp/article/2026/09/18/172439.html",
       "category": "game",
       "source": "GameSpark",
       "id": "9"
     },
     {
-      "title": "基本無料サバイバル『Once Human』大型アップデート「Isles of Abyss」10月22日配信！6つのルールに導かれ生きた海に潜む大きな謎を解く航海へ",
-      "url": "http://www.gamespark.jp/article/2026/09/17/172434.html",
+      "title": "【閲覧注意】なかなかエグい。ゾンビを駆除＆お片付けする掃除シム『BrainWash: Zombie Cleanup』発表",
+      "url": "http://www.gamespark.jp/article/2026/09/17/172438.html",
       "category": "game",
       "source": "GameSpark",
       "id": "10"
     },
     {
-      "title": "『Apex Legends』とGALLERIAのコラボPC、突如発表してそのまま発売!! イラストがカッコ良すぎる「レイス」「オクタン」の2モデル登場【TGS2026】",
-      "url": "http://www.gamespark.jp/article/2026/09/17/172433.html",
+      "title": "バディでシリーズ史上最大マップを往く『Bloodstained: The Scarlet Engagement』新ゲームプレイ・トレイラー公開",
+      "url": "http://www.gamespark.jp/article/2026/09/17/172437.html",
       "category": "game",
       "source": "GameSpark",
       "id": "11"
