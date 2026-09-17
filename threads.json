@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-09-17T06:02:15+00:00",
+  "updated_at": "2026-09-17T07:03:40+00:00",
   "threads": [
+    {
+      "title": "ホラーサスペンスリミテッドRPG「魔法捜査官」のプロジェクト発表会をレポート。捜査官と魔法使いが魔法犯罪に挑むバディもの［TGS2026］",
+      "url": "https://www.4gamer.net/games/043/G104365/20260917030/",
+      "category": "game",
+      "source": "4Gamer",
+      "id": "1"
+    },
+    {
+      "title": "「地上最後の楽園」と謳われるリゾート島で恋するADV「Le Mirage Mystique（ル ミラージュ ミスティーク）」，本日発売",
+      "url": "https://www.4gamer.net/games/985/G098502/20260917029/",
+      "category": "game",
+      "source": "4Gamer",
+      "id": "2"
+    },
     {
       "title": "ネクソン，「マビノギモバイル」「ファレイドリア」のTGS 2026出展情報を公開。試遊やコスプレ撮影，限定ノベルティの配布を実施［TGS2026］",
       "url": "https://www.4gamer.net/games/387/G038732/20260917026/",
       "category": "game",
       "source": "4Gamer",
-      "id": "1"
+      "id": "3"
     },
     {
       "title": "「真・三國無双2 with 猛将伝 Remastered」試遊版を先行プレイ。美しく蘇った虎牢関で進化した回避＆カウンターアクションを堪能［TGS2026］",
       "url": "https://www.4gamer.net/games/978/G097828/20260915039/",
       "category": "game",
       "source": "4Gamer",
-      "id": "2"
-    },
-    {
-      "title": "PCブランド「GALLERIA」がTGSに出展。「FF」シリーズ40周年を記念したコラボPCなど，新製品が発表されたイベントをレポート［TGS2026］",
-      "url": "https://www.4gamer.net/games/029/G002975/20260917024/",
-      "category": "game",
-      "source": "4Gamer",
-      "id": "3"
-    },
-    {
-      "title": "「雨のちハレ女」，「るるぶ特別編集 雨のちハレ女」をTGS 2026ゲームフリークブースで配布。ラッピング仕様の「まっ直ぐドラム」も展示",
-      "url": "https://www.4gamer.net/games/042/G104241/20260917023/",
-      "category": "game",
-      "source": "4Gamer",
       "id": "4"
+    },
+    {
+      "title": "“自作モーションで闘う”物理演算剣戟アクション『Gladio Mori』ついに正式リリース。動脈や臓器を狙ってKO、「売上約2億円」のヒット作",
+      "url": "https://automaton-media.com/articles/newsjp/20260917-468333/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "5"
+    },
+    {
+      "title": "マウスコンピューターからゲーミング向け新製品3種ドドンと発表。高性能＆静音両立新モデルから「GeForce NOW」活用どこでもゲーム環境満喫マシンなどいろいろ",
+      "url": "https://automaton-media.com/articles/newsjp/20260917-468321/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "6"
     },
     {
       "title": "『アトリエ』のガストが手がける『薬屋のひとりごと ～偽りの皇弟～』、出発点はほんとに「猫猫のアトリエ」だった。アニメ「薬屋のひとりごと」側の提案で即実現",
       "url": "https://automaton-media.com/articles/newsjp/20260917-468314/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "5"
+      "id": "7"
     },
     {
       "title": "『カリアのアトリエ』なんでも食べる主人公の「体型変化」システム、実現濃厚か。“熱望”されすぎて開発者も驚き、大急ぎで作業中",
       "url": "https://automaton-media.com/articles/newsjp/20260917-468309/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "6"
-    },
-    {
-      "title": "大ヒット王国建設ローグライク『9 Kings』、11月12日に正式リリースへ。やりたい放題の新モード「ジョーカー」などを携えて、さらにどっぷり自国強化",
-      "url": "https://automaton-media.com/articles/newsjp/9-kings-20260917-468304/",
-      "category": "game",
-      "source": "AUTOMATON",
-      "id": "7"
-    },
-    {
-      "title": "傑作STG『R-Type DX』GBカートリッジ版として復刻。『R-TYPE』と『R-TYPE II』が当時のまま、“ゲームボーイ実機”でプレイ可能",
-      "url": "https://automaton-media.com/articles/newsjp/20260917-468297/",
-      "category": "game",
-      "source": "AUTOMATON",
       "id": "8"
     },
     {
-      "title": "『ウマ娘』新たに「ローズキングダム」が育成ウマ娘化！薔薇一族初のGI馬、引退後はタニノギムレットの影響で柵を壊し始める",
-      "url": "http://www.gamespark.jp/article/2026/09/17/172409.html",
+      "title": "転生した俺のお隣さんがアイドル魔王な件について。魔王城の隣でスローライフなARPG『ワロタ、俺の家のとなり魔王城www』Steam早期アクセス版11月13日配信へ",
+      "url": "http://www.gamespark.jp/article/2026/09/17/172411.html",
       "category": "game",
       "source": "GameSpark",
       "id": "9"
     },
     {
-      "title": "『NTE』「クロバネ」は即時連環持ちで、フィールド上を飛行！「明音凛」はギターで戦う音楽少女、「涼宮ハルヒの憂鬱」の「God knows...」を披露!?【配信番組まとめ】",
-      "url": "http://www.gamespark.jp/article/2026/09/17/172408.html",
+      "title": "Game Passの大規模な再編の噂、マイクロソフトを追う海外メディアが改めて「憶測や推測にすぎない」と報じる",
+      "url": "http://www.gamespark.jp/article/2026/09/17/172410.html",
       "category": "game",
       "source": "GameSpark",
       "id": "10"
     },
     {
-      "title": "ホロライブ・博衣こより主演＆監修！ノベルゲーム『コヨリニウム』制作決定、「TGS2026」エンターグラムブースに出展",
-      "url": "http://www.gamespark.jp/article/2026/09/17/172407.html",
+      "title": "『ウマ娘』新たに「ローズキングダム」が育成ウマ娘化！薔薇一族初のGI馬、引退後はタニノギムレットの影響で柵を壊し始める",
+      "url": "http://www.gamespark.jp/article/2026/09/17/172409.html",
       "category": "game",
       "source": "GameSpark",
       "id": "11"
