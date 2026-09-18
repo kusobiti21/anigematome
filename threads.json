@@ -1,86 +1,86 @@
 {
-  "updated_at": "2026-09-18T08:01:58+00:00",
+  "updated_at": "2026-09-18T09:02:21+00:00",
   "threads": [
     {
-      "title": "「トリッカル・もちもちほっぺ大作戦」の1周年記念特番「ぷにぷに！探検隊#3」，9月26日21：00からニコ生で配信。番組オリジナルグッズも販売",
-      "url": "https://www.4gamer.net/games/913/G091374/20260918042/",
+      "title": "映画「バイオハザード」の特別映像が公開。銃も格闘も扱えない“ごく普通の配達人”が直面する90分間の脱出劇",
+      "url": "https://www.4gamer.net/games/991/G999102/20260918037/",
       "category": "game",
       "source": "4Gamer",
       "id": "1"
     },
     {
-      "title": "決済でゲームを止めさせたくない。ペイディがゲームに注力する理由を副社長・橋本知周氏に聞く［TGS2026］",
-      "url": "https://www.4gamer.net/games/991/G999110/20260918019/",
+      "title": "「ゲームマーケット2026秋」，10月17日と18日に開催決定。進化した体験型企画やWeb連動企画なども楽しめる",
+      "url": "https://www.4gamer.net/games/991/G999110/20260918053/",
       "category": "game",
       "source": "4Gamer",
       "id": "2"
     },
     {
-      "title": "Switch2版「トロピコ7」発表。Joy-Con 2のマウス操作に対応し，独裁国家運営をいつでもどこでも楽しめる",
-      "url": "https://www.4gamer.net/games/044/G104403/20260918041/",
+      "title": "ノートPC向けCPU搭載デスクトップPCや液冷仕様のGeForce RTX 5070搭載カードなど，マウスコンピューターが新製品を発表［TGS2026］",
+      "url": "https://www.4gamer.net/games/026/G002654/20260918039/",
       "category": "game",
       "source": "4Gamer",
       "id": "3"
     },
     {
-      "title": "「ウィッチャー3 ワイルドハント」の発売10周年記念コンサート「『ウィッチャー』IN コンサート」，日本公演を2027年1月24日に開催",
-      "url": "https://www.4gamer.net/games/202/G020288/20260918035/",
+      "title": "ホロライブの新メンバーで構成されるユニット「アソビ★まわり隊！」，9月24日と25日にデビュー配信を実施",
+      "url": "https://www.4gamer.net/games/760/G076029/20260918048/",
       "category": "game",
       "source": "4Gamer",
       "id": "4"
+    },
+    {
+      "title": "協力プレイ対応「ゾンビ災害の後始末」シム『BrainWash: Zombie Cleanup』発表。まずは現場を“一掃”するところから、駆除するたび仕事も増える",
+      "url": "https://automaton-media.com/articles/newsjp/20260918-468693/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "5"
+    },
+    {
+      "title": "“海上タワー”デスクトップ放置釣りゲーム『CELESTAY Craft&Slowlife』10月9日配信へ。釣って建ててやがて空へ、夜は”星座を眺める“水没世界スローライフ",
+      "url": "https://automaton-media.com/articles/newsjp/celestay-craft-and-slowlife-20260918-468684/",
+      "category": "game",
+      "source": "AUTOMATON",
+      "id": "6"
     },
     {
       "title": "『ファイナルファンタジーVII リベレーション』の容量、「約200GB」になりそう。『FFVII リメイク』2本分",
       "url": "https://automaton-media.com/articles/newsjp/20260918-468664/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "5"
+      "id": "7"
     },
     {
       "title": "ディズニーの3Dアクション『ディズニー エピックミッキー：Rebrushed』スマホ向けにも登場。魔法の筆を操るミッキーのゲームが、プラットフォームを選ばず遊べるように",
       "url": "https://automaton-media.com/articles/newsjp/20260918-468655/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "6"
-    },
-    {
-      "title": "『ロリポップチェーンソー 2 Back2Back』はシリーズ作の表現“マシマシ盛り盛り”に進化。ジュリエットの魅力を最大限に生かした爽快アクションを突き詰める",
-      "url": "https://automaton-media.com/articles/newsjp/20260918-468629/",
-      "category": "game",
-      "source": "AUTOMATON",
-      "id": "7"
-    },
-    {
-      "title": "『ライザのアトリエ』チャットAIアプリ『RyzaChat:AI』では“最大4人マルチプレイ”も検討中。ライザのスキンや日本旅モードなど、アプデ構想続々",
-      "url": "https://automaton-media.com/articles/newsjp/20260918-468621/",
-      "category": "game",
-      "source": "AUTOMATON",
       "id": "8"
     },
     {
-      "title": "【大喜利】『東京ゲームショウが5日間開催になった理由とは？』回答募集中！",
-      "url": "http://www.gamespark.jp/article/2026/09/18/172479.html",
+      "title": "【TGS2026】「G7 Pro」など最新コントローラーをまとめて試せる！GameSirブースで触れた“eスポーツグレード”ゲーミングギアの手応え",
+      "url": "http://www.gamespark.jp/article/2026/09/18/172484.html",
       "category": "game",
       "source": "GameSpark",
       "id": "9"
     },
     {
-      "title": "ゲーフリARPG『Beast of Reincarnation』最新パッチで、ほぼ全てのイベント・ムービーがスキップ可能に。ボタン設定に「弾スロット1～3切り替え」が追加",
-      "url": "http://www.gamespark.jp/article/2026/09/18/172478.html",
+      "title": "サンズがすっぴんに、トリエルが白魔道士に！「UNDERTALE×FF」コラボグッズが予約受付中、ドットデザインの雑貨4種が2027年1月発売",
+      "url": "http://www.gamespark.jp/article/2026/09/18/172483.html",
       "category": "game",
       "source": "GameSpark",
       "id": "10"
     },
     {
-      "title": "全編一人称視点で撮影された新作アクション映画「Bad Day At The Office」の最新予告編が公開！",
-      "url": "http://www.gamespark.jp/article/2026/09/18/172477.html",
+      "title": "エステル＆ヨシュアもお出迎え！日本ファルコムブースでは『空の軌跡 the 2nd』貴重な開発資料やシリーズの歴史を体感できる展示も【TGS2026】",
+      "url": "http://www.gamespark.jp/article/2026/09/18/172482.html",
       "category": "game",
       "source": "GameSpark",
       "id": "11"
     },
     {
-      "title": "「映画ドラえもん 新・のび太の海底鬼岩城」はどこで見れる？配信状況とDVDレンタルを調査",
-      "url": "https://animeanime.jp/article/2026/09/18/103053.html",
+      "title": "映画「ストリートファイターII」HDリマスター版がテレビ初放送！劇場版「小林さんちのメイドラゴン」も【BS12「日曜アニメ劇場」】",
+      "url": "https://animeanime.jp/article/2026/09/18/103056.html",
       "category": "anime",
       "source": "アニメ!アニメ!",
       "id": "12"
