@@ -1,8 +1,11 @@
-name: Update threads.json
+name: Update threads.json and rss.xml
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    # 毎日 日本時間 朝7時に実行 (UTC 22:00 = JST 翌7:00)
+    # ※以前は毎時実行だったが、Netlifyのデプロイ回数上限(無料クレジット)を
+    #   あっという間に使い切ってしまったため、1日1回に変更。
+    - cron: "0 22 * * *"
   workflow_dispatch: {}
 
 permissions:
@@ -23,14 +26,17 @@ jobs:
       - name: Fetch latest news and update threads.json
         run: python fetch_news.py
 
+      - name: Generate rss.xml from articles
+        run: python generate_rss.py
+
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add threads.json
+          git add threads.json rss.xml
           if git diff --staged --quiet; then
-            echo "No changes to threads.json"
+            echo "No changes to threads.json / rss.xml"
           else
-            git commit -m "chore: auto-update threads.json"
+            git commit -m "chore: auto-update threads.json and rss.xml"
             git push
           fi
