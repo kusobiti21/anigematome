@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-09-17T23:01:23+00:00",
+  "updated_at": "2026-09-18T00:02:16+00:00",
   "threads": [
+    {
+      "title": "回避と反撃で途切れぬ攻防を生み出す。「ガチアクタ BREAKOUT」が描くアニメの追体験とサバイバルの仕組みを制作者に聞く【PR】",
+      "url": "https://www.4gamer.net/games/970/G097093/20260915012/",
+      "category": "game",
+      "source": "4Gamer",
+      "id": "1"
+    },
     {
       "title": "板垣伴信氏と親交のあったゲスト4名による追悼トークが披露された「黒川塾 百参（103）」をレポート",
       "url": "https://www.4gamer.net/games/999/G999903/20260917073/",
       "category": "game",
       "source": "4Gamer",
-      "id": "1"
+      "id": "2"
     },
     {
       "title": "XBOXの名を冠するASUSの携帯型ゲームPCに第2世代モデル「ROG XBOX Ally X20」が登場。実機をTGS2026で触ってきた",
       "url": "https://www.4gamer.net/games/047/G004755/20260918014/",
       "category": "game",
       "source": "4Gamer",
-      "id": "2"
+      "id": "3"
     },
     {
       "title": "誰でもToHeartのマルチになれる？ 「HMX-12“マルチ”センサーユニット」を購入してみた［TGS2026］",
       "url": "https://www.4gamer.net/games/999/G999902/20260918010/",
       "category": "game",
       "source": "4Gamer",
-      "id": "3"
+      "id": "4"
     },
     {
-      "title": "「Twitch」がもたらすのは“経験の共有”という魔法。CEOのダン・クランシー氏が語るコミュニティ，そして変わらない人間の欲求とは［TGS2026］",
-      "url": "https://www.4gamer.net/games/991/G999104/20260918012/",
+      "title": "最大4人協力コミュニケーションゲーム『みんなでチャットパーティ』Nintendo Switch 2向けに配信。ガイド役と操作役の“声だけ連携”でクリアに挑戦",
+      "url": "https://automaton-media.com/articles/newsjp/20260918-468513/",
       "category": "game",
-      "source": "4Gamer",
-      "id": "4"
+      "source": "AUTOMATON",
+      "id": "5"
     },
     {
       "title": "『クレイジータクシー：ワールドツアー』開発者に訊く、シリーズだからこそ味わえる体験と“らしさ”とは何か？笑いながらドライブ、加点法、そして……",
       "url": "https://automaton-media.com/articles/interviewsjp/20260917-468487/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "5"
+      "id": "6"
     },
     {
       "title": "『クレイジータクシー』はなぜ新作を開発することができたのか？25年の空白を経て、新作『クレイジータクシー：ワールドツアー』が実現した理由を開発者に訊く",
       "url": "https://automaton-media.com/articles/interviewsjp/20260917-468477/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "6"
+      "id": "7"
     },
     {
       "title": "『クレイジータクシー：ワールドツアー』先行プレイ感想。ボケ、町並み、キャラ、音楽、テキスト、あらゆる方向から笑いを誘う『クレイジータクシー』最新作",
       "url": "https://automaton-media.com/articles/reportjp/20260918-468460/",
       "category": "game",
       "source": "AUTOMATON",
-      "id": "7"
+      "id": "8"
     },
     {
-      "title": "基本プレイ無料MMORPG『マビノギモバイル』PC・スマホで10月7日リリースへ。バトルもマイホーム作りもできる「新しいマビノギ」、ほのぼの生活がまもなく到来",
-      "url": "https://automaton-media.com/articles/newsjp/20260917-468452/",
+      "title": "3つの時代の雰囲気がたまらない！『STRANGER THAN HEAVEN』を体験したら、本格アクションと血しぶきでまさに「死闘」を感じた【TGS2026】",
+      "url": "http://www.gamespark.jp/article/2026/09/18/172449.html",
       "category": "game",
-      "source": "AUTOMATON",
-      "id": "8"
+      "source": "GameSpark",
+      "id": "9"
     },
     {
       "title": "『ドラゴンクエストモンスターズ4』グリーティングでわたぼうに会える！ブースにはかわいいがいっぱい【TGS2026】",
       "url": "http://www.gamespark.jp/article/2026/09/18/172448.html",
       "category": "game",
       "source": "GameSpark",
-      "id": "9"
+      "id": "10"
     },
     {
       "title": "『真・三國無双2 with 猛将伝 Remastered』プレイした当時がよみがえる。推し武将と写真も【TGS2026】",
       "url": "http://www.gamespark.jp/article/2026/09/18/172447.html",
-      "category": "game",
-      "source": "GameSpark",
-      "id": "10"
-    },
-    {
-      "title": "10月13日発売の一人称視点ソウルライク『Valor Mortis』秋に競合作が多い為に安価での販売を発表―発売後も無料アップデートを展開予定",
-      "url": "http://www.gamespark.jp/article/2026/09/18/172446.html",
       "category": "game",
       "source": "GameSpark",
       "id": "11"
