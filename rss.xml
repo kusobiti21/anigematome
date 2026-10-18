@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>アニゲーまとめ！</title>
+    <link>https://heartfelt-taiyaki-7783f9.netlify.app/</link>
+    <atom:link href="https://heartfelt-taiyaki-7783f9.netlify.app/rss.xml" rel="self" type="application/rss+xml" />
+    <description>ゲーム・アニメの話題を2ch・5chからまとめてお届けするまとめサイト</description>
+    <language>ja</language>
+    <lastBuildDate>Sun, 16 Aug 2026 14:00:00 +0900</lastBuildDate>
+    <item>
+      <title>「キングダムハーツ4」最新PV公開、まさかの『リメンバー・ミー』の世界に驚愕の声</title>
+      <link>https://heartfelt-taiyaki-7783f9.netlify.app/article1.html</link>
+      <guid isPermaLink="true">https://heartfelt-taiyaki-7783f9.netlify.app/article1.html</guid>
+      <pubDate>Sun, 16 Aug 2026 14:00:00 +0900</pubDate>
+      <description>シリーズ最新作「キングダムハーツ4」の最新映像が公開され、舞台となる新ワールドがディズニー&amp;ピクサー映画「リメンバー・ミー」の世界観をベースにしていることが明らかになった。ドナルドとグーフィーが賑やかに立ち回るアクションシーンも披露され、ファンの間で大きな話題となっている。</description>
+    </item>
+    <item>
+      <title>今期アニメ視聴ランキング、「転スラ」首位に返り咲き「おっさん剣聖」急上昇で3位に</title>
+      <link>https://heartfelt-taiyaki-7783f9.netlify.app/article2.html</link>
+      <guid isPermaLink="true">https://heartfelt-taiyaki-7783f9.netlify.app/article2.html</guid>
+      <pubDate>Sun, 16 Aug 2026 12:00:00 +0900</pubDate>
+      <description>今期(2026年夏)テレビアニメの週間録画ランキングが発表され、放送休止で前回計測外だった「転生したらスライムだった件」が首位に返り咲いた。一方、「片田舎のおっさん、剣聖になる」は順位を大きく伸ばし3位にランクインしている。</description>
+    </item>
+    <item>
+      <title>「コナミが黄金期を迎える」ゴエモン・悪魔城・メタルギア・サイレントヒル復活で盛り上がるスレが話題</title>
+      <link>https://heartfelt-taiyaki-7783f9.netlify.app/article4.html</link>
+      <guid isPermaLink="true">https://heartfelt-taiyaki-7783f9.netlify.app/article4.html</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0900</pubDate>
+      <description>コナミが「ゴエモン」「悪魔城」「メタルギア」「サイレントヒル」といった往年の人気IPを次々と復活させている動きについて、5ch(2ch)発のまとめスレが盛り上がりを見せている。新作だけでなく過去作のコレクション・リマスターも並行して展開されており、往年のファンから好意的な反応が多く寄せられている。</description>
+    </item>
+    <item>
+      <title>「Apex Legends」新シーズン『Marked』開始、ブラッドハウンド大幅リワークに賛否</title>
+      <link>https://heartfelt-taiyaki-7783f9.netlify.app/article3.html</link>
+      <guid isPermaLink="true">https://heartfelt-taiyaki-7783f9.netlify.app/article3.html</guid>
+      <pubDate>Wed, 05 Aug 2026 10:00:00 +0900</pubDate>
+      <description>バトルロイヤルゲーム「Apex Legends」の新シーズン『Marked』がスタートした。目玉となるのはレジェンド「ブラッドハウンド」の大幅なリワーク(能力再調整)で、過去に登場したマップの復活も含め、プレイヤーの間で活発な議論が交わされている。</description>
+    </item>
+  </channel>
+</rss>
