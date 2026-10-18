@@ -522,7 +522,9 @@
 </div>
 
 <main>
-  <div class="section-label">▍今伸びてるスレ</div>
+  <div class="section-label">▍新着のスレ</div>
+
+  <!-- AUTO:CARDS:START -->
 
   <article class="card" data-keywords="キングダムハーツ,PS5,新作ゲーム">
     <div class="lv-badge">Lv.41</div>
@@ -584,6 +586,7 @@
       <a class="read-more" href="article3.html">続きを読む →</a>
     </div>
   </article>
+  <!-- AUTO:CARDS:END -->
 
   <div class="section-label" id="autoSectionLabel" style="display:none;">
     ▍最新ゲーム・アニメニュース(自動更新) <span class="auto-updated-at" id="autoUpdatedAt"></span>
@@ -592,6 +595,7 @@
 
   <div class="section-label">▍新着記事一覧</div>
   <div class="thumb-list">
+    <!-- AUTO:LIST:START -->
     <a class="thumb-item" href="article1.html">
       <div class="thumb-box tb-blue">🎮</div>
       <div class="thumb-body">
@@ -620,36 +624,15 @@
         <div class="thumb-meta"><span class="tag game">ゲーム</span><span>2026/08/13</span><span>💬 実スレ発</span></div>
       </div>
     </a>
+    <!-- AUTO:LIST:END -->
   </div>
 </main>
 
 <aside class="sidebar">
   <div class="ranking widget">
-    <div class="ranking-title">▍本日のアクセスランキング</div>
-    <div class="ranking-item top3">
-      <span class="rank-no">🥇</span>
-      <div class="rank-body">
-        <a class="rank-title" href="article1.html">「キングダムハーツ4」最新PV公開、まさかの『リメンバー・ミー』の世界に驚愕の声</a>
-        <span class="rank-cat">ゲーム</span>
-      </div>
-      <span class="rank-trend up">↑3</span>
-    </div>
-    <div class="ranking-item top3">
-      <span class="rank-no">🥈</span>
-      <div class="rank-body">
-        <a class="rank-title" href="article2.html">今期アニメ視聴ランキング、「転スラ」首位に返り咲き「おっさん剣聖」急上昇で3位に</a>
-        <span class="rank-cat">アニメ</span>
-      </div>
-      <span class="rank-trend flat">→</span>
-    </div>
-    <div class="ranking-item top3">
-      <span class="rank-no">🥉</span>
-      <div class="rank-body">
-        <a class="rank-title" href="article3.html">「Apex Legends」新シーズン『Marked』開始、ブラッドハウンド大幅リワークに賛否</a>
-        <span class="rank-cat">ゲーム</span>
-      </div>
-      <span class="rank-trend up">↑1</span>
-    </div>
+    <div class="ranking-title">▍最近の記事</div>
+    <!-- AUTO:SIDE:START -->
+    <!-- AUTO:SIDE:END -->
   </div>
 </aside>
 
@@ -689,11 +672,11 @@ const AFFILIATE_DB = [
     url: "https://www.amazon.co.jp/s?k=ワイヤレスコントローラー&tag=sakegui210d-22" // Amazonアソシエイト設定済み
   },
   {
-    name: "原作コミック 既刊セット",
-    shop: "楽天ブックス",
+    name: "原作コミック・関連グッズ",
+    shop: "楽天市場",
     icon: "📚",
     keywords: ["アニメ", "原作漫画", "考察"],
-    url: "https://books.rakuten.co.jp/YOUR-AFFILIATE-LINK-HERE" // ← 自分のアフィリエイトIDに差し替え
+    url: "https://hb.afl.rakuten.co.jp/hgc/56bc1d6c.431d43b4.56bc1d6d.58755fd9/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E8%25BB%25A2%25E3%2582%25B9%25E3%2583%25A9%2F&link_type=text&ut=eyJwYWdlIjoidXJsIiwidHlwZSI6InRleHQiLCJjb2wiOjF9" // 楽天アフィリエイト設定済み
   },
   {
     name: "Blu-ray BOX 予約受付中",
