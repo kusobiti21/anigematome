@@ -1,89 +1,61 @@
 {
-  "updated_at": "2026-10-21T00:26:45+00:00",
+  "updated_at": "2026-10-22T00:29:45+00:00",
   "threads": [
     {
-      "title": "スーファミの名作がボードゲームに！　「エフゼロ ナイトリーグ」で5つのサーキットを駆け抜けろ！　昭和・平成レトロボードゲーム大百科 第20回",
-      "url": "https://www.4gamer.net/games/893/G089329/20260925040/",
+      "title": "「Warframe」は，大規模イベント“一大作戦：Tauへの道”で何を描き，どう変わっていくのか。開発者に見どころと少し先の未来について聞いた［インタビュー］",
+      "url": "https://www.4gamer.net/games/172/G017216/20261021057/",
       "category": "game",
       "source": "4Gamer",
       "id": "1"
     },
     {
-      "title": "「ファイナルファンタジー レゾナンス」はHD-2D演出がすごいだけじゃない。バトルの駆け引きやキャラとパーティのビルドが楽しい［プレイレポ］",
-      "url": "https://www.4gamer.net/games/010/G101093/20261015041/",
+      "title": "2人プレイ専用の非対称型協力ホラーゲーム「Beyond the Dark:ナイトウォッチ」，本日発売",
+      "url": "https://www.4gamer.net/games/050/G105042/20261021028/",
       "category": "game",
       "source": "4Gamer",
       "id": "2"
     },
     {
-      "title": "広大な地下世界で荒廃した街を復興させるアクションRPG「Emberville」，10月27日に発売。データを引き継げるデモ版を配信中",
-      "url": "https://www.4gamer.net/games/051/G105177/20261020053/",
+      "title": "スマホゲームのセルラン分析（2026年10月8日〜10月14日）。今週の1位は「eFootball」。7月〜9月のパブリッシャ別国内収益ランキングも",
+      "url": "https://www.4gamer.net/games/536/G053628/20261019002/",
       "category": "game",
       "source": "4Gamer",
       "id": "3"
     },
     {
-      "title": "仲間とともに空島を発展させていくマルチプレイヤーライフシム「Loftia」，デモ版を配信開始",
-      "url": "https://www.4gamer.net/games/973/G097300/20261020052/",
+      "title": "テニスからゆび相撲まで!?　「Nintendo Switch Sports Resort」の，Switch 2 ならではな体感スポーツと多彩な遊びを紹介",
+      "url": "https://www.4gamer.net/games/015/G101534/20261018004/",
       "category": "game",
       "source": "4Gamer",
       "id": "4"
     },
     {
-      "title": "『パルワールド』謎の新アプデ「Side by Side」発表、今年冬配信へ。ゾーイ・アウリ・サヤが意味深に並ぶ",
-      "url": "https://automaton-media.com/articles/newsjp/20261021-474572/",
+      "title": "EAが「BioWareを閉鎖」し、『Mass Effect』最新作も開発中止。歴史あるRPGスタジオに、突然の幕切れ",
+      "url": "https://automaton-media.com/articles/newsjp/20261022-474839/",
       "category": "game",
       "source": "AUTOMATON",
       "id": "5"
     },
     {
-      "title": "『朧村正 怪奇譚』開発者インタビュー。本作は単なるリマスターではなかった、大変身の″リニューアル版”、PC版リリースの背景なども訊く",
-      "url": "https://automaton-media.com/articles/interviewsjp/oboro-20261021-474551/",
+      "title": "『サイバーパンク2077』大型アプデで「二丁拳銃」実装へ、新スキルもある、ジャッキーの銃も二丁持ちできる。さらに“コンソール向けMod対応”など盛りだくさん",
+      "url": "https://automaton-media.com/articles/newsjp/20261022-474810/",
       "category": "game",
       "source": "AUTOMATON",
       "id": "6"
     },
     {
-      "title": "Steamワークショップで相次ぐ「マルウェア入りMod」騒動、今度は人気協力ホラー『Content Warning』が標的か。“自己増殖マルウェア”も報告されるケースも",
-      "url": "https://automaton-media.com/articles/newsjp/20261020-474543/",
+      "title": "『サイバーパンク2077』大型アプデでまさかの新エリア「ナイトシティ刑務所」実装へ。新クエストいろいろ",
+      "url": "https://automaton-media.com/articles/newsjp/20261022-474797/",
       "category": "game",
       "source": "AUTOMATON",
       "id": "7"
     },
     {
-      "title": "『サイバーパンク2077』なんとまたアプデ決定、「エッジランナーズ2」要素実装へ。新アイテムに新コンテンツも、10月22日に来る",
-      "url": "https://automaton-media.com/articles/newsjp/20261020-474531/",
+      "title": "フリューの新作美少女ローグライクアクション『クライムライト』PS5/Nintendo Switch 2でも無料体験版が公開。公称1.5時間以上の第1章をまるごと遊べる",
+      "url": "https://automaton-media.com/articles/newsjp/20261021-474786/",
       "category": "game",
       "source": "AUTOMATON",
       "id": "8"
-    },
-    {
-      "title": "宇宙の力に立ち向かいながら調査・探索・建築をするストラテジー『Star Trek: 未知の前哨基地』リリース",
-      "url": "http://www.gamespark.jp/article/2026/10/21/173873.html",
-      "category": "game",
-      "source": "GameSpark",
-      "id": "9"
-    },
-    {
-      "title": "【Game Pass】『FF7 リメイク インターグレード』登場！ほか新作2本含む総計8本―2026年11月初頭までのラインナップ公開",
-      "url": "http://www.gamespark.jp/article/2026/10/21/173872.html",
-      "category": "game",
-      "source": "GameSpark",
-      "id": "10"
-    },
-    {
-      "title": "シリーズ累計プレイヤー数2,500万人超！2人協力プレイ専用パズルADV最新作『We Were Here Tomorrow』発売―異なる状況で力を合わせ時間・重力・空間の試練に挑もう",
-      "url": "http://www.gamespark.jp/article/2026/10/21/173871.html",
-      "category": "game",
-      "source": "GameSpark",
-      "id": "11"
-    },
-    {
-      "title": "しまむら「モンチッチ」コラボ新作☆ アパレルからキッチンアイテムなど日常生活を彩る商品がラインナップ",
-      "url": "https://animeanime.jp/article/2026/10/21/104029.html",
-      "category": "anime",
-      "source": "アニメ!アニメ!",
-      "id": "12"
     }
   ]
 }
