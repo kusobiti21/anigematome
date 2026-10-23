@@ -1,61 +1,89 @@
 {
-  "updated_at": "2026-10-22T00:29:45+00:00",
+  "updated_at": "2026-10-23T00:27:32+00:00",
   "threads": [
     {
-      "title": "「Warframe」は，大規模イベント“一大作戦：Tauへの道”で何を描き，どう変わっていくのか。開発者に見どころと少し先の未来について聞いた［インタビュー］",
-      "url": "https://www.4gamer.net/games/172/G017216/20261021057/",
+      "title": "「Gears of War: E-Day」の戦場では，決して1人じゃない。ルーキーが目の当たりにした仲間たちの筋肉，絆，そしてアツさ［プレイレポ］",
+      "url": "https://www.4gamer.net/games/968/G096869/20261022013/",
       "category": "game",
       "source": "4Gamer",
       "id": "1"
     },
     {
-      "title": "2人プレイ専用の非対称型協力ホラーゲーム「Beyond the Dark:ナイトウォッチ」，本日発売",
-      "url": "https://www.4gamer.net/games/050/G105042/20261021028/",
+      "title": "嵐の迫る無人の町で失踪したミュージシャンを追う横スクロールホラー「Silver Pines」（あかねのSteam Pick Up！）",
+      "url": "https://www.4gamer.net/games/987/G098799/20261022002/",
       "category": "game",
       "source": "4Gamer",
       "id": "2"
     },
     {
-      "title": "スマホゲームのセルラン分析（2026年10月8日〜10月14日）。今週の1位は「eFootball」。7月〜9月のパブリッシャ別国内収益ランキングも",
-      "url": "https://www.4gamer.net/games/536/G053628/20261019002/",
+      "title": "「Windrose」，今冬配信予定の大型アップデート「Ashlands」新情報を公開。UIが刷新されて遊びやすくなり，舟歌も追加される",
+      "url": "https://www.4gamer.net/games/966/G096663/20261023002/",
       "category": "game",
       "source": "4Gamer",
       "id": "3"
     },
     {
-      "title": "テニスからゆび相撲まで!?　「Nintendo Switch Sports Resort」の，Switch 2 ならではな体感スポーツと多彩な遊びを紹介",
-      "url": "https://www.4gamer.net/games/015/G101534/20261018004/",
+      "title": "壁世界にコロニーを築き上げろ！ シリーズ最新作「Wall World Strategy」，発売日を11月11日に決定。おなじみの多脚メカもしっかり登場",
+      "url": "https://www.4gamer.net/games/052/G105259/20261023001/",
       "category": "game",
       "source": "4Gamer",
       "id": "4"
     },
     {
-      "title": "EAが「BioWareを閉鎖」し、『Mass Effect』最新作も開発中止。歴史あるRPGスタジオに、突然の幕切れ",
-      "url": "https://automaton-media.com/articles/newsjp/20261022-474839/",
+      "title": "『スーパーダンガンロンパ２×２』のPC版、動作環境が更新。『モンハンワイルズ』級の要求スペックからググッと引き下げ",
+      "url": "https://automaton-media.com/articles/newsjp/20261022-475046/",
       "category": "game",
       "source": "AUTOMATON",
       "id": "5"
     },
     {
-      "title": "『サイバーパンク2077』大型アプデで「二丁拳銃」実装へ、新スキルもある、ジャッキーの銃も二丁持ちできる。さらに“コンソール向けMod対応”など盛りだくさん",
-      "url": "https://automaton-media.com/articles/newsjp/20261022-474810/",
+      "title": "「義妹生活」が作業用ゲーム化、『義妹生活 Days with My Lo-Fi Sister』発表。高級ASMRマイクで“寝落ち音声”収録、作業からの「添い寝モード」",
+      "url": "https://automaton-media.com/articles/newsjp/20261022-475040/",
       "category": "game",
       "source": "AUTOMATON",
       "id": "6"
     },
     {
-      "title": "『サイバーパンク2077』大型アプデでまさかの新エリア「ナイトシティ刑務所」実装へ。新クエストいろいろ",
-      "url": "https://automaton-media.com/articles/newsjp/20261022-474797/",
+      "title": "ゲームフリーク社員と東大教授が「水表現を美しいまま軽くする新技術」発表。計算負荷だけごっそり削減、水シミュレーション高速化",
+      "url": "https://automaton-media.com/articles/newsjp/20261022-475027/",
       "category": "game",
       "source": "AUTOMATON",
       "id": "7"
     },
     {
-      "title": "フリューの新作美少女ローグライクアクション『クライムライト』PS5/Nintendo Switch 2でも無料体験版が公開。公称1.5時間以上の第1章をまるごと遊べる",
-      "url": "https://automaton-media.com/articles/newsjp/20261021-474786/",
+      "title": "基本プレイ無料着せ替えRPG『シャイニングニキ』が一気に“ホラー化”。足が消えたりもはや怪奇現象、美しくも怖い幽霊ファッションたっぷり紹介",
+      "url": "https://automaton-media.com/articles/reportjp/20261022-475009/",
       "category": "game",
       "source": "AUTOMATON",
       "id": "8"
+    },
+    {
+      "title": "GC『ゴジラ怪獣大乱闘』リマスター、PCに加え現行コンソール版も日本で正式リリースへ―Atariがメールで回答。オンラインマルチで大暴れできる",
+      "url": "http://www.gamespark.jp/article/2026/10/23/173972.html",
+      "category": "game",
+      "source": "GameSpark",
+      "id": "9"
+    },
+    {
+      "title": "『エスコン8』特典『エスコンZERO』Steam版が単体DL可能に！約140GB→3.2GBの必要容量大幅減",
+      "url": "http://www.gamespark.jp/article/2026/10/23/173971.html",
+      "category": "game",
+      "source": "GameSpark",
+      "id": "10"
+    },
+    {
+      "title": "『Fallout 4』“ヌカ・コーラの液体感”が凄くなるMod「Dynamic Bottle Liquids」配信―ビンの泡や空気もリアルに表現",
+      "url": "http://www.gamespark.jp/article/2026/10/23/173970.html",
+      "category": "game",
+      "source": "GameSpark",
+      "id": "11"
+    },
+    {
+      "title": "「ちいかわ」新作「ボンボンドロップシール」10月下旬より発売！待望の「ミニ」デザイン全8種",
+      "url": "https://animeanime.jp/article/2026/10/23/104096.html",
+      "category": "anime",
+      "source": "アニメ!アニメ!",
+      "id": "12"
     }
   ]
 }
