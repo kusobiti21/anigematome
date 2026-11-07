@@ -1,86 +1,86 @@
 {
-  "updated_at": "2026-11-06T02:04:39+00:00",
+  "updated_at": "2026-11-07T01:42:58+00:00",
   "threads": [
     {
-      "title": "韓国のサブカルチャー総合展示会「アニメ×ゲームフェスティバル2026」（AGF 2026）にゲーム企業が集結。NCは最大規模の150ブースで「アストラエ・オラティオ」を出展，ネクソンは「ファレイドリア」の韓国初試遊を実施",
-      "url": "https://www.4gamer.net/games/975/G097529/20261105039/",
+      "title": "初期版から何が変わった？ 「DRAPLINE」Ver.1.0の新要素と，アーリーアクセスで追加された内容まとめ。正式版で広がった育成と戦闘，その先の物語",
+      "url": "https://www.4gamer.net/games/921/G092147/20261104029/",
       "category": "game",
       "source": "4Gamer",
       "id": "1"
     },
     {
-      "title": "人類の復讐のため，エイリアンの襲撃に耐えながら宇宙船を動かし続ける。基地運営型ローグライトタワーディフェンス「Hull Rupture」，配信開始",
-      "url": "https://www.4gamer.net/games/055/G105588/20261105060/",
+      "title": "インディーゲーム展示会「東京ゲームダンジョン14」レポート（前編）。ロボ暴走族に花札バトル，限界集落まで揃った“ゲームの迷宮”",
+      "url": "https://www.4gamer.net/games/991/G999110/20261106027/",
       "category": "game",
       "source": "4Gamer",
       "id": "2"
     },
     {
-      "title": "タイGMMTVのファンダムゲーム「GMMTV FANARIUM」，新映像が公開に。2027年初めのプレイ開始を目指すも日本展開は未発表",
-      "url": "https://www.4gamer.net/games/999/G999904/20261104011/",
+      "title": "吉田氏とのバトル（？）に注目のLIVE Q＆Aから，THE PRIMALSのライブまで，熱い展開が目白押しの「FFXIV ファンフェスティバル 2026 in 東京」DAY2のレポートをお届け",
+      "url": "https://www.4gamer.net/games/199/G019924/20261106033/",
       "category": "game",
       "source": "4Gamer",
       "id": "3"
     },
     {
-      "title": "「フラガリアメモリーズ」新シリーズ「キズナ結ビ編」開幕！　小笠原 仁さん＆畠中 祐さんに，チャコ＆アルペックの“高め合える関係”を聞く［インタビュー］",
-      "url": "https://www.4gamer.net/games/745/G074550/20261022016/",
+      "title": "「jubeat」新筐体を「アミューズメント エキスポ 2026」でチェック。120fps対応やタッチパネルなど，18年ぶりの刷新で何が変わった？",
+      "url": "https://www.4gamer.net/games/054/G105425/20261106036/",
       "category": "game",
       "source": "4Gamer",
       "id": "4"
     },
     {
-      "title": "超リアル素材ライブラリ「Quixel Megascans」、なんと再び無料化。名だたるAAAゲーム開発でも使われるすごいアセット",
-      "url": "https://automaton-media.com/articles/newsjp/20261106-477833/",
+      "title": "500日以上監禁されていた少女、『Among Us』がきっかけとなり救助される。オンラインゲームが誘拐事件解決の糸口に",
+      "url": "https://automaton-media.com/articles/newsjp/20261107-477955/",
       "category": "game",
       "source": "AUTOMATON",
       "id": "5"
     },
     {
-      "title": "『ニーア オートマタ』Steam版、突然「366GB」の超巨大ゲームに。久々のアプデ後に、謎のストレージ大食い現象",
-      "url": "https://automaton-media.com/articles/newsjp/20261106-477820/",
+      "title": "『Path of Exile 2』正式リリースでさらなる新クラス「シャドウ」実装へ。ACT5＆6がどどんと追加、“大規模戦闘”が楽しめる新リーグなど新情報いろいろお披露目",
+      "url": "https://automaton-media.com/articles/newsjp/20261107-477950/",
       "category": "game",
       "source": "AUTOMATON",
       "id": "6"
     },
     {
-      "title": "ロバート山本博さんの『ファイアーエムブレム 万紫千紅』実況プレイが“仲間死にすぎて悲惨”とブームに。世界救えるか心配",
-      "url": "https://automaton-media.com/articles/newsjp/20261105-477811/",
+      "title": "『鳴潮』大型アプデ「Ver3.8」は11月12日配信へ。新共鳴者は儚げ少女「リリー」、“学園アドベンチャー風”新イベントで青春謳歌も",
+      "url": "https://automaton-media.com/articles/newsjp/20261106-477938/",
       "category": "game",
       "source": "AUTOMATON",
       "id": "7"
     },
     {
-      "title": "「11月5日」は、実はゲームにとってちょうどいい発売日だった。同日発売美少女ローグライク『夢幻桜楼閣』『クライムライト』開発者に、「なぜGTA6間近にしたのか」訊いた",
-      "url": "https://automaton-media.com/articles/interviewsjp/crymelight-mugenzakura-20261105-477793/",
+      "title": "NVIDIAの20年前の名グラボ「GeForce 8800 GTX」を“ひたすら愛でる”奇ゲーがSteamで無料配信。推奨グラボはRTX 5080、グラボを見るためのグラボが要る",
+      "url": "https://automaton-media.com/articles/newsjp/geforce-8800-gtx-20261106-477923/",
       "category": "game",
       "source": "AUTOMATON",
       "id": "8"
     },
     {
-      "title": "『Wing Commander』『ロードラッシュ』などEAレトロ名作25個がPCに登場。FMVをマスターテープから復元したリマスター作品も―ユーザーModも取り入れ",
-      "url": "http://www.gamespark.jp/article/2026/11/06/174554.html",
+      "title": "しまむらで「ポケモン」グッズが発売！総柄が可愛いプルオーバーや、初代御三家たちの寝具類も",
+      "url": "http://www.gamespark.jp/article/2026/11/07/174602.html",
       "category": "game",
       "source": "GameSpark",
       "id": "9"
     },
     {
-      "title": "絵画の記憶をたどり、そこから生まれた存在と交流するADV『Lost Museum』や猫侍ACTなど6作を試遊できる！ハピネットが「デジゲー博2026」出展へ",
-      "url": "http://www.gamespark.jp/article/2026/11/06/174553.html",
+      "title": "老舗アップローダー「uploader.jp」「ux.getuploader.com」閉鎖まで約3週間、制作者の他サービス移行・引退宣言…影響広がる",
+      "url": "http://www.gamespark.jp/article/2026/11/07/174601.html",
       "category": "game",
       "source": "GameSpark",
       "id": "10"
     },
     {
-      "title": "『ウィザードリィ』に並ぶ「世界三大RPG」のひとつ『ウルティマ』シリーズ11作がSteamで配信開始！リチャード・ギャリオット氏は2027年に権利を再取得、新作への布石となるか…",
-      "url": "http://www.gamespark.jp/article/2026/11/06/174552.html",
+      "title": "2Dゾンビサバイバル『ZED ZONE』オンライン協力プレイに対応！1.0アップデート配信で新エリアやモードなども登場",
+      "url": "http://www.gamespark.jp/article/2026/11/07/174600.html",
       "category": "game",
       "source": "GameSpark",
       "id": "11"
     },
     {
-      "title": "『スト6』一番くじ第2弾が発表！挑発するようなケンやED、ラストワン賞には「JP フィギュア」も",
-      "url": "https://animeanime.jp/article/2026/11/06/104520.html",
+      "title": "ムーミンの保温・保冷バッグが登場！新ブランド「Funde」から行楽バッグやランチバッグなど全6商品を発売",
+      "url": "https://animeanime.jp/article/2026/11/07/104558.html",
       "category": "anime",
       "source": "アニメ!アニメ!",
       "id": "12"
