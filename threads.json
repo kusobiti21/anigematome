@@ -1,86 +1,86 @@
 {
-  "updated_at": "2026-11-13T02:28:33+00:00",
+  "updated_at": "2026-11-14T02:03:31+00:00",
   "threads": [
     {
-      "title": "「Stellar Blade」の楽曲を収録した4枚組LPボックスセット「Director’s Edition」が発売決定。限定カラー盤を含む2種類をラインナップ",
-      "url": "https://www.4gamer.net/games/035/G103535/20261113003/",
+      "title": "「ドラゴンクエスト」と「ファイナルファンタジー」のコラボイベントが開催中。両IPの人気キャラクターが，横浜・みなとみらいのクリスマスとニューイヤーを彩る",
+      "url": "https://www.4gamer.net/games/991/G999111/20261113057/",
       "category": "game",
       "source": "4Gamer",
       "id": "1"
     },
     {
-      "title": "三国志の武将を率いて戦うオートバトラー「三国志BOND」，無料版をSteamで配信開始。使用できる軍師などに制限はあるが，対人戦大会にも参加可能",
-      "url": "https://www.4gamer.net/games/008/G100845/20261112043/",
+      "title": "「ガールズ＆パンツァー 白熱！麻雀タッグバトルです！」，2027年内に発売。公式サイトと特報ムービーも公開に",
+      "url": "https://www.4gamer.net/games/058/G105833/20261113043/",
       "category": "game",
       "source": "4Gamer",
       "id": "2"
     },
     {
-      "title": "都市型オープンワールド「NTE」を，PCでもモバイルでもスムーズに動かす舞台裏。読み込みの1msまで制御する，ロード，NPC，影の最適化［Unreal Fest Tokyo 2026］",
-      "url": "https://www.4gamer.net/games/817/G081722/20261111021/",
+      "title": "プレイヤーの69％が集中するSteam上位1000タイトルの対応言語数は，中央値で10言語に。Newzooがゲームのローカライズ動向をまとめたレポート「Game Localization in 2026」を公開",
+      "url": "https://www.4gamer.net/games/991/G999101/20261112025/",
       "category": "game",
       "source": "4Gamer",
       "id": "3"
     },
     {
-      "title": "3D言語解読パズルアドベンチャー「ピックアドベンチャー」，全世界でのパブリッシングを松竹ゲームズが担当",
-      "url": "https://www.4gamer.net/games/989/G098948/20261112046/",
+      "title": "「モンスターハンター」のボウリングが登場。カプコン作品をテーマにした遊具が盛りだくさんの「MIRAINO イオンモール伊達店」が11月27日にオープン",
+      "url": "https://www.4gamer.net/games/991/G999111/20261114001/",
       "category": "game",
       "source": "4Gamer",
       "id": "4"
     },
     {
-      "title": "Steamで「まったく同じ名前＆ほぼ同時発売」だった2本のゲーム、今度はSwitch版を“同じ日”に発売へ。仲良しすぎて任天堂もちょっと困惑",
-      "url": "https://automaton-media.com/articles/newsjp/20261113-479045/",
+      "title": "ゲーム開発者による「木の後ろにキャラがいるとき、どう見せるか」談義が白熱。“木スケスケ技法”か“キャラシルエット化”か、隠れた難題",
+      "url": "https://automaton-media.com/articles/newsjp/20261113-479219/",
       "category": "game",
       "source": "AUTOMATON",
       "id": "5"
     },
     {
-      "title": "マルチ対応・日本ガソスタ夜勤ホラー『SANKAN』発表。頭に響く“客を殺せ”の声に抗うか従うか、死体を埋めたらまた接客",
-      "url": "https://automaton-media.com/articles/newsjp/20261113-479037/",
+      "title": "「ガルパン」の麻雀ゲーム『ガールズ＆パンツァー 白熱！麻雀タッグバトルです！』発表。戦いの舞台はなぜか麻雀、“味方持ち点平均化”“有効牌率アップ”など「特殊技」を駆使してタッグ打ち",
+      "url": "https://automaton-media.com/articles/newsjp/20261114-479244/",
       "category": "game",
       "source": "AUTOMATON",
       "id": "6"
     },
     {
-      "title": "『ゼルダの伝説 時のオカリナ』リメイク版の「リーデット」、開発中に怖くなりすぎたので“自主規制”されていた。それでもだいぶ怖い",
-      "url": "https://automaton-media.com/articles/newsjp/20261113-479030/",
+      "title": "龍が如く開発元新作『STRANGER THAN HEAVEN』、ヤクザ濃度がすごい「広島・呉編」映像お披露目。主人公も周りもゴリゴリ極道",
+      "url": "https://automaton-media.com/articles/newsjp/20261113-479233/",
       "category": "game",
       "source": "AUTOMATON",
       "id": "7"
     },
     {
-      "title": "AMDのRadeonグラボドライバーで発生していた「SSD無限酷使」不具合、修正バージョンがさっそく配信。RX 7000シリーズ以上の方は特に要チェック",
-      "url": "https://automaton-media.com/articles/newsjp/20261113-479025/",
+      "title": "『マインクラフト』には15年以上続く“ピストンドア研究学会”があるし、まだ技術革新している。もはや本当に学問、執念の4×4ドア小型化競争",
+      "url": "https://automaton-media.com/articles/newsjp/20261113-479203/",
       "category": "game",
       "source": "AUTOMATON",
       "id": "8"
     },
     {
-      "title": "本格派な美少女戦車ゲー『ガールズ＆パンツァー オールスター・タンク・カーニバル』PC/PS5/スイッチ2で2027年3月25日リリース！クロスプレイ対応でSteamにも",
-      "url": "http://www.gamespark.jp/article/2026/11/13/174823.html",
+      "title": "「ガルパン」が麻雀ゲームに！『ガールズ＆パンツァー 白熱！麻雀タッグバトルです！』PS5/スイッチ2で2027年発売―特殊技を駆使したタッグ打ちで30名登場",
+      "url": "http://www.gamespark.jp/article/2026/11/14/174865.html",
       "category": "game",
       "source": "GameSpark",
       "id": "9"
     },
     {
-      "title": "ターン制伝統的ローグライクとサバイバー系ゲームが融合！ 「懐かしさ」と「いま」を同時に味わえる『Delve Survivors』Steam配信開始",
-      "url": "http://www.gamespark.jp/article/2026/11/13/174822.html",
+      "title": "【LoL】Worlds名古屋開催ほか、First Standは「過去最大規模」へ拡大、MSIは初のスペイン開催―2027年のLoL Esportsロードマップが公開",
+      "url": "http://www.gamespark.jp/article/2026/11/14/174864.html",
       "category": "game",
       "source": "GameSpark",
       "id": "10"
     },
     {
-      "title": "【6,290円→0円】恐竜パーク経営シム『ジュラシック・ワールド・エボリューション2』Amazonプライム会員向けに無料配布！映画の名場面IFを体験できるモードも",
-      "url": "http://www.gamespark.jp/article/2026/11/13/174821.html",
+      "title": "【お知らせ】ゲーマーのためのトーク番組「Game*Sparkのラジオ善意X」11月14日22時より放送！",
+      "url": "http://www.gamespark.jp/article/2026/11/14/174863.html",
       "category": "game",
       "source": "GameSpark",
       "id": "11"
     },
     {
-      "title": "「ゴジラ」のミニソフビ食玩が再登場！ 原型デフォルメデザインは、数々の作品で怪獣やメカのデザインを担当した西川伸司氏♪",
-      "url": "https://animeanime.jp/article/2026/11/13/104737.html",
+      "title": "ディズニー最新作「ビリーと魔法のはじまり」オラフ、ヘイヘイ、ニブルズの次はこのキャラ！ 三つ目の猫“ビーフ”をご紹介",
+      "url": "https://animeanime.jp/article/2026/11/14/104764.html",
       "category": "anime",
       "source": "アニメ!アニメ!",
       "id": "12"
